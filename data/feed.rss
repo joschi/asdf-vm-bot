@@ -6,24 +6,6 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 iamlive 1.1.13 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install iamlive 1.1.13</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">iamlive-1.1.13</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 11 Jan 2025 08:12:09 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.7-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.7-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
-</item>
-<item>
   <title>🚀 zbctl 8.6.7-rc2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc2</code> to install it.</p>]]>
@@ -139,15 +121,6 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 woodpecker-cli 3.0.0-rc.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0-rc.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">woodpecker-cli-3.0.0-rc.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 14:10:11 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 3.0.0-rc1 is now available in asdf!</title>
@@ -429,13 +402,13 @@
   <pubDate>Tue, 03 Dec 2024 18:15:15 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.0-alpha.1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.7-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.0-alpha.1</guid>
+  <guid isPermaLink="false">zbctl-8.6.7-rc1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 16:14:55 +0000</pubDate>
+  <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.22.0-alpha.2 is now available in asdf!</title>
@@ -726,6 +699,15 @@
   <pubDate>Fri, 20 Dec 2024 08:14:45 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 woodpecker-cli 3.0.0-rc.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0-rc.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.0.0-rc.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Dec 2024 14:10:11 +0000</pubDate>
+</item>
+<item>
   <title>🚀 v weekly.2024.50 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.50</code> to install it.</p>]]>
@@ -996,13 +978,13 @@
   <pubDate>Fri, 22 Nov 2024 10:14:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <title>🚀 vcluster 0.22.0-alpha.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">unison-0.5.28</guid>
+  <guid isPermaLink="false">vcluster-0.22.0-alpha.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 16:14:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 unison 0.5.29 is now available in asdf!</title>
@@ -1293,15 +1275,6 @@
   <pubDate>Mon, 02 Dec 2024 14:11:31 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 traefik 3.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install traefik 3.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">traefik-3.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 12:19:06 +0000</pubDate>
-</item>
-<item>
   <title>🚀 traefik 3.3.1 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install traefik 3.3.1</code> to install it.</p>]]>
@@ -1579,6 +1552,15 @@
   <guid isPermaLink="false">typos-1.29.4</guid>
   <category>new-version</category>
   <pubDate>Fri, 03 Jan 2025 14:11:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.28</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tf 2.11.0 is now available in asdf!</title>
@@ -1867,6 +1849,24 @@
   <guid isPermaLink="false">traefik-3.3.0-rc2</guid>
   <category>new-version</category>
   <pubDate>Fri, 20 Dec 2024 12:17:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 traefik 3.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install traefik 3.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">traefik-3.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Jan 2025 12:19:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 22 Nov 2024 22:12:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.69.10 is now available in asdf!</title>
