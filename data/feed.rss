@@ -6,13 +6,22 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 nfpm 2.41.2 is now available in asdf!</title>
+  <title>🚀 sst 3.5.7 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install nfpm 2.41.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.5.7</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">nfpm-2.41.2</guid>
+  <guid isPermaLink="false">sst-3.5.7</guid>
   <category>new-version</category>
-  <pubDate>Sat, 11 Jan 2025 20:10:10 +0000</pubDate>
+  <pubDate>Sat, 11 Jan 2025 22:09:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 oc 3.11.1535-1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install oc 3.11.1535-1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">oc-3.11.1535-1</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 11 Jan 2025 22:08:49 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yt-dlp 2024.12.23 is now available in asdf!</title>
@@ -229,6 +238,15 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmer v5.0.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmer v5.0.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmer-v5.0.3</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 07 Dec 2024 20:11:39 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmer v5.0.4 is now available in asdf!</title>
@@ -798,24 +816,6 @@
   <pubDate>Fri, 22 Nov 2024 22:12:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 wasmer v5.0.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmer v5.0.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasmer-v5.0.3</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 07 Dec 2024 20:11:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 uv 0.5.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">uv-0.5.5</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 18:16:19 +0000</pubDate>
-</item>
-<item>
   <title>🚀 uv 0.5.6 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install uv 0.5.6</code> to install it.</p>]]>
@@ -1084,15 +1084,6 @@
   <guid isPermaLink="false">vcluster-0.19.9</guid>
   <category>new-version</category>
   <pubDate>Tue, 17 Dec 2024 20:15:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 typos 1.28.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install typos 1.28.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">typos-1.28.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 16:13:51 +0000</pubDate>
 </item>
 <item>
   <title>🚀 typos 1.28.3 is now available in asdf!</title>
@@ -1374,13 +1365,13 @@
   <pubDate>Wed, 20 Nov 2024 22:11:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 traefik 2.11.18 is now available in asdf!</title>
+  <title>🚀 uv 0.5.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install traefik 2.11.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">traefik-2.11.18</guid>
+  <guid isPermaLink="false">uv-0.5.5</guid>
   <category>new-version</category>
-  <pubDate>Tue, 07 Jan 2025 16:28:56 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 18:16:19 +0000</pubDate>
 </item>
 <item>
   <title>🚀 traefik 3.2.1 is now available in asdf!</title>
@@ -1662,22 +1653,13 @@
   <pubDate>Tue, 26 Nov 2024 18:15:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terramate 0.11.2 is now available in asdf!</title>
+  <title>🚀 typos 1.28.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install typos 1.28.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terramate-0.11.2</guid>
+  <guid isPermaLink="false">typos-1.28.2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 16:13:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terramate 0.11.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terramate-0.11.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 18:16:06 +0000</pubDate>
+  <pubDate>Mon, 02 Dec 2024 16:13:51 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terramate 0.11.4-rc1 is now available in asdf!</title>
@@ -1959,13 +1941,13 @@
   <pubDate>Mon, 06 Jan 2025 10:12:37 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terragrunt 0.68.10 is now available in asdf!</title>
+  <title>🚀 traefik 2.11.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.10</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install traefik 2.11.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terragrunt-0.68.10</guid>
+  <guid isPermaLink="false">traefik-2.11.18</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 18:13:11 +0000</pubDate>
+  <pubDate>Tue, 07 Jan 2025 16:28:56 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.68.12 is now available in asdf!</title>
@@ -2247,13 +2229,31 @@
   <pubDate>Fri, 10 Jan 2025 16:12:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 teleport-ent 17.0.0 is now available in asdf!</title>
+  <title>🚀 terramate 0.11.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">teleport-ent-17.0.0</guid>
+  <guid isPermaLink="false">terramate-0.11.2</guid>
   <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 00:46:50 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 16:13:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terramate 0.11.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terramate-0.11.3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 27 Nov 2024 18:16:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 teleport-ent 17.0.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-17.0.2</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 18:15:38 +0000</pubDate>
 </item>
   </channel>
 </rss>
