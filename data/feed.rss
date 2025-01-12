@@ -6,6 +6,24 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
+  <title>🚀 yt-dlp 2024.12.23 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.23</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yt-dlp-2024.12.23</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 24 Dec 2024 00:45:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.51.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
@@ -202,6 +220,15 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmtime v27.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v27.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v27.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 18:14:31 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmtime v28.0.0 is now available in asdf!</title>
@@ -463,24 +490,6 @@
   <guid isPermaLink="false">yt-dlp-2024.12.13</guid>
   <category>new-version</category>
   <pubDate>Fri, 13 Dec 2024 12:19:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yt-dlp 2024.12.23 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.23</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2024.12.23</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 24 Dec 2024 00:45:03 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">ytt-0.51.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
@@ -762,15 +771,6 @@
   <pubDate>Fri, 03 Jan 2025 20:12:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 wasmtime v27.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmtime v27.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasmtime-v27.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 18:14:31 +0000</pubDate>
-</item>
-<item>
   <title>🚀 uv 0.5.8 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install uv 0.5.8</code> to install it.</p>]]>
@@ -1048,15 +1048,6 @@
   <guid isPermaLink="false">vcluster-0.21.1</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 18:14:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 typos 1.29.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install typos 1.29.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">typos-1.29.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 31 Dec 2024 16:11:50 +0000</pubDate>
 </item>
 <item>
   <title>🚀 typos 1.29.1 is now available in asdf!</title>
@@ -1338,15 +1329,6 @@
   <pubDate>Sat, 07 Dec 2024 00:48:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 traefik 3.2.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install traefik 3.2.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">traefik-3.2.4</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 10:12:37 +0000</pubDate>
-</item>
-<item>
   <title>🚀 traefik 3.2.5 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install traefik 3.2.5</code> to install it.</p>]]>
@@ -1617,6 +1599,60 @@
   <pubDate>Mon, 16 Dec 2024 22:12:03 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 typos 1.29.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install typos 1.29.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">typos-1.29.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 31 Dec 2024 16:11:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terramate 0.11.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terramate-0.11.6</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 02 Jan 2025 18:14:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terramate 0.11.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terramate-0.11.7</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 07 Jan 2025 16:28:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tf 2.11.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tf 2.11.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tf-2.11.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 07 Jan 2025 18:14:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tf-summarize 0.3.14 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tf-summarize 0.3.14</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tf-summarize-0.3.14</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 30 Nov 2024 14:09:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
+</item>
+<item>
   <title>🚀 tfc-agent 1.17.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.2</code> to install it.</p>]]>
@@ -1840,6 +1876,78 @@
   <guid isPermaLink="false">traefik-3.2.3</guid>
   <category>new-version</category>
   <pubDate>Mon, 16 Dec 2024 12:20:26 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 traefik 3.2.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install traefik 3.2.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">traefik-3.2.4</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Jan 2025 10:12:37 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 22:11:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 22 Nov 2024 22:12:38 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.10</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 14:11:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.11</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 12 Dec 2024 20:14:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 12 Dec 2024 22:11:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.13 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.13</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.13</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 13 Dec 2024 18:14:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.69.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.69.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 27 Nov 2024 18:16:05 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.69.3 is now available in asdf!</title>
@@ -2067,49 +2175,49 @@
   <pubDate>Fri, 20 Dec 2024 16:12:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terramate 0.11.6 is now available in asdf!</title>
+  <title>🚀 teleport-ent 17.1.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.1.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terramate-0.11.6</guid>
+  <guid isPermaLink="false">teleport-ent-17.1.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 02 Jan 2025 18:14:03 +0000</pubDate>
+  <pubDate>Mon, 30 Dec 2024 18:13:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terramate 0.11.7 is now available in asdf!</title>
+  <title>🚀 teleport-ent 17.1.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.1.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terramate-0.11.7</guid>
+  <guid isPermaLink="false">teleport-ent-17.1.3</guid>
   <category>new-version</category>
-  <pubDate>Tue, 07 Jan 2025 16:28:51 +0000</pubDate>
+  <pubDate>Thu, 02 Jan 2025 20:11:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tf 2.11.0 is now available in asdf!</title>
+  <title>🚀 teleport-ent 17.1.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tf 2.11.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.1.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tf-2.11.0</guid>
+  <guid isPermaLink="false">teleport-ent-17.1.4</guid>
   <category>new-version</category>
-  <pubDate>Tue, 07 Jan 2025 18:14:13 +0000</pubDate>
+  <pubDate>Tue, 07 Jan 2025 08:13:56 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tf-summarize 0.3.14 is now available in asdf!</title>
+  <title>🚀 teleport-ent 17.1.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tf-summarize 0.3.14</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.1.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tf-summarize-0.3.14</guid>
+  <guid isPermaLink="false">teleport-ent-17.1.5</guid>
   <category>new-version</category>
-  <pubDate>Sat, 30 Nov 2024 14:09:35 +0000</pubDate>
+  <pubDate>Fri, 10 Jan 2025 20:13:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
+  <title>🚀 telepresence 2.20.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install telepresence 2.20.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
+  <guid isPermaLink="false">telepresence-2.20.3</guid>
   <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 18:16:01 +0000</pubDate>
 </item>
 <item>
   <title>🚀 telepresence 2.21.0 is now available in asdf!</title>
@@ -2146,114 +2254,6 @@
   <guid isPermaLink="false">temporal-1.2.0-versioning.0</guid>
   <category>new-version</category>
   <pubDate>Thu, 12 Dec 2024 20:14:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.0-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.0-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 18:14:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.0-rc2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0-rc2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.0-rc2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 20:13:44 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.0-rc3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0-rc3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.0-rc3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 18:15:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 10:12:48 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 04 Dec 2024 12:20:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 14:11:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 14:12:28 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.4</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 08 Jan 2025 12:20:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.11.0-alpha20241211 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.11.0-alpha20241211</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.11.0-alpha20241211</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 12:20:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.11.0-alpha20241218 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.11.0-alpha20241218</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.11.0-alpha20241218</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 14:12:28 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.11.0-alpha20250107 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.11.0-alpha20250107</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.11.0-alpha20250107</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 07 Jan 2025 15:19:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform-ls 0.36.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform-ls 0.36.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-ls-0.36.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 18:13:54 +0000</pubDate>
 </item>
   </channel>
 </rss>
