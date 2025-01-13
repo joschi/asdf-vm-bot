@@ -6,31 +6,58 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 gum 0.15.0 is now available in asdf!</title>
+  <title>🚀 shorebird 1.6.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install gum 0.15.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install shorebird 1.6.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">gum-0.15.0</guid>
+  <guid isPermaLink="false">shorebird-1.6.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 13 Jan 2025 20:09:48 +0000</pubDate>
+  <pubDate>Mon, 13 Jan 2025 22:10:05 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 glooctl v1.18.5 is now available in asdf!</title>
+  <title>🚀 oc 3.11.1537-1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install glooctl v1.18.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install oc 3.11.1537-1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">glooctl-v1.18.5</guid>
+  <guid isPermaLink="false">oc-3.11.1537-1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 13 Jan 2025 20:09:37 +0000</pubDate>
+  <pubDate>Mon, 13 Jan 2025 22:09:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dotenvx 1.33.0 is now available in asdf!</title>
+  <title>🚀 gitui 0.27.0-rc.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.33.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install gitui 0.27.0-rc.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dotenvx-1.33.0</guid>
+  <guid isPermaLink="false">gitui-0.27.0-rc.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 13 Jan 2025 20:09:22 +0000</pubDate>
+  <pubDate>Mon, 13 Jan 2025 22:08:37 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gam 7.02.08 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gam 7.02.08</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gam-7.02.08</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 13 Jan 2025 22:08:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 awscli 2.22.34 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 2.22.34</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">awscli-2.22.34</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 13 Jan 2025 22:07:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 awscli 1.36.39 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 1.36.39</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">awscli-1.36.39</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 13 Jan 2025 22:07:51 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
@@ -220,24 +247,6 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 woodpecker-cli 2.8.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 20:13:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 woodpecker-cli 2.8.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 00:45:57 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 2.8.2 is now available in asdf!</title>
@@ -780,6 +789,33 @@
   <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 woodpecker-cli 2.8.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-2.8.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 28 Nov 2024 20:13:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 2.8.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-2.8.1</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Dec 2024 00:45:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">v-weekly.2024.48</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
+</item>
+<item>
   <title>🚀 v weekly.2024.49 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.49</code> to install it.</p>]]>
@@ -1059,6 +1095,24 @@
   <pubDate>Fri, 22 Nov 2024 10:14:16 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 unison 0.5.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 02 Dec 2024 20:12:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.30 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.30</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.30</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Jan 2025 18:15:51 +0000</pubDate>
+</item>
+<item>
   <title>🚀 unison 0.5.31 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install unison 0.5.31</code> to install it.</p>]]>
@@ -1329,13 +1383,13 @@
   <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
+  <title>🚀 tree-sitter 0.24.6 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tree-sitter 0.24.6</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-weekly.2024.48</guid>
+  <guid isPermaLink="false">tree-sitter-0.24.6</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
+  <pubDate>Fri, 27 Dec 2024 04:12:53 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tree-sitter 0.24.7 is now available in asdf!</title>
@@ -1606,24 +1660,6 @@
   <guid isPermaLink="false">unison-0.5.28</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 unison 0.5.29 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.29</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">unison-0.5.29</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 20:12:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 unison 0.5.30 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.30</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">unison-0.5.30</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 09 Jan 2025 18:15:51 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tfc-agent 1.17.3 is now available in asdf!</title>
@@ -1912,15 +1948,6 @@
   <guid isPermaLink="false">tree-sitter-0.24.5</guid>
   <category>new-version</category>
   <pubDate>Wed, 11 Dec 2024 06:15:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tree-sitter 0.24.6 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tree-sitter 0.24.6</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tree-sitter-0.24.6</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 27 Dec 2024 04:12:53 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.69.13 is now available in asdf!</title>
@@ -2227,33 +2254,6 @@
   <guid isPermaLink="false">teleport-ent-17.1.5</guid>
   <category>new-version</category>
   <pubDate>Fri, 10 Jan 2025 20:13:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 telepresence 2.20.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install telepresence 2.20.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">telepresence-2.20.3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:16:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 telepresence 2.21.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install telepresence 2.21.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">telepresence-2.21.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 13 Dec 2024 12:18:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 telepresence 2.21.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install telepresence 2.21.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">telepresence-2.21.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 17 Dec 2024 12:21:21 +0000</pubDate>
 </item>
   </channel>
 </rss>
