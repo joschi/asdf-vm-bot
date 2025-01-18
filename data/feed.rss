@@ -6,6 +6,15 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
+  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
+</item>
+<item>
   <title>🚀 yt-dlp 2024.12.03 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.03</code> to install it.</p>]]>
@@ -283,6 +292,24 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmer v5.0.5-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmer v5.0.5-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmer-v5.0.5-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 03 Jan 2025 20:12:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmtime v27.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v27.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v27.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 18:14:31 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmtime v28.0.0 is now available in asdf!</title>
@@ -564,13 +591,13 @@
   <pubDate>Sun, 12 Jan 2025 04:14:28 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.5-rc.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.5-rc.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
+  <guid isPermaLink="false">vcluster-0.21.5-rc.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
+  <pubDate>Wed, 15 Jan 2025 18:13:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.21.5 is now available in asdf!</title>
@@ -852,22 +879,13 @@
   <pubDate>Tue, 17 Dec 2024 18:15:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 wasmer v5.0.5-rc1 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmer v5.0.5-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">wasmer-v5.0.5-rc1</guid>
+  <guid isPermaLink="false">v-weekly.2024.48</guid>
   <category>new-version</category>
-  <pubDate>Fri, 03 Jan 2025 20:12:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 wasmtime v27.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmtime v27.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasmtime-v27.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 18:14:31 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 v weekly.2024.49 is now available in asdf!</title>
@@ -1149,13 +1167,13 @@
   <pubDate>Thu, 09 Jan 2025 22:10:56 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.21.5-rc.2 is now available in asdf!</title>
+  <title>🚀 updatecli 0.88.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.5-rc.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.21.5-rc.2</guid>
+  <guid isPermaLink="false">updatecli-0.88.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 18:13:38 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 16:13:54 +0000</pubDate>
 </item>
 <item>
   <title>🚀 updatecli 0.88.1 is now available in asdf!</title>
@@ -1437,13 +1455,13 @@
   <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
+  <title>🚀 tsuru 1.24.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-weekly.2024.48</guid>
+  <guid isPermaLink="false">tsuru-1.24.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tsuru 1.24.2 is now available in asdf!</title>
@@ -1705,15 +1723,6 @@
   <guid isPermaLink="false">updatecli-0.87.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 25 Nov 2024 10:14:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 updatecli 0.88.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">updatecli-0.88.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 16:13:54 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tfswitch 1.2.4 is now available in asdf!</title>
@@ -2002,15 +2011,6 @@
   <guid isPermaLink="false">tsuru-1.24.0</guid>
   <category>new-version</category>
   <pubDate>Fri, 22 Nov 2024 16:13:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tsuru 1.24.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tsuru-1.24.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.71.2 is now available in asdf!</title>
