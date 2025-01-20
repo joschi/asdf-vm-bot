@@ -6,58 +6,58 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 sentry-cli 2.41.0 is now available in asdf!</title>
+  <title>🚀 woodpecker-cli 3.0.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sentry-cli 2.41.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sentry-cli-2.41.0</guid>
+  <guid isPermaLink="false">woodpecker-cli-3.0.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 14:10:24 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:13:54 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 scala 3.6.3 is now available in asdf!</title>
+  <title>🚀 starknet-devnet 0.2.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install scala 3.6.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install starknet-devnet 0.2.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">scala-3.6.3</guid>
+  <guid isPermaLink="false">starknet-devnet-0.2.4</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 14:10:21 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:13:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 jx 3.11.23 is now available in asdf!</title>
+  <title>🚀 powerpipe 1.2.0-alpha.202501201537 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.23</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.2.0-alpha.202501201537</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">jx-3.11.23</guid>
+  <guid isPermaLink="false">powerpipe-1.2.0-alpha.202501201537</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 14:09:26 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:12:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 glab 1.52.0 is now available in asdf!</title>
+  <title>🚀 kotlin 2.1.10-RC2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install glab 1.52.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install kotlin 2.1.10-RC2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">glab-1.52.0</guid>
+  <guid isPermaLink="false">kotlin-2.1.10-RC2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 14:08:57 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
+  <title>🚀 k3sup 0.13.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install k3sup 0.13.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.51.1</guid>
+  <guid isPermaLink="false">k3sup-0.13.8</guid>
   <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:11:49 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
+  <title>🚀 jx 3.11.24 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.24</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.18</guid>
+  <guid isPermaLink="false">jx-3.11.24</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 16:11:47 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.3.19 is now available in asdf!</title>
@@ -265,6 +265,24 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 2.8.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-2.8.3</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 12 Jan 2025 10:10:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 3.0.0-rc.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0-rc.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.0.0-rc.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Dec 2024 14:10:11 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 3.0.0-rc1 is now available in asdf!</title>
@@ -528,22 +546,22 @@
   <pubDate>Thu, 16 Jan 2025 00:42:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.2-rc.2 is now available in asdf!</title>
+  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.2-rc.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.2-rc.2</guid>
+  <guid isPermaLink="false">ytt-0.51.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 18:13:38 +0000</pubDate>
+  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.2-rc1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.2-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.2-rc1</guid>
+  <guid isPermaLink="false">zbctl-8.3.18</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jan 2025 22:10:56 +0000</pubDate>
+  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.22.2 is now available in asdf!</title>
@@ -787,42 +805,6 @@
   <guid isPermaLink="false">woodpecker-cli-2.8.2</guid>
   <category>new-version</category>
   <pubDate>Fri, 20 Dec 2024 08:14:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 woodpecker-cli 2.8.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.3</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 12 Jan 2025 10:10:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 woodpecker-cli 3.0.0-rc.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0-rc.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">woodpecker-cli-3.0.0-rc.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 14:10:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.16.13+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.13+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.16.13+ent</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 18:15:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.16.14+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.14+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.16.14+ent</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 20:12:21 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vault 1.17.10+ent is now available in asdf!</title>
@@ -1104,6 +1086,24 @@
   <pubDate>Thu, 02 Jan 2025 22:10:04 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 vcluster 0.22.2-rc.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.2-rc.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.2-rc.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 15 Jan 2025 18:13:38 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.2-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.2-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.2-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Jan 2025 22:10:56 +0000</pubDate>
+</item>
+<item>
   <title>🚀 uv 0.5.16 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install uv 0.5.16</code> to install it.</p>]]>
@@ -1372,6 +1372,24 @@
   <guid isPermaLink="false">vals-0.39.0</guid>
   <category>new-version</category>
   <pubDate>Thu, 16 Jan 2025 16:12:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vault 1.16.13+ent is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.13+ent</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vault-1.16.13+ent</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 18:15:16 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vault 1.16.14+ent is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.14+ent</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vault-1.16.14+ent</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 18 Dec 2024 20:12:21 +0000</pubDate>
 </item>
 <item>
   <title>🚀 typos 1.28.3 is now available in asdf!</title>
@@ -2193,15 +2211,6 @@
   <pubDate>Mon, 06 Jan 2025 10:12:37 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terragrunt 0.69.13 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.13</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.69.13</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 13 Dec 2024 18:14:43 +0000</pubDate>
-</item>
-<item>
   <title>🚀 terragrunt 0.69.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.2</code> to install it.</p>]]>
@@ -2245,15 +2254,6 @@
   <guid isPermaLink="false">terragrunt-0.69.7</guid>
   <category>new-version</category>
   <pubDate>Wed, 04 Dec 2024 14:12:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.69.8 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.8</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.69.8</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 05 Dec 2024 16:13:41 +0000</pubDate>
 </item>
   </channel>
 </rss>
