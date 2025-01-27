@@ -6,67 +6,112 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 powerpipe 1.2.0-alpha.202501271724 is now available in asdf!</title>
+  <title>🚀 editorconfig-checker 3.2.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.2.0-alpha.202501271724</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install editorconfig-checker 3.2.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">powerpipe-1.2.0-alpha.202501271724</guid>
+  <guid isPermaLink="false">editorconfig-checker-3.2.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:13:45 +0000</pubDate>
+  <pubDate>Mon, 27 Jan 2025 20:10:14 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 jx 3.11.29 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.12.06 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.29</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.06</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">jx-3.11.29</guid>
+  <guid isPermaLink="false">yt-dlp-2024.12.06</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:12:58 +0000</pubDate>
+  <pubDate>Fri, 06 Dec 2024 16:14:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 jx 3.11.28 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.12.13 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.28</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.13</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">jx-3.11.28</guid>
+  <guid isPermaLink="false">yt-dlp-2024.12.13</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:12:58 +0000</pubDate>
+  <pubDate>Fri, 13 Dec 2024 12:19:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 gam 7.03.01 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.12.23 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install gam 7.03.01</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.23</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">gam-7.03.01</guid>
+  <guid isPermaLink="false">yt-dlp-2024.12.23</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:12:25 +0000</pubDate>
+  <pubDate>Tue, 24 Dec 2024 00:45:03 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 conan 2.12.0 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2025.01.12 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install conan 2.12.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.12</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">conan-2.12.0</guid>
+  <guid isPermaLink="false">yt-dlp-2025.01.12</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:11:57 +0000</pubDate>
+  <pubDate>Mon, 13 Jan 2025 00:48:09 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 cockroach 25.1.0-beta.2 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2025.01.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install cockroach 25.1.0-beta.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">cockroach-25.1.0-beta.2</guid>
+  <guid isPermaLink="false">yt-dlp-2025.01.15</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:11:56 +0000</pubDate>
+  <pubDate>Thu, 16 Jan 2025 00:42:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 aws-nuke 3.45.0 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2025.01.26 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install aws-nuke 3.45.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.26</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">aws-nuke-3.45.0</guid>
+  <guid isPermaLink="false">yt-dlp-2025.01.26</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Jan 2025 18:11:38 +0000</pubDate>
+  <pubDate>Sun, 26 Jan 2025 04:12:14 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.51.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.3.18</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.3.19 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.19</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.3.19</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Jan 2025 16:13:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.14</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.14</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.15 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.15</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.15</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Jan 2025 18:14:10 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.5.10 is now available in asdf!</title>
@@ -249,6 +294,105 @@
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 woodpecker-cli 3.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 18 Jan 2025 22:10:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 3.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 20 Jan 2025 16:13:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.16.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.16.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 00:47:39 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.16.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.16.1</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.17.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.17.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.17.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.18.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.18.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.18.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 20 Jan 2025 20:11:09 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.19.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.19.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.19.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 21 Jan 2025 00:42:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.20.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.20.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.20.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 21 Jan 2025 22:10:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.22.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.22.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.22.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 22 Jan 2025 02:44:44 +0000</pubDate>
+</item>
+<item>
   <title>🚀 xcbeautify 2.23.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.23.0</code> to install it.</p>]]>
@@ -420,103 +564,85 @@
   <pubDate>Tue, 03 Dec 2024 22:11:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2024.12.06 is now available in asdf!</title>
+  <title>🚀 vcluster 0.23.0-alpha.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.06</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-alpha.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2024.12.06</guid>
+  <guid isPermaLink="false">vcluster-0.23.0-alpha.3</guid>
   <category>new-version</category>
-  <pubDate>Fri, 06 Dec 2024 16:14:17 +0000</pubDate>
+  <pubDate>Mon, 06 Jan 2025 18:14:04 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2024.12.13 is now available in asdf!</title>
+  <title>🚀 vcluster 0.23.0-alpha.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.13</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-alpha.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2024.12.13</guid>
+  <guid isPermaLink="false">vcluster-0.23.0-alpha.5</guid>
   <category>new-version</category>
-  <pubDate>Fri, 13 Dec 2024 12:19:16 +0000</pubDate>
+  <pubDate>Thu, 09 Jan 2025 04:14:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2024.12.23 is now available in asdf!</title>
+  <title>🚀 velero 1.15.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.23</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2024.12.23</guid>
+  <guid isPermaLink="false">velero-1.15.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 24 Dec 2024 00:45:03 +0000</pubDate>
+  <pubDate>Fri, 27 Dec 2024 06:14:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.01.12 is now available in asdf!</title>
+  <title>🚀 velero 1.15.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.12</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2025.01.12</guid>
+  <guid isPermaLink="false">velero-1.15.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 13 Jan 2025 00:48:09 +0000</pubDate>
+  <pubDate>Wed, 15 Jan 2025 12:17:42 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.01.15 is now available in asdf!</title>
+  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2025.01.15</guid>
+  <guid isPermaLink="false">vendir-0.43.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 16 Jan 2025 00:42:46 +0000</pubDate>
+  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.01.26 is now available in asdf!</title>
+  <title>🚀 vhs 0.9.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.01.26</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vhs 0.9.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2025.01.26</guid>
+  <guid isPermaLink="false">vhs-0.9.0</guid>
   <category>new-version</category>
-  <pubDate>Sun, 26 Jan 2025 04:12:14 +0000</pubDate>
+  <pubDate>Wed, 15 Jan 2025 20:13:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
+  <title>🚀 viddy 1.2.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install viddy 1.2.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.51.1</guid>
+  <guid isPermaLink="false">viddy-1.2.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
+  <pubDate>Sat, 16 Nov 2024 20:16:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
+  <title>🚀 viddy 1.3.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install viddy 1.3.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.18</guid>
+  <guid isPermaLink="false">viddy-1.3.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+  <pubDate>Fri, 29 Nov 2024 00:47:52 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.19 is now available in asdf!</title>
+  <title>🚀 wasi-sdk 25 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.19</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install wasi-sdk 25</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.19</guid>
+  <guid isPermaLink="false">wasi-sdk-25</guid>
   <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 16:13:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.14</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 18:14:10 +0000</pubDate>
+  <pubDate>Thu, 12 Dec 2024 00:47:05 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasm4 2.7.1 is now available in asdf!</title>
@@ -699,103 +825,94 @@
   <pubDate>Sat, 14 Dec 2024 00:45:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 3.0.0 is now available in asdf!</title>
+  <title>🚀 vault 1.18.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vault 1.18.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-3.0.0</guid>
+  <guid isPermaLink="false">vault-1.18.3</guid>
   <category>new-version</category>
-  <pubDate>Sat, 18 Jan 2025 22:10:50 +0000</pubDate>
+  <pubDate>Wed, 18 Dec 2024 18:15:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 3.0.1 is now available in asdf!</title>
+  <title>🚀 vcluster 0.19.8-beta.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8-beta.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-3.0.1</guid>
+  <guid isPermaLink="false">vcluster-0.19.8-beta.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 16:13:54 +0000</pubDate>
+  <pubDate>Fri, 22 Nov 2024 20:13:13 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.19.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <guid isPermaLink="false">vcluster-0.19.8</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 18:15:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.16.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.19.9-beta.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9-beta.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.16.0</guid>
+  <guid isPermaLink="false">vcluster-0.19.9-beta.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 00:47:39 +0000</pubDate>
+  <pubDate>Wed, 11 Dec 2024 16:14:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.16.1 is now available in asdf!</title>
+  <title>🚀 vcluster 0.19.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.16.1</guid>
+  <guid isPermaLink="false">vcluster-0.19.9</guid>
   <category>new-version</category>
-  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
+  <pubDate>Tue, 17 Dec 2024 20:15:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.17.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.20.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.17.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.20.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.17.0</guid>
+  <guid isPermaLink="false">vcluster-0.20.5</guid>
   <category>new-version</category>
-  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 08:16:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.18.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.18.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.18.0</guid>
+  <guid isPermaLink="false">vcluster-0.21.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 20:11:09 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.19.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.19.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.19.0</guid>
+  <guid isPermaLink="false">vcluster-0.21.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 00:42:40 +0000</pubDate>
+  <pubDate>Tue, 19 Nov 2024 18:14:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.20.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.20.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2-beta.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.20.0</guid>
+  <guid isPermaLink="false">vcluster-0.21.2-beta.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
+  <pubDate>Wed, 04 Dec 2024 22:13:11 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.21.0</guid>
+  <guid isPermaLink="false">vcluster-0.21.2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 22:10:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.22.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.22.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.22.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 22 Jan 2025 02:44:44 +0000</pubDate>
+  <pubDate>Thu, 05 Dec 2024 20:13:16 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.21.3 is now available in asdf!</title>
@@ -996,85 +1113,76 @@
   <pubDate>Thu, 26 Dec 2024 18:14:10 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.23.0-alpha.3 is now available in asdf!</title>
+  <title>🚀 uv 0.5.6 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-alpha.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.6</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.23.0-alpha.3</guid>
+  <guid isPermaLink="false">uv-0.5.6</guid>
   <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 18:14:04 +0000</pubDate>
+  <pubDate>Tue, 03 Dec 2024 22:11:14 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.23.0-alpha.5 is now available in asdf!</title>
+  <title>🚀 uv 0.5.7 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-alpha.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.7</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.23.0-alpha.5</guid>
+  <guid isPermaLink="false">uv-0.5.7</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jan 2025 04:14:40 +0000</pubDate>
+  <pubDate>Sat, 07 Dec 2024 00:48:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 velero 1.15.1 is now available in asdf!</title>
+  <title>🚀 uv 0.5.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">velero-1.15.1</guid>
+  <guid isPermaLink="false">uv-0.5.8</guid>
   <category>new-version</category>
-  <pubDate>Fri, 27 Dec 2024 06:14:36 +0000</pubDate>
+  <pubDate>Wed, 11 Dec 2024 16:14:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 velero 1.15.2 is now available in asdf!</title>
+  <title>🚀 uv 0.5.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">velero-1.15.2</guid>
+  <guid isPermaLink="false">uv-0.5.9</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 12:17:42 +0000</pubDate>
+  <pubDate>Sat, 14 Dec 2024 00:45:53 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
+  <title>🚀 v 0.4.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v 0.4.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vendir-0.43.0</guid>
+  <guid isPermaLink="false">v-0.4.9</guid>
   <category>new-version</category>
-  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
+  <pubDate>Sun, 22 Dec 2024 02:51:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vhs 0.9.0 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vhs 0.9.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vhs-0.9.0</guid>
+  <guid isPermaLink="false">v-weekly.2024.46</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 20:13:07 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 viddy 1.2.1 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.47 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install viddy 1.2.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.47</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">viddy-1.2.1</guid>
+  <guid isPermaLink="false">v-weekly.2024.47</guid>
   <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 20:16:59 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 viddy 1.3.0 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install viddy 1.3.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">viddy-1.3.0</guid>
+  <guid isPermaLink="false">v-weekly.2024.48</guid>
   <category>new-version</category>
-  <pubDate>Fri, 29 Nov 2024 00:47:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 wasi-sdk 25 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasi-sdk 25</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasi-sdk-25</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 12 Dec 2024 00:47:05 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 v weekly.2024.49 is now available in asdf!</title>
@@ -1266,94 +1374,67 @@
   <pubDate>Wed, 18 Dec 2024 18:15:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vault 1.18.3 is now available in asdf!</title>
+  <title>🚀 unison 0.5.31 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.18.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.31</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vault-1.18.3</guid>
+  <guid isPermaLink="false">unison-0.5.31</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 18:15:08 +0000</pubDate>
+  <pubDate>Thu, 09 Jan 2025 20:11:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.19.8-beta.1 is now available in asdf!</title>
+  <title>🚀 unison 0.5.32 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8-beta.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.32</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.19.8-beta.1</guid>
+  <guid isPermaLink="false">unison-0.5.32</guid>
   <category>new-version</category>
-  <pubDate>Fri, 22 Nov 2024 20:13:13 +0000</pubDate>
+  <pubDate>Tue, 14 Jan 2025 18:15:13 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.19.8 is now available in asdf!</title>
+  <title>🚀 updatecli 0.87.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.87.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.19.8</guid>
+  <guid isPermaLink="false">updatecli-0.87.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 18:15:55 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 10:14:11 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.19.9-beta.0 is now available in asdf!</title>
+  <title>🚀 updatecli 0.88.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9-beta.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.19.9-beta.0</guid>
+  <guid isPermaLink="false">updatecli-0.88.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 16:14:08 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 16:13:54 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.19.9 is now available in asdf!</title>
+  <title>🚀 updatecli 0.88.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.19.9</guid>
+  <guid isPermaLink="false">updatecli-0.88.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 17 Dec 2024 20:15:21 +0000</pubDate>
+  <pubDate>Mon, 02 Dec 2024 12:20:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.20.5 is now available in asdf!</title>
+  <title>🚀 updatecli 0.89.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.20.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.89.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.20.5</guid>
+  <guid isPermaLink="false">updatecli-0.89.0</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 08:16:46 +0000</pubDate>
+  <pubDate>Mon, 09 Dec 2024 08:16:23 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
+  <title>🚀 updatecli 0.90.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.90.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.21.0</guid>
+  <guid isPermaLink="false">updatecli-0.90.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 18:14:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2-beta.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.2-beta.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 04 Dec 2024 22:13:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 05 Dec 2024 20:13:16 +0000</pubDate>
+  <pubDate>Fri, 20 Dec 2024 12:17:42 +0000</pubDate>
 </item>
 <item>
   <title>🚀 updatecli 0.91.0 is now available in asdf!</title>
@@ -1581,76 +1662,67 @@
   <pubDate>Wed, 27 Nov 2024 18:16:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.6 is now available in asdf!</title>
+  <title>🚀 trivy 0.58.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">uv-0.5.6</guid>
+  <guid isPermaLink="false">trivy-0.58.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 22:11:14 +0000</pubDate>
+  <pubDate>Tue, 03 Dec 2024 20:12:53 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.7 is now available in asdf!</title>
+  <title>🚀 trivy 0.58.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">uv-0.5.7</guid>
+  <guid isPermaLink="false">trivy-0.58.1</guid>
   <category>new-version</category>
-  <pubDate>Sat, 07 Dec 2024 00:48:08 +0000</pubDate>
+  <pubDate>Tue, 24 Dec 2024 10:11:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.8 is now available in asdf!</title>
+  <title>🚀 trivy 0.58.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">uv-0.5.8</guid>
+  <guid isPermaLink="false">trivy-0.58.2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 16:14:07 +0000</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:14:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.9 is now available in asdf!</title>
+  <title>🚀 tsuru 1.24.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">uv-0.5.9</guid>
+  <guid isPermaLink="false">tsuru-1.24.0</guid>
   <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 00:45:53 +0000</pubDate>
+  <pubDate>Fri, 22 Nov 2024 16:13:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v 0.4.9 is now available in asdf!</title>
+  <title>🚀 tsuru 1.24.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v 0.4.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-0.4.9</guid>
+  <guid isPermaLink="false">tsuru-1.24.1</guid>
   <category>new-version</category>
-  <pubDate>Sun, 22 Dec 2024 02:51:30 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
+  <title>🚀 tsuru 1.24.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-weekly.2024.46</guid>
+  <guid isPermaLink="false">tsuru-1.24.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v weekly.2024.47 is now available in asdf!</title>
+  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.47</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-weekly.2024.47</guid>
+  <guid isPermaLink="false">tuist-4.34.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.48</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tuist 4.34.1 is now available in asdf!</title>
@@ -1878,67 +1950,58 @@
   <pubDate>Thu, 09 Jan 2025 18:15:51 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 unison 0.5.31 is now available in asdf!</title>
+  <title>🚀 tfsec 1.28.12 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.31</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tfsec 1.28.12</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">unison-0.5.31</guid>
+  <guid isPermaLink="false">tfsec-1.28.12</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jan 2025 20:11:46 +0000</pubDate>
+  <pubDate>Fri, 03 Jan 2025 02:44:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 unison 0.5.32 is now available in asdf!</title>
+  <title>🚀 tfsec 1.28.13 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.32</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tfsec 1.28.13</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">unison-0.5.32</guid>
+  <guid isPermaLink="false">tfsec-1.28.13</guid>
   <category>new-version</category>
-  <pubDate>Tue, 14 Jan 2025 18:15:13 +0000</pubDate>
+  <pubDate>Sat, 11 Jan 2025 06:13:47 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 updatecli 0.87.0 is now available in asdf!</title>
+  <title>🚀 tfswitch 1.2.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.87.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tfswitch 1.2.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">updatecli-0.87.0</guid>
+  <guid isPermaLink="false">tfswitch-1.2.4</guid>
   <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 10:14:11 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 00:45:23 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 updatecli 0.88.0 is now available in asdf!</title>
+  <title>🚀 tfswitch 1.3.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tfswitch 1.3.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">updatecli-0.88.0</guid>
+  <guid isPermaLink="false">tfswitch-1.3.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 16:13:54 +0000</pubDate>
+  <pubDate>Sun, 26 Jan 2025 22:10:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 updatecli 0.88.1 is now available in asdf!</title>
+  <title>🚀 tilt 0.33.22 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.88.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tilt 0.33.22</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">updatecli-0.88.1</guid>
+  <guid isPermaLink="false">tilt-0.33.22</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 12:20:40 +0000</pubDate>
+  <pubDate>Sat, 04 Jan 2025 00:42:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 updatecli 0.89.0 is now available in asdf!</title>
+  <title>🚀 timoni 0.23.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.89.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install timoni 0.23.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">updatecli-0.89.0</guid>
+  <guid isPermaLink="false">timoni-0.23.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 09 Dec 2024 08:16:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 updatecli 0.90.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.90.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">updatecli-0.90.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 20 Dec 2024 12:17:42 +0000</pubDate>
+  <pubDate>Mon, 16 Dec 2024 14:11:26 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tinytex 2024.12 is now available in asdf!</title>
@@ -2166,94 +2229,31 @@
   <pubDate>Mon, 18 Nov 2024 12:21:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 trivy 0.58.0 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.71.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.71.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">trivy-0.58.0</guid>
+  <guid isPermaLink="false">terragrunt-0.71.5</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 20:12:53 +0000</pubDate>
+  <pubDate>Thu, 09 Jan 2025 22:10:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 trivy 0.58.1 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.72.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.72.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">trivy-0.58.1</guid>
+  <guid isPermaLink="false">terragrunt-0.72.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 24 Dec 2024 10:11:16 +0000</pubDate>
+  <pubDate>Fri, 10 Jan 2025 16:12:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 trivy 0.58.2 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.72.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.72.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">trivy-0.58.2</guid>
+  <guid isPermaLink="false">terragrunt-0.72.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 14 Jan 2025 08:14:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tsuru 1.24.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tsuru-1.24.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 22 Nov 2024 16:13:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tsuru 1.24.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tsuru-1.24.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tsuru 1.24.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tsuru 1.24.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tsuru-1.24.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 20:12:38 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.34.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terramate 0.11.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terramate-0.11.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 16:13:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terramate 0.11.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terramate-0.11.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 18:16:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terramate 0.11.4-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terramate 0.11.4-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terramate-0.11.4-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 29 Nov 2024 20:12:12 +0000</pubDate>
+  <pubDate>Wed, 15 Jan 2025 16:12:08 +0000</pubDate>
 </item>
   </channel>
 </rss>
