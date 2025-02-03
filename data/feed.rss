@@ -6,31 +6,22 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 tfcmt 4.14.2 is now available in asdf!</title>
+  <title>🚀 rust-analyzer 2025-02-03 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfcmt 4.14.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2025-02-03</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tfcmt-4.14.2</guid>
+  <guid isPermaLink="false">rust-analyzer-2025-02-03</guid>
   <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 06:14:33 +0000</pubDate>
+  <pubDate>Mon, 03 Feb 2025 08:14:09 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 hishtory 0.330 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.12 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install hishtory 0.330</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.12</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">hishtory-0.330</guid>
+  <guid isPermaLink="false">zbctl-8.5.12</guid>
   <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 06:13:20 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 hishtory 0.329 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install hishtory 0.329</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">hishtory-0.329</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 06:13:20 +0000</pubDate>
+  <pubDate>Thu, 16 Jan 2025 18:13:43 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.3-optimize is now available in asdf!</title>
@@ -490,15 +481,6 @@
   <guid isPermaLink="false">zbctl-8.5.11</guid>
   <category>new-version</category>
   <pubDate>Mon, 06 Jan 2025 18:14:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.12</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 16 Jan 2025 18:13:43 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmer v5.0.3 is now available in asdf!</title>
@@ -1075,6 +1057,15 @@
   <guid isPermaLink="false">wasmer-v5.0.2</guid>
   <category>new-version</category>
   <pubDate>Fri, 22 Nov 2024 22:12:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 v weekly.2025.05 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2025.05</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">v-weekly.2025.05</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 01 Feb 2025 18:12:02 +0000</pubDate>
 </item>
 <item>
   <title>🚀 v weekly.2025.1 is now available in asdf!</title>
@@ -1671,15 +1662,6 @@
   <pubDate>Sun, 26 Jan 2025 12:16:02 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 v weekly.2025.05 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2025.05</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2025.05</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 01 Feb 2025 18:12:02 +0000</pubDate>
-</item>
-<item>
   <title>🚀 tuist 4.39.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install tuist 4.39.0</code> to install it.</p>]]>
@@ -2254,6 +2236,24 @@
   <guid isPermaLink="false">tuist-4.38.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 17 Dec 2024 18:15:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 4.38.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.38.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-4.38.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 18 Dec 2024 10:12:37 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 4.38.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.38.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-4.38.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 24 Dec 2024 18:13:44 +0000</pubDate>
 </item>
   </channel>
 </rss>
