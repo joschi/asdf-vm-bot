@@ -6,49 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 terraform 1.11.0-beta2 is now available in asdf!</title>
+  <title>🚀 typst 0.13.0-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.11.0-beta2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install typst 0.13.0-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terraform-1.11.0-beta2</guid>
+  <guid isPermaLink="false">typst-0.13.0-rc1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 05 Feb 2025 12:19:46 +0000</pubDate>
+  <pubDate>Wed, 05 Feb 2025 14:10:39 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 mongosh 2.3.9 is now available in asdf!</title>
+  <title>🚀 pixi 0.41.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install mongosh 2.3.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pixi 0.41.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">mongosh-2.3.9</guid>
+  <guid isPermaLink="false">pixi-0.41.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 05 Feb 2025 12:18:39 +0000</pubDate>
+  <pubDate>Wed, 05 Feb 2025 14:09:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kubeone 1.9.2 is now available in asdf!</title>
+  <title>🚀 devpod-cli 0.6.11 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kubeone 1.9.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install devpod-cli 0.6.11</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kubeone-1.9.2</guid>
+  <guid isPermaLink="false">devpod-cli-0.6.11</guid>
   <category>new-version</category>
-  <pubDate>Wed, 05 Feb 2025 12:18:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 cloudflared 2025.2.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install cloudflared 2025.2.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">cloudflared-2025.2.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Feb 2025 12:16:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 135.0.6999.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 135.0.6999.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-135.0.6999.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Feb 2025 12:16:28 +0000</pubDate>
+  <pubDate>Wed, 05 Feb 2025 14:08:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.7-rc2 is now available in asdf!</title>
@@ -510,6 +492,24 @@
   <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 wasmtime v29.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v29.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v29.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 20 Jan 2025 20:11:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmtime v29.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v29.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v29.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 22 Jan 2025 00:43:53 +0000</pubDate>
+</item>
+<item>
   <title>🚀 watchexec 2.2.1 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install watchexec 2.2.1</code> to install it.</p>]]>
@@ -798,6 +798,15 @@
   <pubDate>Mon, 16 Dec 2024 18:15:35 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 vcluster 0.22.0-beta.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-beta.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.0-beta.3</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 16 Dec 2024 22:12:07 +0000</pubDate>
+</item>
+<item>
   <title>🚀 vcluster 0.22.0-beta.4 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-beta.4</code> to install it.</p>]]>
@@ -1059,22 +1068,13 @@
   <pubDate>Wed, 15 Jan 2025 00:42:39 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 wasmtime v29.0.0 is now available in asdf!</title>
+  <title>🚀 vault 1.16.14+ent is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmtime v29.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.14+ent</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">wasmtime-v29.0.0</guid>
+  <guid isPermaLink="false">vault-1.16.14+ent</guid>
   <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 20:11:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 wasmtime v29.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmtime v29.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasmtime-v29.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 22 Jan 2025 00:43:53 +0000</pubDate>
+  <pubDate>Wed, 18 Dec 2024 20:12:21 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vault 1.16.15+ent is now available in asdf!</title>
@@ -1365,13 +1365,13 @@
   <pubDate>Mon, 16 Dec 2024 18:15:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.0-beta.3 is now available in asdf!</title>
+  <title>🚀 uv 0.5.25 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-beta.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.25</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.0-beta.3</guid>
+  <guid isPermaLink="false">uv-0.5.25</guid>
   <category>new-version</category>
-  <pubDate>Mon, 16 Dec 2024 22:12:07 +0000</pubDate>
+  <pubDate>Wed, 29 Jan 2025 00:42:52 +0000</pubDate>
 </item>
 <item>
   <title>🚀 uv 0.5.26 is now available in asdf!</title>
@@ -1662,15 +1662,6 @@
   <pubDate>Thu, 21 Nov 2024 18:15:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vault 1.16.14+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.14+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.16.14+ent</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 20:12:21 +0000</pubDate>
-</item>
-<item>
   <title>🚀 unison 0.5.29 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install unison 0.5.29</code> to install it.</p>]]>
@@ -1959,24 +1950,6 @@
   <pubDate>Fri, 24 Jan 2025 00:42:28 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.25 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.25</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">uv-0.5.25</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 29 Jan 2025 00:42:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 trivy 0.58.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">trivy-0.58.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 24 Dec 2024 10:11:16 +0000</pubDate>
-</item>
-<item>
   <title>🚀 trivy 0.58.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install trivy 0.58.2</code> to install it.</p>]]>
@@ -2254,6 +2227,33 @@
   <guid isPermaLink="false">typos-1.29.5</guid>
   <category>new-version</category>
   <pubDate>Thu, 30 Jan 2025 22:10:20 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.28</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 timoni 0.23.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install timoni 0.23.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">timoni-0.23.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 16 Dec 2024 14:11:26 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tinytex 2024.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tinytex 2024.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tinytex-2024.12</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 01 Dec 2024 08:13:37 +0000</pubDate>
 </item>
   </channel>
 </rss>
