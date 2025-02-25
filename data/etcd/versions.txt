@@ -220,6 +220,7 @@
 3.4.33
 3.4.34
 3.4.35
+3.4.36
 3.4.4
 3.4.5
 3.4.6
@@ -255,6 +256,7 @@
 3.5.9
 3.6.0-alpha.0
 3.6.0-rc.0
+3.6.0-rc.1
 api/v3.5.0
 api/v3.5.0-alpha.0
 api/v3.5.0-beta.2
@@ -282,6 +284,7 @@ api/v3.5.8
 api/v3.5.9
 api/v3.6.0-alpha.0
 api/v3.6.0-rc.0
+api/v3.6.0-rc.1
 client/pkg/v3.5.0
 client/pkg/v3.5.0-beta.2
 client/pkg/v3.5.0-beta.3
@@ -308,6 +311,7 @@ client/pkg/v3.5.8
 client/pkg/v3.5.9
 client/pkg/v3.6.0-alpha.0
 client/pkg/v3.6.0-rc.0
+client/pkg/v3.6.0-rc.1
 client/v2.305.0
 client/v2.305.0-alpha.0
 client/v2.305.0-beta.2
@@ -335,6 +339,7 @@ client/v2.305.8
 client/v2.305.9
 client/v2.306.0-alpha.0
 client/v2.306.0-rc.0
+client/v2.306.0-rc.1
 client/v3.5.0
 client/v3.5.0-alpha.0
 client/v3.5.0-beta.2
@@ -362,6 +367,7 @@ client/v3.5.8
 client/v3.5.9
 client/v3.6.0-alpha.0
 client/v3.6.0-rc.0
+client/v3.6.0-rc.1
 etcdctl/v3.5.0
 etcdctl/v3.5.0-alpha.0
 etcdctl/v3.5.0-beta.2
@@ -389,6 +395,7 @@ etcdctl/v3.5.8
 etcdctl/v3.5.9
 etcdctl/v3.6.0-alpha.0
 etcdctl/v3.6.0-rc.0
+etcdctl/v3.6.0-rc.1
 etcdutl/v3.5.0
 etcdutl/v3.5.0-beta.2
 etcdutl/v3.5.0-beta.3
@@ -415,6 +422,7 @@ etcdutl/v3.5.8
 etcdutl/v3.5.9
 etcdutl/v3.6.0-alpha.0
 etcdutl/v3.6.0-rc.0
+etcdutl/v3.6.0-rc.1
 pkg/v3.5.0
 pkg/v3.5.0-alpha.0
 pkg/v3.5.0-beta.2
@@ -442,6 +450,7 @@ pkg/v3.5.8
 pkg/v3.5.9
 pkg/v3.6.0-alpha.0
 pkg/v3.6.0-rc.0
+pkg/v3.6.0-rc.1
 raft/v3.5.0
 raft/v3.5.0-alpha.0
 raft/v3.5.0-beta.2
@@ -495,6 +504,7 @@ server/v3.5.8
 server/v3.5.9
 server/v3.6.0-alpha.0
 server/v3.6.0-rc.0
+server/v3.6.0-rc.1
 tests/v3.5.0
 tests/v3.5.0-alpha.0
 tests/v3.5.0-beta.2
@@ -522,6 +532,7 @@ tests/v3.5.8
 tests/v3.5.9
 tests/v3.6.0-alpha.0
 tests/v3.6.0-rc.0
+tests/v3.6.0-rc.1
 v3.2.27
 v3.2.28
 v3.2.29
