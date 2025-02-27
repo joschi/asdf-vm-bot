@@ -6,40 +6,76 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 terragrunt 0.73.15 is now available in asdf!</title>
+  <title>🚀 spark 3.5.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.73.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install spark 3.5.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terragrunt-0.73.15</guid>
+  <guid isPermaLink="false">spark-3.5.5</guid>
   <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 10:13:35 +0000</pubDate>
+  <pubDate>Thu, 27 Feb 2025 12:18:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 starboard 0.15.24 is now available in asdf!</title>
+  <title>🚀 pulumi 3.153.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install starboard 0.15.24</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pulumi 3.153.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">starboard-0.15.24</guid>
+  <guid isPermaLink="false">pulumi-3.153.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 10:13:20 +0000</pubDate>
+  <pubDate>Thu, 27 Feb 2025 12:18:29 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 eza 0.20.23 is now available in asdf!</title>
+  <title>🚀 k0sctl 0.23.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install eza 0.20.23</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install k0sctl 0.23.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">eza-0.20.23</guid>
+  <guid isPermaLink="false">k0sctl-0.23.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 10:10:57 +0000</pubDate>
+  <pubDate>Thu, 27 Feb 2025 12:17:42 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 elixir-ls 0.27.0 is now available in asdf!</title>
+  <title>🚀 dynatrace-monaco 2.20.0-dev.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install elixir-ls 0.27.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install dynatrace-monaco 2.20.0-dev.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">elixir-ls-0.27.0</guid>
+  <guid isPermaLink="false">dynatrace-monaco-2.20.0-dev.1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 10:10:53 +0000</pubDate>
+  <pubDate>Thu, 27 Feb 2025 12:17:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 cloudflared 2025.2.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install cloudflared 2025.2.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">cloudflared-2025.2.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 27 Feb 2025 12:16:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 chromedriver 135.0.7039.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 135.0.7039.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">chromedriver-135.0.7039.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 27 Feb 2025 12:16:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.8</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Feb 2025 18:14:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.9-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.9-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.9-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 11 Feb 2025 14:12:30 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.9 is now available in asdf!</title>
@@ -247,6 +283,15 @@
   <guid isPermaLink="false">zoxide-0.9.7</guid>
   <category>new-version</category>
   <pubDate>Sun, 09 Feb 2025 22:09:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yq 4.44.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.44.6</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 07 Dec 2024 08:15:20 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yq 4.45.1 is now available in asdf!</title>
@@ -537,22 +582,13 @@
   <pubDate>Mon, 03 Feb 2025 20:13:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.8 is now available in asdf!</title>
+  <title>🚀 xcbeautify 2.18.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.18.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.8</guid>
+  <guid isPermaLink="false">xcbeautify-2.18.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 04 Feb 2025 18:14:03 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.9-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.9-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.9-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 11 Feb 2025 14:12:30 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 20:11:09 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.19.0 is now available in asdf!</title>
@@ -843,13 +879,13 @@
   <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yq 4.44.6 is now available in asdf!</title>
+  <title>🚀 wasmtime v30.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v30.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yq-4.44.6</guid>
+  <guid isPermaLink="false">wasmtime-v30.0.0</guid>
   <category>new-version</category>
-  <pubDate>Sat, 07 Dec 2024 08:15:20 +0000</pubDate>
+  <pubDate>Thu, 20 Feb 2025 04:13:33 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmtime v30.0.1 is now available in asdf!</title>
@@ -1131,15 +1167,6 @@
   <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.18.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.18.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.18.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 20:11:09 +0000</pubDate>
-</item>
-<item>
   <title>🚀 vcluster 0.23.0-alpha.8 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-alpha.8</code> to install it.</p>]]>
@@ -1417,15 +1444,6 @@
   <guid isPermaLink="false">wasmtime-v29.0.1</guid>
   <category>new-version</category>
   <pubDate>Wed, 22 Jan 2025 00:43:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 wasmtime v30.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install wasmtime v30.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">wasmtime-v30.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 20 Feb 2025 04:13:33 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
@@ -2236,24 +2254,6 @@
   <guid isPermaLink="false">vale-3.9.1</guid>
   <category>new-version</category>
   <pubDate>Mon, 18 Nov 2024 10:13:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vale 3.9.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vale 3.9.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vale-3.9.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 25 Dec 2024 18:13:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vale 3.9.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vale 3.9.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vale-3.9.3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 02 Jan 2025 04:14:22 +0000</pubDate>
 </item>
   </channel>
 </rss>
