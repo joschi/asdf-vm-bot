@@ -93,6 +93,7 @@
 1.42.99
 2013_switch_to_git
 beforerelease
+dev
 hledger-0.1
 hledger-0.10.0
 hledger-0.11.0
@@ -504,5 +505,6 @@ hledger-web-1.9
 hledger-web-1.9.1
 hledger-web-1.9.2
 hledger{,-vty,-chart}-0_15_1,_hledger-web-0_15_2
+nightly
 preslow
 slow
