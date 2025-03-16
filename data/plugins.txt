@@ -22,6 +22,7 @@ apko
 apollo-ios-cli
 apollo-router
 arc
+argc
 argo
 argo-rollouts
 argocd
@@ -31,6 +32,7 @@ asciidoctorj
 asdf-plugin-manager
 assh
 atlas
+atmos
 auth0-cli
 auto-doc
 avalanche
@@ -64,6 +66,7 @@ bbr
 bbr-s3-config-validator
 benthos
 bfs
+binaryen
 binnacle
 bitwarden
 bitwarden-secrets-manager
@@ -82,6 +85,7 @@ bundler
 c3
 cabal
 caddy
+cairo-profiler
 calendarsync
 calicoctl
 camunda-modeler
@@ -187,6 +191,7 @@ dprint
 draft
 driftctl
 drone
+dst
 dt
 dtm
 duf
@@ -251,11 +256,13 @@ getenvoy
 ghc
 ghidra
 ghorg
+ghostty
 ghq
 ginkgo
 git
 git-chglog
 git-cliff
+git-lfs
 gitconfig
 github-cli
 github-markdown-toc
@@ -308,6 +315,7 @@ hasura-cli
 haxe
 hcl2json
 hcloud
+hcp
 helix-editor
 helm
 helm-cr
@@ -316,6 +324,7 @@ helm-diff
 helm-docs
 helmfile
 helmsman
+hermes
 heroku-cli
 hey
 hishtory
@@ -413,6 +422,7 @@ kubectl
 kubectl-bindrole
 kubectl-convert
 kubectl-kots
+kubectl-oidc_login
 kubectx
 kubefedctl
 kubefirst
@@ -449,6 +459,7 @@ liquibase
 litestream
 logtalk
 loki-logcli
+lq
 ls-lint
 lua
 lua-language-server
@@ -614,6 +625,7 @@ ruby
 ruff
 rust
 rust-analyzer
+rustic
 rye
 saml2aws
 sbcl
@@ -663,6 +675,7 @@ spin
 spotbugs
 spring-boot
 spruce
+sqlc
 sqldef
 sqlite
 sshuttle
@@ -682,6 +695,7 @@ stratus-red-team
 stripe-cli
 stylua
 sui
+supabase-cli
 sver
 svu
 swag
