@@ -11,6 +11,7 @@ agebox
 air
 aks-engine
 alias
+alire
 allure
 alp
 amass
@@ -67,9 +68,11 @@ bbr-s3-config-validator
 benthos
 bfs
 binaryen
+bingo
 binnacle
 bitwarden
 bitwarden-secrets-manager
+boilerplate
 bombardier
 borg
 bosh
@@ -85,6 +88,7 @@ bundler
 c3
 cabal
 caddy
+cairo-coverage
 cairo-profiler
 calendarsync
 calicoctl
@@ -223,8 +227,10 @@ evans
 exa
 exercism
 eza
+falco
 fastlane
 fd
+ffizer
 ffmpeg
 figma-export
 fillin
@@ -591,6 +597,7 @@ purescript
 purty
 python
 qdns
+qsv
 quarkus
 r
 rabbitmq
@@ -653,6 +660,7 @@ shellcheck
 shellspec
 shfmt
 shorebird
+signal-cli
 sinker
 skaffold
 skate
@@ -815,6 +823,7 @@ yamlfmt
 yamllint
 yamlscript
 yarn
+yasm
 yay
 yj
 yor
