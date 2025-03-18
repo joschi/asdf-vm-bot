@@ -6,103 +6,40 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 quarkus 3.15.4 is now available in asdf!</title>
+  <title>🚀 gcloud 515.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install quarkus 3.15.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install gcloud 515.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">quarkus-3.15.4</guid>
+  <guid isPermaLink="false">gcloud-515.0.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:19:13 +0000</pubDate>
+  <pubDate>Tue, 18 Mar 2025 14:10:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 please 17.15.1 is now available in asdf!</title>
+  <title>🚀 codeql 2.20.7 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install please 17.15.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install codeql 2.20.7</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">please-17.15.1</guid>
+  <guid isPermaLink="false">codeql-2.20.7</guid>
   <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:19:06 +0000</pubDate>
+  <pubDate>Tue, 18 Mar 2025 14:09:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 oci 3.53.0 is now available in asdf!</title>
+  <title>🚀 aws-nuke 3.50.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install oci 3.53.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install aws-nuke 3.50.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">oci-3.53.0</guid>
+  <guid isPermaLink="false">aws-nuke-3.50.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:18:57 +0000</pubDate>
+  <pubDate>Tue, 18 Mar 2025 14:09:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka apache-4.0.0 is now available in asdf!</title>
+  <title>🚀 aws-nuke 3.49.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka apache-4.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install aws-nuke 3.49.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-apache-4.0.0</guid>
+  <guid isPermaLink="false">aws-nuke-3.49.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:18:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 jx 3.11.66 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.66</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">jx-3.11.66</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:18:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 benthos 4.50.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install benthos 4.50.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">benthos-4.50.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 18 Mar 2025 12:17:09 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha4-rc2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4-rc2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha4-rc2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 06 Feb 2025 16:11:41 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha4-rc3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4-rc3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha4-rc3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 10 Feb 2025 12:20:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha4</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 07 Feb 2025 12:18:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha5-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 08:16:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
+  <pubDate>Tue, 18 Mar 2025 14:09:26 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.0-alpha5 is now available in asdf!</title>
@@ -211,51 +148,6 @@
   <guid isPermaLink="false">zoxide-0.9.7</guid>
   <category>new-version</category>
   <pubDate>Sun, 09 Feb 2025 22:09:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.15</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 14 Feb 2025 14:10:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.16 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.16</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.16</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.10 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.10</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 18:14:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 16:18:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-test-SNAPSHOT is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 14 Mar 2025 22:10:59 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.11 is now available in asdf!</title>
@@ -501,22 +393,49 @@
   <pubDate>Thu, 30 Jan 2025 16:14:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlscript w1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha4-rc2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript w1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4-rc2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlscript-w1</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha4-rc2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
+  <pubDate>Thu, 06 Feb 2025 16:11:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yasm 1.3.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha4-rc3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yasm 1.3.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4-rc3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yasm-1.3.0</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha4-rc3</guid>
   <category>new-version</category>
-  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
+  <pubDate>Mon, 10 Feb 2025 12:20:31 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha4</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 07 Feb 2025 12:18:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha5-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 05 Mar 2025 08:16:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yor 0.1.200 is now available in asdf!</title>
@@ -771,22 +690,49 @@
   <pubDate>Tue, 11 Feb 2025 12:18:53 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.23.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.23.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.23.0</guid>
+  <guid isPermaLink="false">zbctl-8.5.15</guid>
   <category>new-version</category>
-  <pubDate>Wed, 22 Jan 2025 18:14:41 +0000</pubDate>
+  <pubDate>Fri, 14 Feb 2025 14:10:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.24.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.16 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.24.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.16</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.24.0</guid>
+  <guid isPermaLink="false">zbctl-8.5.16</guid>
   <category>new-version</category>
-  <pubDate>Tue, 11 Feb 2025 04:15:04 +0000</pubDate>
+  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.10</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 27 Feb 2025 18:14:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.11-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.11-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 05 Mar 2025 16:18:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.11-test-SNAPSHOT is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 14 Mar 2025 22:10:59 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.25.0 is now available in asdf!</title>
@@ -1050,13 +996,22 @@
   <pubDate>Wed, 27 Nov 2024 02:58:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 watchexec watchexec-filterer-globset-v7.0.0 is now available in asdf!</title>
+  <title>🚀 yamlscript w1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-filterer-globset-v7.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript w1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">watchexec-watchexec-filterer-globset-v7.0.0</guid>
+  <guid isPermaLink="false">yamlscript-w1</guid>
   <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
+  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yasm 1.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yasm 1.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yasm-1.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
 </item>
 <item>
   <title>🚀 watchexec watchexec-filterer-ignore-v6.0.0 is now available in asdf!</title>
@@ -1329,6 +1284,24 @@
   <pubDate>Wed, 22 Jan 2025 02:44:44 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 xcbeautify 2.23.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.23.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.23.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 22 Jan 2025 18:14:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.24.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.24.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.24.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 11 Feb 2025 04:15:04 +0000</pubDate>
+</item>
+<item>
   <title>🚀 vela 1.10.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vela 1.10.2</code> to install it.</p>]]>
@@ -1597,6 +1570,33 @@
   <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
   <category>new-version</category>
   <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 watchexec watchexec-filterer-globset-v7.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-filterer-globset-v7.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">watchexec-watchexec-filterer-globset-v7.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.4-rc.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.4-rc.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.4-rc.2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 06 Feb 2025 00:43:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.4</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 06 Feb 2025 00:43:24 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.22.5-beta.0 is now available in asdf!</title>
@@ -1878,6 +1878,33 @@
   <pubDate>Wed, 12 Feb 2025 06:16:58 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 vcluster 0.19.8-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.19.8-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 22 Nov 2024 20:13:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.19.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.19.8</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 18:15:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.19.9-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.19.9-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 16:14:08 +0000</pubDate>
+</item>
+<item>
   <title>🚀 vcluster 0.19.9 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.9</code> to install it.</p>]]>
@@ -2148,22 +2175,31 @@
   <pubDate>Tue, 28 Jan 2025 18:13:49 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.4-rc.2 is now available in asdf!</title>
+  <title>🚀 vals 0.38.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.4-rc.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vals 0.38.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.4-rc.2</guid>
+  <guid isPermaLink="false">vals-0.38.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 06 Feb 2025 00:43:24 +0000</pubDate>
+  <pubDate>Wed, 04 Dec 2024 00:48:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.4 is now available in asdf!</title>
+  <title>🚀 vals 0.39.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vals 0.39.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.4</guid>
+  <guid isPermaLink="false">vals-0.39.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 06 Feb 2025 00:43:24 +0000</pubDate>
+  <pubDate>Thu, 16 Jan 2025 16:12:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vals 0.39.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vals 0.39.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vals-0.39.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 12 Feb 2025 00:43:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vals 0.39.2 is now available in asdf!</title>
@@ -2216,42 +2252,6 @@
     <![CDATA[<p>💡 Run <code>asdf install vault 1.16.15+ent</code> to install it.</p>]]>
   </description>
   <guid isPermaLink="false">vault-1.16.15+ent</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 16:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.16.16+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.16+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.16.16+ent</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 24 Feb 2025 22:11:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.16.17+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.16.17+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.16.17+ent</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 18:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.17.10+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.17.10+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.17.10+ent</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Dec 2024 18:15:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vault 1.17.11+ent is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vault 1.17.11+ent</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vault-1.17.11+ent</guid>
   <category>new-version</category>
   <pubDate>Thu, 30 Jan 2025 16:14:07 +0000</pubDate>
 </item>
