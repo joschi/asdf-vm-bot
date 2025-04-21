@@ -6,22 +6,22 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 supabase-cli 2.22.3 is now available in asdf!</title>
+  <title>🚀 newrelic-cli 0.97.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.22.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install newrelic-cli 0.97.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">supabase-cli-2.22.3</guid>
+  <guid isPermaLink="false">newrelic-cli-0.97.14</guid>
   <category>new-version</category>
-  <pubDate>Mon, 21 Apr 2025 10:12:28 +0000</pubDate>
+  <pubDate>Mon, 21 Apr 2025 12:18:56 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 lefthook 1.11.11 is now available in asdf!</title>
+  <title>🚀 chromedriver 137.0.7137.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install lefthook 1.11.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 137.0.7137.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">lefthook-1.11.11</guid>
+  <guid isPermaLink="false">chromedriver-137.0.7137.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 21 Apr 2025 10:11:46 +0000</pubDate>
+  <pubDate>Mon, 21 Apr 2025 12:17:28 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.0-alpha3-optimize is now available in asdf!</title>
@@ -1041,6 +1041,15 @@
   <pubDate>Mon, 03 Feb 2025 20:13:30 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 21 Jan 2025 22:10:10 +0000</pubDate>
+</item>
+<item>
   <title>🚀 xcbeautify 2.22.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.22.0</code> to install it.</p>]]>
@@ -1318,6 +1327,15 @@
   <guid isPermaLink="false">yamlscript-0.1.94</guid>
   <category>new-version</category>
   <pubDate>Wed, 05 Mar 2025 06:15:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 watchexec watchexec-events-v5.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
 </item>
 <item>
   <title>🚀 watchexec watchexec-filterer-globset-v7.0.0 is now available in asdf!</title>
@@ -1608,13 +1626,13 @@
   <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
+  <title>🚀 velero 1.15.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.21.0</guid>
+  <guid isPermaLink="false">velero-1.15.2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 22:10:10 +0000</pubDate>
+  <pubDate>Wed, 15 Jan 2025 12:17:42 +0000</pubDate>
 </item>
 <item>
   <title>🚀 velero 1.16.0 is now available in asdf!</title>
@@ -1887,13 +1905,13 @@
   <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 watchexec watchexec-events-v5.0.0 is now available in asdf!</title>
+  <title>🚀 vcluster 0.23.0-rc.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0-rc.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
+  <guid isPermaLink="false">vcluster-0.23.0-rc.2</guid>
   <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
+  <pubDate>Fri, 14 Feb 2025 18:14:01 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.23.0-rc.3 is now available in asdf!</title>
@@ -2184,15 +2202,6 @@
   <pubDate>Fri, 27 Dec 2024 06:14:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 velero 1.15.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">velero-1.15.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 12:17:42 +0000</pubDate>
-</item>
-<item>
   <title>🚀 vcluster 0.22.0-beta.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-beta.0</code> to install it.</p>]]>
@@ -2245,15 +2254,6 @@
   <guid isPermaLink="false">vcluster-0.22.0</guid>
   <category>new-version</category>
   <pubDate>Thu, 19 Dec 2024 02:54:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.22.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.22.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 02 Jan 2025 22:10:04 +0000</pubDate>
 </item>
   </channel>
 </rss>
