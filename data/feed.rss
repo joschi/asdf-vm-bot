@@ -6,22 +6,13 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 lazygit 0.50.0 is now available in asdf!</title>
+  <title>🚀 haskell 9.10.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install lazygit 0.50.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install haskell 9.10.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">lazygit-0.50.0</guid>
+  <guid isPermaLink="false">haskell-9.10.2</guid>
   <category>new-version</category>
-  <pubDate>Sat, 03 May 2025 02:59:49 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.1-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.1-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 09 Apr 2025 10:14:53 +0000</pubDate>
+  <pubDate>Sat, 03 May 2025 04:12:42 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.1 is now available in asdf!</title>
@@ -499,6 +490,15 @@
   <guid isPermaLink="false">zbctl-8.7.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 01 Apr 2025 10:15:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.1-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.1-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 09 Apr 2025 10:14:53 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.3.19 is now available in asdf!</title>
@@ -1086,15 +1086,6 @@
   <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.20.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.20.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.20.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
-</item>
-<item>
   <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
@@ -1383,15 +1374,6 @@
   <pubDate>Thu, 27 Feb 2025 22:11:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 watchexec watchexec-events-v5.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
-</item>
-<item>
   <title>🚀 watchexec watchexec-filterer-globset-v7.0.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-filterer-globset-v7.0.0</code> to install it.</p>]]>
@@ -1671,13 +1653,13 @@
   <pubDate>Tue, 21 Jan 2025 00:42:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
+  <title>🚀 xcbeautify 2.20.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.20.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vendir-0.43.0</guid>
+  <guid isPermaLink="false">xcbeautify-2.20.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
+  <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vendir 0.43.1 is now available in asdf!</title>
@@ -1959,22 +1941,13 @@
   <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.23.2-rc.3 is now available in asdf!</title>
+  <title>🚀 watchexec watchexec-events-v5.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.2-rc.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.23.2-rc.3</guid>
+  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 24 Apr 2025 16:14:37 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.23.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.23.2</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 25 Apr 2025 20:13:22 +0000</pubDate>
+  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.24.0-alpha.1 is now available in asdf!</title>
@@ -2247,13 +2220,40 @@
   <pubDate>Mon, 14 Apr 2025 08:17:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.1 is now available in asdf!</title>
+  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.1</guid>
+  <guid isPermaLink="false">vendir-0.43.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 02 Jan 2025 22:10:04 +0000</pubDate>
+  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 16 Jan 2025 20:12:46 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 17 Jan 2025 00:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.4-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.4-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.4-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 28 Jan 2025 18:13:49 +0000</pubDate>
 </item>
   </channel>
 </rss>
