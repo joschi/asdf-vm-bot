@@ -6,13 +6,13 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
+  <title>🚀 poetry 2.1.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install poetry 2.1.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
+  <guid isPermaLink="false">poetry-2.1.3</guid>
   <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
+  <pubDate>Sun, 04 May 2025 14:10:00 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.0-alpha5 is now available in asdf!</title>
@@ -564,6 +564,15 @@
   <pubDate>Wed, 05 Mar 2025 08:16:56 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
+</item>
+<item>
   <title>🚀 yt-dlp 2025.03.26 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.03.26</code> to install it.</p>]]>
@@ -850,6 +859,15 @@
   <guid isPermaLink="false">zbctl-8.6.12-rc1</guid>
   <category>new-version</category>
   <pubDate>Fri, 14 Mar 2025 14:11:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript 0.1.87 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.87</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-0.1.87</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 16 Dec 2024 18:15:35 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yamlscript 0.1.88 is now available in asdf!</title>
@@ -1140,6 +1158,15 @@
   <pubDate>Tue, 25 Mar 2025 00:47:21 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
+</item>
+<item>
   <title>🚀 xcbeautify 2.16.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.0</code> to install it.</p>]]>
@@ -1417,15 +1444,6 @@
   <guid isPermaLink="false">yamlscript-0.1.86</guid>
   <category>new-version</category>
   <pubDate>Mon, 02 Dec 2024 06:16:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.87 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.87</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.87</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 16 Dec 2024 18:15:35 +0000</pubDate>
 </item>
 <item>
   <title>🚀 watchexec 2.2.1 is now available in asdf!</title>
@@ -1707,15 +1725,6 @@
   <pubDate>Tue, 15 Apr 2025 20:14:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
-</item>
-<item>
   <title>🚀 vela 1.10.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vela 1.10.2</code> to install it.</p>]]>
@@ -1993,15 +2002,6 @@
   <guid isPermaLink="false">wasmtime-v32.0.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 21 Apr 2025 16:14:03 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.23.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.23.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.23.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 22:10:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.23.1-rc.1 is now available in asdf!</title>
