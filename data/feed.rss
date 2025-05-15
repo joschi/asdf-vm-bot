@@ -6,40 +6,112 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 helm 3.18.0-rc.2 is now available in asdf!</title>
+  <title>🚀 rke v1.8.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install helm 3.18.0-rc.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rke v1.8.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">helm-3.18.0-rc.2</guid>
+  <guid isPermaLink="false">rke-v1.8.3</guid>
   <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 00:48:26 +0000</pubDate>
+  <pubDate>Thu, 15 May 2025 03:07:44 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dagger 0.18.8 is now available in asdf!</title>
+  <title>🚀 rke v1.7.7 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dagger 0.18.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rke v1.7.7</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dagger-0.18.8</guid>
+  <guid isPermaLink="false">rke-v1.7.7</guid>
   <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 00:47:29 +0000</pubDate>
+  <pubDate>Thu, 15 May 2025 03:07:44 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 chromedriver 138.0.7179.0 is now available in asdf!</title>
+  <title>🚀 rke v1.6.10 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 138.0.7179.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rke v1.6.10</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">chromedriver-138.0.7179.0</guid>
+  <guid isPermaLink="false">rke-v1.6.10</guid>
   <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 00:47:16 +0000</pubDate>
+  <pubDate>Thu, 15 May 2025 03:07:44 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-rc2 is now available in asdf!</title>
+  <title>🚀 java jetbrains-musl-21.0.7b895.130 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-musl-21.0.7b895.130</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-rc2</guid>
+  <guid isPermaLink="false">java-jetbrains-musl-21.0.7b895.130</guid>
   <category>new-version</category>
-  <pubDate>Tue, 25 Mar 2025 14:12:36 +0000</pubDate>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-musl-21.0.7b509.40 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-musl-21.0.7b509.40</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-musl-21.0.7b509.40</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-jre-musl-21.0.7b895.130 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-jre-musl-21.0.7b895.130</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-jre-musl-21.0.7b895.130</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-jre-musl-21.0.7b509.40 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-jre-musl-21.0.7b509.40</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-jre-musl-21.0.7b509.40</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-jre-21.0.7b895.130 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-jre-21.0.7b895.130</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-jre-21.0.7b895.130</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-jre-21.0.7b509.40 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-jre-21.0.7b509.40</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-jre-21.0.7b509.40</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-21.0.7b895.130 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-21.0.7b895.130</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-21.0.7b895.130</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java jetbrains-21.0.7b509.40 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java jetbrains-21.0.7b509.40</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-jetbrains-21.0.7b509.40</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:06:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 atmos 1.175.0-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install atmos 1.175.0-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">atmos-1.175.0-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 03:04:28 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.0-rc3 is now available in asdf!</title>
@@ -310,6 +382,15 @@
   <guid isPermaLink="false">zprint-1.3.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.5-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.5-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.5-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 10 Feb 2025 16:15:21 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.6-optimize is now available in asdf!</title>
@@ -591,6 +672,33 @@
   <pubDate>Tue, 25 Mar 2025 12:19:52 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zbctl 8.7.0-rc2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-rc2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Mar 2025 14:12:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.3.21 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.21</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.3.21</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.3.22 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.22</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.3.22</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.14</code> to install it.</p>]]>
@@ -870,13 +978,22 @@
   <pubDate>Mon, 10 Feb 2025 16:15:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.5-optimize is now available in asdf!</title>
+  <title>🚀 yamlscript gh-pages-kube is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.5-optimize</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript gh-pages-kube</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.5-optimize</guid>
+  <guid isPermaLink="false">yamlscript-gh-pages-kube</guid>
   <category>new-version</category>
-  <pubDate>Mon, 10 Feb 2025 16:15:21 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 02:58:25 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript w1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript w1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-w1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yasm 1.3.0 is now available in asdf!</title>
@@ -1158,22 +1275,13 @@
   <pubDate>Mon, 03 Feb 2025 20:13:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.21 is now available in asdf!</title>
+  <title>🚀 xcbeautify 2.26.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.21</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.26.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.21</guid>
+  <guid isPermaLink="false">xcbeautify-2.26.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.3.22 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.22</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.3.22</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+  <pubDate>Sat, 22 Feb 2025 22:09:35 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.27.0 is now available in asdf!</title>
@@ -1446,22 +1554,22 @@
   <pubDate>Wed, 15 Jan 2025 22:10:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlscript gh-pages-kube is now available in asdf!</title>
+  <title>🚀 websocat 1.14.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript gh-pages-kube</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install websocat 1.14.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlscript-gh-pages-kube</guid>
+  <guid isPermaLink="false">websocat-1.14.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 02:58:25 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:13:39 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlscript w1 is now available in asdf!</title>
+  <title>🚀 websocat 4.0.0-alpha1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript w1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install websocat 4.0.0-alpha1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlscript-w1</guid>
+  <guid isPermaLink="false">websocat-4.0.0-alpha1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
 </item>
 <item>
   <title>🚀 websocat 4.0.0-alpha2 is now available in asdf!</title>
@@ -1732,15 +1840,6 @@
   <guid isPermaLink="false">xcbeautify-2.25.1</guid>
   <category>new-version</category>
   <pubDate>Mon, 17 Feb 2025 20:13:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.26.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.26.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.26.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 22 Feb 2025 22:09:35 +0000</pubDate>
 </item>
 <item>
   <title>🚀 wasmer v5.0.4 is now available in asdf!</title>
@@ -2022,24 +2121,6 @@
   <pubDate>Tue, 04 Feb 2025 14:11:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 websocat 1.14.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install websocat 1.14.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">websocat-1.14.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 16:13:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 websocat 4.0.0-alpha1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install websocat 4.0.0-alpha1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">websocat-4.0.0-alpha1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
-</item>
-<item>
   <title>🚀 vcluster 0.25.0-alpha.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install vcluster 0.25.0-alpha.2</code> to install it.</p>]]>
@@ -2173,87 +2254,6 @@
   <guid isPermaLink="false">vcluster-0.26.0-alpha.4</guid>
   <category>new-version</category>
   <pubDate>Tue, 13 May 2025 12:23:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vela 1.10.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vela 1.10.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vela-1.10.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 06 Feb 2025 00:43:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vela 1.10.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vela 1.10.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vela-1.10.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 12 Feb 2025 06:16:58 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vela 1.10.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vela 1.10.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vela-1.10.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 03 Mar 2025 20:13:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vela 1.10.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vela 1.10.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vela-1.10.3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 12 May 2025 06:19:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 velero 1.15.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">velero-1.15.1</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 27 Dec 2024 06:14:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 velero 1.15.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.15.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">velero-1.15.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 12:17:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 velero 1.16.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.16.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">velero-1.16.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 14 Apr 2025 08:17:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vendir-0.43.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vendir 0.43.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vendir-0.43.1</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 28 Mar 2025 12:19:28 +0000</pubDate>
 </item>
   </channel>
 </rss>
