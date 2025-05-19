@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: sudo apt -y install parallel
     - name: Set up asdf-vm
-      uses: asdf-vm/actions/setup@v3.0.2
+      uses: asdf-vm/actions/setup@v4.0.0
     - name: Run update script
       env:
         GITHUB_API_TOKEN: ${{ secrets.PULL_TOKEN }}
