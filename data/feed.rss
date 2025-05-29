@@ -6,22 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 aws-sso-cli 2.0.2 is now available in asdf!</title>
+  <title>🚀 v weekly.2025.22 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install aws-sso-cli 2.0.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2025.22</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">aws-sso-cli-2.0.2</guid>
+  <guid isPermaLink="false">v-weekly.2025.22</guid>
   <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 04:15:01 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 06:17:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zellij 0.42.2 is now available in asdf!</title>
+  <title>🚀 telepresence 2.22.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zellij 0.42.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install telepresence 2.22.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zellij-0.42.2</guid>
+  <guid isPermaLink="false">telepresence-2.22.5</guid>
   <category>new-version</category>
-  <pubDate>Tue, 15 Apr 2025 08:16:20 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 06:17:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ollama 0.9.0-rc0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ollama 0.9.0-rc0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ollama-0.9.0-rc0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 29 May 2025 06:16:53 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zig 0.14.0 is now available in asdf!</title>
@@ -391,6 +400,15 @@
   <guid isPermaLink="false">zellij-0.42.1</guid>
   <category>new-version</category>
   <pubDate>Fri, 21 Mar 2025 10:12:28 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zellij 0.42.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zellij 0.42.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zellij-0.42.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 15 Apr 2025 08:16:20 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.16 is now available in asdf!</title>
@@ -978,24 +996,6 @@
   <pubDate>Tue, 06 May 2025 16:16:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yasm 1.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yasm 1.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yasm-1.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yay 12.5.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yay 12.5.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yay-12.5.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 24 Apr 2025 10:13:39 +0000</pubDate>
-</item>
-<item>
   <title>🚀 yor 0.1.200 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yor 0.1.200</code> to install it.</p>]]>
@@ -1255,15 +1255,6 @@
   <guid isPermaLink="false">zbctl-8.3.19</guid>
   <category>new-version</category>
   <pubDate>Mon, 06 Jan 2025 16:13:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xchtmlreport 2.5.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xchtmlreport 2.5.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xchtmlreport-2.5.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 16 Mar 2025 22:10:19 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcodegen 2.43.0 is now available in asdf!</title>
@@ -1536,22 +1527,22 @@
   <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 2.8.1 is now available in asdf!</title>
+  <title>🚀 yasm 1.3.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yasm 1.3.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.1</guid>
+  <guid isPermaLink="false">yasm-1.3.0</guid>
   <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 00:45:57 +0000</pubDate>
+  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 2.8.2 is now available in asdf!</title>
+  <title>🚀 yay 12.5.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yay 12.5.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.2</guid>
+  <guid isPermaLink="false">yay-12.5.0</guid>
   <category>new-version</category>
-  <pubDate>Fri, 20 Dec 2024 08:14:45 +0000</pubDate>
+  <pubDate>Thu, 24 Apr 2025 10:13:39 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 2.8.3 is now available in asdf!</title>
@@ -1815,31 +1806,13 @@
   <pubDate>Mon, 31 Mar 2025 03:04:00 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 watchexec 2.2.1 is now available in asdf!</title>
+  <title>🚀 xchtmlreport 2.5.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.2.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xchtmlreport 2.5.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">watchexec-2.2.1</guid>
+  <guid isPermaLink="false">xchtmlreport-2.5.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 16 Dec 2024 00:49:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec 2.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-2.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec 2.3.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.3.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-2.3.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 08:16:41 +0000</pubDate>
+  <pubDate>Sun, 16 Mar 2025 22:10:19 +0000</pubDate>
 </item>
 <item>
   <title>🚀 watchexec 2.3.2 is now available in asdf!</title>
@@ -2094,40 +2067,22 @@
   <pubDate>Thu, 28 Nov 2024 20:13:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 velero 1.16.0 is now available in asdf!</title>
+  <title>🚀 woodpecker-cli 2.8.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.16.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">velero-1.16.0</guid>
+  <guid isPermaLink="false">woodpecker-cli-2.8.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 14 Apr 2025 08:17:55 +0000</pubDate>
+  <pubDate>Sat, 14 Dec 2024 00:45:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 velero 1.16.1 is now available in asdf!</title>
+  <title>🚀 woodpecker-cli 2.8.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install velero 1.16.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">velero-1.16.1</guid>
+  <guid isPermaLink="false">woodpecker-cli-2.8.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 19 May 2025 04:20:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vendir 0.43.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vendir-0.43.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 09 Dec 2024 12:22:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vendir 0.43.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vendir 0.43.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vendir-0.43.1</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 28 Mar 2025 12:19:28 +0000</pubDate>
+  <pubDate>Fri, 20 Dec 2024 08:14:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vendir 0.43.2 is now available in asdf!</title>
@@ -2254,6 +2209,51 @@
   <guid isPermaLink="false">wasmer-v6.0.0-alpha.2</guid>
   <category>new-version</category>
   <pubDate>Wed, 26 Feb 2025 14:11:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmer v6.0.0-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmer v6.0.0-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmer-v6.0.0-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 07 Mar 2025 12:18:28 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmer v6.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmer v6.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmer-v6.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 24 Apr 2025 22:11:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmer v6.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmer v6.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmer-v6.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 09 May 2025 16:14:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmtime v27.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v27.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v27.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 18:14:31 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 wasmtime v28.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install wasmtime v28.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">wasmtime-v28.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 20 Dec 2024 18:14:19 +0000</pubDate>
 </item>
   </channel>
 </rss>
