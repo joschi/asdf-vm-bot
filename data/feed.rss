@@ -6,49 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 rust-analyzer 2025-06-02 is now available in asdf!</title>
+  <title>🚀 supabase-cli 2.24.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2025-06-02</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.24.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rust-analyzer-2025-06-02</guid>
+  <guid isPermaLink="false">supabase-cli-2.24.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Jun 2025 08:17:18 +0000</pubDate>
+  <pubDate>Mon, 02 Jun 2025 10:14:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 pipectl 0.52.1 is now available in asdf!</title>
+  <title>🚀 c3 0.7.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install pipectl 0.52.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install c3 0.7.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">pipectl-0.52.1</guid>
+  <guid isPermaLink="false">c3-0.7.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Jun 2025 08:17:06 +0000</pubDate>
+  <pubDate>Mon, 02 Jun 2025 10:11:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 phrase 2.42.0 is now available in asdf!</title>
+  <title>🚀 argo 3.6.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install phrase 2.42.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install argo 3.6.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">phrase-2.42.0</guid>
+  <guid isPermaLink="false">argo-3.6.8</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Jun 2025 08:17:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 flux2 2.6.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install flux2 2.6.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">flux2-2.6.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 02 Jun 2025 08:15:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.8.0-alpha2-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha2-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 14:11:39 +0000</pubDate>
+  <pubDate>Mon, 02 Jun 2025 10:11:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.0-alpha2 is now available in asdf!</title>
@@ -591,6 +573,15 @@
   <pubDate>Fri, 07 Feb 2025 16:12:44 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zbctl 8.8.0-alpha2-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha2-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 14:11:39 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.5.14 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.14</code> to install it.</p>]]>
@@ -888,15 +879,6 @@
   <pubDate>Tue, 04 Feb 2025 18:14:03 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2024.12.06 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.06</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2024.12.06</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 06 Dec 2024 16:14:17 +0000</pubDate>
-</item>
-<item>
   <title>🚀 yt-dlp 2024.12.13 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.13</code> to install it.</p>]]>
@@ -1176,15 +1158,6 @@
   <pubDate>Tue, 04 Feb 2025 12:18:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 youtube-dl 2024.07.03 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.03</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.03</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
   <title>🚀 youtube-dl 2024.07.07 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.07</code> to install it.</p>]]>
@@ -1446,13 +1419,13 @@
   <pubDate>Tue, 03 Dec 2024 22:11:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlfmt 0.15.0 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.12.06 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlfmt 0.15.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.06</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlfmt-0.15.0</guid>
+  <guid isPermaLink="false">yt-dlp-2024.12.06</guid>
   <category>new-version</category>
-  <pubDate>Fri, 10 Jan 2025 20:13:47 +0000</pubDate>
+  <pubDate>Fri, 06 Dec 2024 16:14:17 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yamlfmt 0.16.0 is now available in asdf!</title>
@@ -1734,13 +1707,13 @@
   <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 3.5.1 is now available in asdf!</title>
+  <title>🚀 youtube-dl 2024.07.03 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.5.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.03</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-3.5.1</guid>
+  <guid isPermaLink="false">youtube-dl-2024.07.03</guid>
   <category>new-version</category>
-  <pubDate>Fri, 04 Apr 2025 10:12:47 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 3.5.2 is now available in asdf!</title>
@@ -2004,6 +1977,15 @@
   <pubDate>Tue, 04 Mar 2025 00:45:45 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 yamlfmt 0.15.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlfmt 0.15.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlfmt-0.15.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 10 Jan 2025 20:13:47 +0000</pubDate>
+</item>
+<item>
   <title>🚀 watchexec watchexec-events-v5.0.1 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.1</code> to install it.</p>]]>
@@ -2254,6 +2236,24 @@
   <guid isPermaLink="false">woodpecker-cli-3.1.0</guid>
   <category>new-version</category>
   <pubDate>Thu, 13 Feb 2025 16:14:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 3.2.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.2.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.2.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 26 Feb 2025 22:10:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 3.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Mar 2025 16:13:51 +0000</pubDate>
 </item>
   </channel>
 </rss>
