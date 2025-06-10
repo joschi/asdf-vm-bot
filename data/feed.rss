@@ -6,58 +6,112 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 tuist 4.52.1 is now available in asdf!</title>
+  <title>🚀 nomad 1.10.2+ent is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.52.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install nomad 1.10.2+ent</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tuist-4.52.1</guid>
+  <guid isPermaLink="false">nomad-1.10.2+ent</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:17:09 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:13:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 gam 7.09.03 is now available in asdf!</title>
+  <title>🚀 nomad 1.10.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install gam 7.09.03</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install nomad 1.10.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">gam-7.09.03</guid>
+  <guid isPermaLink="false">nomad-1.10.2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:14:56 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:13:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dotnet-core 10.0.100-preview.5.25277.114 is now available in asdf!</title>
+  <title>🚀 nomad 1.9.10+ent is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 10.0.100-preview.5.25277.114</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install nomad 1.9.10+ent</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dotnet-core-10.0.100-preview.5.25277.114</guid>
+  <guid isPermaLink="false">nomad-1.9.10+ent</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:14:32 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:13:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 chromedriver 137.0.7151.69 is now available in asdf!</title>
+  <title>🚀 nomad 1.8.14+ent is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 137.0.7151.69</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install nomad 1.8.14+ent</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">chromedriver-137.0.7151.69</guid>
+  <guid isPermaLink="false">nomad-1.8.14+ent</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:14:12 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:13:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 avalanche 1.9.0-rc0 is now available in asdf!</title>
+  <title>🚀 dotnet-core 9.0.301 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install avalanche 1.9.0-rc0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 9.0.301</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">avalanche-1.9.0-rc0</guid>
+  <guid isPermaLink="false">dotnet-core-9.0.301</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:13:54 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:12:04 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 avalanche 1.8.11-rc10 is now available in asdf!</title>
+  <title>🚀 dotnet-core 8.0.411 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install avalanche 1.8.11-rc10</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 8.0.411</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">avalanche-1.8.11-rc10</guid>
+  <guid isPermaLink="false">dotnet-core-8.0.411</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 18:13:54 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 20:12:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 chromedriver 137.0.7151.70 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 137.0.7151.70</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">chromedriver-137.0.7151.70</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 boilerplate 0.6.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install boilerplate 0.6.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">boilerplate-0.6.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 awscli 2.27.33 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 2.27.33</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">awscli-2.27.33</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 awscli 1.40.33 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 1.40.33</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">awscli-1.40.33</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 atmos 1.180.0-test.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install atmos 1.180.0-test.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">atmos-1.180.0-test.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 atmos 1.180.0-test.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install atmos 1.180.0-test.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">atmos-1.180.0-test.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Jun 2025 20:11:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zellij 0.42.1 is now available in asdf!</title>
@@ -771,6 +825,24 @@
   <pubDate>Tue, 25 Mar 2025 12:19:52 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zbctl 8.4.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.18</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.4.19 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.19</code> to install it.</p>]]>
@@ -1050,6 +1122,24 @@
   <pubDate>Mon, 10 Feb 2025 16:15:21 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 yq 4.45.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.45.3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 09 May 2025 06:18:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yq 4.45.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.45.4</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 11 May 2025 12:19:01 +0000</pubDate>
+</item>
+<item>
   <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
@@ -1302,22 +1392,13 @@
   <pubDate>Mon, 03 Feb 2025 18:15:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.4.17 is now available in asdf!</title>
+  <title>🚀 youtube-dl 2024.04.08 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.17</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.04.08</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.4.17</guid>
+  <guid isPermaLink="false">youtube-dl-2024.04.08</guid>
   <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.18</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 youtube-dl 2024.04.22 is now available in asdf!</title>
@@ -1599,22 +1680,13 @@
   <pubDate>Sat, 03 May 2025 08:14:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yq 4.45.3 is now available in asdf!</title>
+  <title>🚀 xcresultparser 1.8.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yq-4.45.3</guid>
+  <guid isPermaLink="false">xcresultparser-1.8.4</guid>
   <category>new-version</category>
-  <pubDate>Fri, 09 May 2025 06:18:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.45.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.45.4</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 11 May 2025 12:19:01 +0000</pubDate>
+  <pubDate>Tue, 14 Jan 2025 00:41:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcresultparser 1.8.5 is now available in asdf!</title>
@@ -1905,13 +1977,22 @@
   <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 youtube-dl 2024.04.08 is now available in asdf!</title>
+  <title>🚀 woodpecker-cli 3.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.04.08</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">youtube-dl-2024.04.08</guid>
+  <guid isPermaLink="false">woodpecker-cli-3.0.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
+  <pubDate>Sat, 18 Jan 2025 22:10:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 woodpecker-cli 3.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">woodpecker-cli-3.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 20 Jan 2025 16:13:54 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 3.1.0 is now available in asdf!</title>
@@ -2173,87 +2254,6 @@
   <guid isPermaLink="false">xcresultparser-1.8.2</guid>
   <category>new-version</category>
   <pubDate>Fri, 06 Dec 2024 20:13:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcresultparser 1.8.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcresultparser-1.8.3</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 15 Dec 2024 14:09:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcresultparser 1.8.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcresultparser-1.8.4</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 14 Jan 2025 00:41:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec ignore-files-v3.0.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec ignore-files-v3.0.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-ignore-files-v3.0.4</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 06:17:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec project-origins-v1.4.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec project-origins-v1.4.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-project-origins-v1.4.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec project-origins-v1.4.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec project-origins-v1.4.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-project-origins-v1.4.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 06:17:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec watchexec-events-v5.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec watchexec-events-v5.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v5.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-watchexec-events-v5.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 06:17:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec watchexec-events-v6.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-events-v6.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-watchexec-events-v6.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 15 May 2025 06:17:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 watchexec watchexec-filterer-globset-v7.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install watchexec watchexec-filterer-globset-v7.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">watchexec-watchexec-filterer-globset-v7.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
 </item>
   </channel>
 </rss>
