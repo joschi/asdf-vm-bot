@@ -6,24 +6,6 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 oc 3.11.1685-1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install oc 3.11.1685-1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">oc-3.11.1685-1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Jun 2025 00:50:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 glooctl v1.16.25 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install glooctl v1.16.25</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">glooctl-v1.16.25</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Jun 2025 00:48:59 +0000</pubDate>
-</item>
-<item>
   <title>🚀 zbctl 8.8.0-alpha3-rc1 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha3-rc1</code> to install it.</p>]]>
@@ -861,24 +843,6 @@
   <pubDate>Thu, 02 Jan 2025 16:14:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.06.09 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.06.09</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2025.06.09</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 00:53:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">ytt-0.51.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
-</item>
-<item>
   <title>🚀 ytt 0.51.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.2</code> to install it.</p>]]>
@@ -1149,24 +1113,6 @@
   <pubDate>Fri, 14 Mar 2025 22:10:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 youtube-dl 2025.03.11 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.11</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.03.11</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.03.22 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.22</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.03.22</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
   <title>🚀 youtube-dl 2025.03.27 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.27</code> to install it.</p>]]>
@@ -1419,22 +1365,22 @@
   <pubDate>Thu, 22 May 2025 10:15:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlscript 0.1.96 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2025.06.09 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.96</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.06.09</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlscript-0.1.96</guid>
+  <guid isPermaLink="false">yt-dlp-2025.06.09</guid>
   <category>new-version</category>
-  <pubDate>Sat, 19 Apr 2025 00:45:55 +0000</pubDate>
+  <pubDate>Tue, 10 Jun 2025 00:53:00 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yamlscript 0.1.97 is now available in asdf!</title>
+  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.97</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yamlscript-0.1.97</guid>
+  <guid isPermaLink="false">ytt-0.51.1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 12 Jun 2025 03:13:11 +0000</pubDate>
+  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yamlscript T1 is now available in asdf!</title>
@@ -1707,22 +1653,22 @@
   <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.26.0 is now available in asdf!</title>
+  <title>🚀 youtube-dl 2025.03.11 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.26.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.11</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.26.0</guid>
+  <guid isPermaLink="false">youtube-dl-2025.03.11</guid>
   <category>new-version</category>
-  <pubDate>Sat, 22 Feb 2025 22:09:35 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcbeautify 2.27.0 is now available in asdf!</title>
+  <title>🚀 youtube-dl 2025.03.22 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.27.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.22</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.27.0</guid>
+  <guid isPermaLink="false">youtube-dl-2025.03.22</guid>
   <category>new-version</category>
-  <pubDate>Sun, 02 Mar 2025 22:09:43 +0000</pubDate>
+  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.28.0 is now available in asdf!</title>
@@ -1986,13 +1932,22 @@
   <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 woodpecker-cli 2.8.0 is now available in asdf!</title>
+  <title>🚀 yamlscript 0.1.96 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 2.8.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.96</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">woodpecker-cli-2.8.0</guid>
+  <guid isPermaLink="false">yamlscript-0.1.96</guid>
   <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 20:13:07 +0000</pubDate>
+  <pubDate>Sat, 19 Apr 2025 00:45:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript 0.1.97 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.97</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-0.1.97</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 12 Jun 2025 03:13:11 +0000</pubDate>
 </item>
 <item>
   <title>🚀 woodpecker-cli 2.8.1 is now available in asdf!</title>
@@ -2254,6 +2209,51 @@
   <guid isPermaLink="false">xcbeautify-2.25.1</guid>
   <category>new-version</category>
   <pubDate>Mon, 17 Feb 2025 20:13:23 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.26.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.26.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.26.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 22 Feb 2025 22:09:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.27.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.27.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.27.0</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 02 Mar 2025 22:09:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 watchexec 2.2.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.2.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">watchexec-2.2.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 16 Dec 2024 00:49:31 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 watchexec 2.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">watchexec-2.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 09 Feb 2025 12:16:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 watchexec 2.3.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install watchexec 2.3.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">watchexec-2.3.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 15 May 2025 08:16:41 +0000</pubDate>
 </item>
   </channel>
 </rss>
