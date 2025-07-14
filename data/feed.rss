@@ -6,40 +6,787 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 tekton-cli 0.41.1 is now available in asdf!</title>
+  <title>🚀 tuist $VERSION is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tekton-cli 0.41.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist $VERSION</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tekton-cli-0.41.1</guid>
+  <guid isPermaLink="false">tuist-$VERSION</guid>
   <category>new-version</category>
-  <pubDate>Mon, 14 Jul 2025 10:14:54 +0000</pubDate>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 pint 0.74.4 is now available in asdf!</title>
+  <title>🚀 tuist support-run-on-xcode-cloud-release is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install pint 0.74.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist support-run-on-xcode-cloud-release</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">pint-0.74.4</guid>
+  <guid isPermaLink="false">tuist-support-run-on-xcode-cloud-release</guid>
   <category>new-version</category>
-  <pubDate>Mon, 14 Jul 2025 10:14:19 +0000</pubDate>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kubebuilder 4.7.0 is now available in asdf!</title>
+  <title>🚀 tuist 1.25.07.07 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kubebuilder 4.7.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.07.07</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kubebuilder-4.7.0</guid>
+  <guid isPermaLink="false">tuist-1.25.07.07</guid>
   <category>new-version</category>
-  <pubDate>Mon, 14 Jul 2025 10:13:48 +0000</pubDate>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 chromedriver 140.0.7295.0 is now available in asdf!</title>
+  <title>🚀 tuist 1.25.06.30 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 140.0.7295.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.06.30</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">chromedriver-140.0.7295.0</guid>
+  <guid isPermaLink="false">tuist-1.25.06.30</guid>
   <category>new-version</category>
-  <pubDate>Mon, 14 Jul 2025 10:12:24 +0000</pubDate>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.06.23 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.06.23</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.06.23</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.06.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.06.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.06.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.06.09 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.06.09</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.06.09</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.06.02 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.06.02</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.06.02</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.05.26 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.05.26</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.05.26</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.05.19 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.05.19</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.05.19</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.05.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.05.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.05.12</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.05.09 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.05.09</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.05.09</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.05.05 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.05.05</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.05.05</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.04.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.04.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.04.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.04.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.04.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.04.28</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.04.07 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.04.07</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.04.07</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.03.31 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.03.31</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.03.31</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.03.24 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.03.24</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.03.24</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.03.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.03.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.03.17</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.03.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.03.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.03.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.03.03 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.03.03</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.03.03</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.02.24 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.02.24</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.02.24</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.02.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.02.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.02.17</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.02.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.02.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.02.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.02.03 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.02.03</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.02.03</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.01.27 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.01.27</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.01.27</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.01.20 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.01.20</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.01.20</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.01.13 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.01.13</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.01.13</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.25.01.06 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.25.01.06</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.25.01.06</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.12.30 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.12.30</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.12.30</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.12.23 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.12.23</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.12.23</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.12.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.12.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.12.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.12.09 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.12.09</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.12.09</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.12.02 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.12.02</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.12.02</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.11.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.11.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.11.28</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.11.25 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.11.25</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.11.25</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.11.22 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.11.22</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.11.22</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.11.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.11.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.11.11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.10.07 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.10.07</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.10.07</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.10.04 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.10.04</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.10.04</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.10.03 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.10.03</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.10.03</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.10.01 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.10.01</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.10.01</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.30 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.30</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.30</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.27 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.27</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.27</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.25 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.25</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.25</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.23 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.23</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.23</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.09 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.09</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.09</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.09.02 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.09.02</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.09.02</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.08.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.08.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.08.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.08.26 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.08.26</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.08.26</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.08.22 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.08.22</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.08.22</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.08.05 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.08.05</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.08.05</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.08.01 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.08.01</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.08.01</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.31 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.31</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.31</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.22 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.22</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.22</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.17</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.15 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.15</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.15</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.05 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.05</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.05</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.07.01 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.07.01</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.07.01</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.26 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.26</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.26</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.24 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.24</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.24</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.21 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.21</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.21</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.07 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.07</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.07</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.06.03 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.06.03</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.06.03</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.05.30 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.05.30</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.05.30</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.05.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.05.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.05.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.05.27 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.05.27</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.05.27</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.04.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.04.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.04.29</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 1.24.02.27 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 1.24.02.27</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-1.24.02.27</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 0.22.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 0.22.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-0.22.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 0.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 0.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-0.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 0.20.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 0.20.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-0.20.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 supabase-cli 2.31.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.31.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">supabase-cli-2.31.3</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:24:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 jx 3.11.109 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.109</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">jx-3.11.109</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:22:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 jx 3.11.108 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.108</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">jx-3.11.108</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:22:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 dynatrace-monaco 2.24.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install dynatrace-monaco 2.24.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">dynatrace-monaco-2.24.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:21:14 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 depot 2.94.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install depot 2.94.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">depot-2.94.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:21:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 cockroach 25.3.0-beta.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install cockroach 25.3.0-beta.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">cockroach-25.3.0-beta.3</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:20:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 checkov 3.2.451 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.451</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">checkov-3.2.451</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 14 Jul 2025 12:20:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zigmod r96 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zigmod r96</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zigmod-r96</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 22 May 2025 20:18:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zigmod r97 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zigmod r97</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zigmod-r97</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 23 May 2025 12:21:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zigmod r98 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zigmod r98</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zigmod-r98</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 28 May 2025 10:14:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zls 0.14.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zls 0.14.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zls-0.14.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 07 Mar 2025 00:45:31 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zola 0.20.0 is now available in asdf!</title>
@@ -76,6 +823,51 @@
   <guid isPermaLink="false">zprint-1.3.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.7</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 01 Jul 2025 12:22:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0-alpha1-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha1-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha1-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Feb 2025 16:14:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0-alpha1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 07 Feb 2025 16:12:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0-alpha2-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha2-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 14:11:39 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0-alpha2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 06 Mar 2025 22:13:11 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.0-alpha3-optimize is now available in asdf!</title>
@@ -312,40 +1104,40 @@
   <pubDate>Mon, 14 Apr 2025 03:04:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zigmod r96 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha3-rc3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zigmod r96</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zigmod-r96</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc3</guid>
   <category>new-version</category>
-  <pubDate>Thu, 22 May 2025 20:18:24 +0000</pubDate>
+  <pubDate>Fri, 03 Jan 2025 10:13:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zigmod r97 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha3-rc4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zigmod r97</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zigmod-r97</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc4</guid>
   <category>new-version</category>
-  <pubDate>Fri, 23 May 2025 12:21:01 +0000</pubDate>
+  <pubDate>Sun, 05 Jan 2025 18:14:27 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zigmod r98 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha3-rc5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zigmod r98</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zigmod-r98</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc5</guid>
   <category>new-version</category>
-  <pubDate>Wed, 28 May 2025 10:14:40 +0000</pubDate>
+  <pubDate>Wed, 08 Jan 2025 18:14:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zls 0.14.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.7.0-alpha3-rc6 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zls 0.14.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc6</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zls-0.14.0</guid>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc6</guid>
   <category>new-version</category>
-  <pubDate>Fri, 07 Mar 2025 00:45:31 +0000</pubDate>
+  <pubDate>Fri, 10 Jan 2025 22:12:00 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.0-alpha3 is now available in asdf!</title>
@@ -609,49 +1401,49 @@
   <pubDate>Fri, 20 Jun 2025 12:23:45 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.7 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.7</guid>
+  <guid isPermaLink="false">zbctl-8.6.14</guid>
   <category>new-version</category>
-  <pubDate>Tue, 01 Jul 2025 12:22:54 +0000</pubDate>
+  <pubDate>Fri, 02 May 2025 18:17:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha1-rc1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.15-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha1-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha1-rc1</guid>
+  <guid isPermaLink="false">zbctl-8.6.15-rc1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 04 Feb 2025 16:14:27 +0000</pubDate>
+  <pubDate>Tue, 06 May 2025 10:14:03 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha1</guid>
+  <guid isPermaLink="false">zbctl-8.6.15</guid>
   <category>new-version</category>
-  <pubDate>Fri, 07 Feb 2025 16:12:44 +0000</pubDate>
+  <pubDate>Tue, 06 May 2025 16:16:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha2-rc1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.16 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.16</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha2-rc1</guid>
+  <guid isPermaLink="false">zbctl-8.6.16</guid>
   <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 14:11:39 +0000</pubDate>
+  <pubDate>Wed, 28 May 2025 10:14:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha2 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.17 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.17</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha2</guid>
+  <guid isPermaLink="false">zbctl-8.6.17</guid>
   <category>new-version</category>
-  <pubDate>Thu, 06 Mar 2025 22:13:11 +0000</pubDate>
+  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.18 is now available in asdf!</title>
@@ -897,40 +1689,49 @@
   <pubDate>Thu, 02 Jan 2025 16:14:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha3-rc3 is now available in asdf!</title>
+  <title>🚀 zbctl 8.4.16 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.16</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc3</guid>
+  <guid isPermaLink="false">zbctl-8.4.16</guid>
   <category>new-version</category>
-  <pubDate>Fri, 03 Jan 2025 10:13:06 +0000</pubDate>
+  <pubDate>Mon, 03 Feb 2025 18:15:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha3-rc4 is now available in asdf!</title>
+  <title>🚀 zbctl 8.4.17 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.17</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc4</guid>
+  <guid isPermaLink="false">zbctl-8.4.17</guid>
   <category>new-version</category>
-  <pubDate>Sun, 05 Jan 2025 18:14:27 +0000</pubDate>
+  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha3-rc5 is now available in asdf!</title>
+  <title>🚀 zbctl 8.4.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc5</guid>
+  <guid isPermaLink="false">zbctl-8.4.18</guid>
   <category>new-version</category>
-  <pubDate>Wed, 08 Jan 2025 18:14:33 +0000</pubDate>
+  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha3-rc6 is now available in asdf!</title>
+  <title>🚀 zbctl 8.4.19 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha3-rc6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.19</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha3-rc6</guid>
+  <guid isPermaLink="false">zbctl-8.4.19</guid>
   <category>new-version</category>
-  <pubDate>Fri, 10 Jan 2025 22:12:00 +0000</pubDate>
+  <pubDate>Tue, 06 May 2025 12:24:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.20 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.20</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.20</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.4.21 is now available in asdf!</title>
@@ -1185,49 +1986,40 @@
   <pubDate>Fri, 02 May 2025 12:20:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.14 is now available in asdf!</title>
+  <title>🚀 yq 4.45.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.14</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.14</guid>
+  <guid isPermaLink="false">yq-4.45.3</guid>
   <category>new-version</category>
-  <pubDate>Fri, 02 May 2025 18:17:41 +0000</pubDate>
+  <pubDate>Fri, 09 May 2025 06:18:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.15-rc1 is now available in asdf!</title>
+  <title>🚀 yq 4.45.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.15-rc1</guid>
+  <guid isPermaLink="false">yq-4.45.4</guid>
   <category>new-version</category>
-  <pubDate>Tue, 06 May 2025 10:14:03 +0000</pubDate>
+  <pubDate>Sun, 11 May 2025 12:19:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.15 is now available in asdf!</title>
+  <title>🚀 yq 4.46.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.46.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.15</guid>
+  <guid isPermaLink="false">yq-4.46.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 06 May 2025 16:16:17 +0000</pubDate>
+  <pubDate>Thu, 10 Jul 2025 03:18:11 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.16 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.16</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.16</guid>
+  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
   <category>new-version</category>
-  <pubDate>Wed, 28 May 2025 10:14:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yt-dlp 2024.12.03 is now available in asdf!</title>
@@ -1462,798 +2254,6 @@
   <guid isPermaLink="false">zbctl-8.3.22</guid>
   <category>new-version</category>
   <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.14</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 18:14:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.16 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.16</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.16</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 18:15:30 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.18</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.19 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.19</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.19</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 06 May 2025 12:24:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.4.20 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.20</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.4.20</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.06.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.06.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.06.12</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.06.21 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.06.21</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.06.21</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.07.03 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.03</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.03</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.07.07 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.07</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.07</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.07.08 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.08</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.08</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.07.11 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.11</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.11</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.07.25 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.07.25</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.07.25</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.08.02 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.08.02</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.08.02</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.08.07 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.08.07</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.08.07</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.12.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.12.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.12.17</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.01.01 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.01.01</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.01.01</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.01.06 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.01.06</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.01.06</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.01.16 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.01.16</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.01.16</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.01.23 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.01.23</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.01.23</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.02.07 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.02.07</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.02.07</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.02.28 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.02.28</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.02.28</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.03.11 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.11</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.03.11</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.03.22 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.22</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.03.22</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.03.27 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.03.27</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.03.27</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.04.01 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.04.01</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.04.01</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.04.08 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.04.08</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.04.08</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.05.04 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.05.04</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.05.04</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2025.05.05 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2025.05.05</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2025.05.05</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.44.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.44.4</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.44.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.44.5</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.44.6 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.6</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.44.6</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 07 Dec 2024 08:15:20 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.45.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.45.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 12 Jan 2025 04:14:28 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.45.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.45.2</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 03 May 2025 08:14:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.45.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.45.3</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 09 May 2025 06:18:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.45.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.45.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.45.4</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 11 May 2025 12:19:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.46.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.46.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.46.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 10 Jul 2025 03:18:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlfmt 0.17.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlfmt 0.17.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlfmt-0.17.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 25 May 2025 14:12:27 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlfmt 0.17.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlfmt 0.17.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlfmt-0.17.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 19 Jun 2025 14:12:44 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlfmt 0.17.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlfmt 0.17.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlfmt-0.17.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 24 Jun 2025 03:15:41 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.84 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.84</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.84</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 10:14:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.85 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.85</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.85</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 02:58:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.86 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.86</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.86</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 06:16:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.87 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.87</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.87</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 16 Dec 2024 18:15:35 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.88 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.88</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.88</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 22:10:30 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.89 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.89</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.89</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.90 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.90</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.90</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 20:11:35 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.91 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.91</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.91</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 02 Feb 2025 04:12:04 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.92 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.92</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.92</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 00:45:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.93 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.93</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.93</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 22:11:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.94 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.94</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.94</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 06:15:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.95 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.95</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.95</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.96 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.96</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.96</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 19 Apr 2025 00:45:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.97 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.97</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.97</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 12 Jun 2025 03:13:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.2.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.2.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.2.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 06 Jul 2025 20:13:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript T1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript T1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-T1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 19 Apr 2025 00:45:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript dt1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript dt1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-dt1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 15 Jan 2025 22:10:30 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript gh-pages-kube is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript gh-pages-kube</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-gh-pages-kube</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 02:58:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript w1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript w1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-w1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 30 Jan 2025 00:42:27 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yasm 1.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yasm 1.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yasm-1.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 17 Mar 2025 06:16:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yay 12.5.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yay 12.5.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yay-12.5.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 24 Apr 2025 10:13:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yor 0.1.200 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yor 0.1.200</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yor-0.1.200</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 08:14:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.02.03 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.02.03</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.02.03</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.03.28 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.03.28</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.03.28</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.04.06 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.04.06</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.04.06</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.04.08 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.04.08</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.04.08</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.04.22 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.04.22</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.04.22</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.05.16.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.05.16.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.05.16.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 youtube-dl 2024.05.31 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install youtube-dl 2024.05.31</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">youtube-dl-2024.05.31</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 29 May 2025 20:15:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.16.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.16.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 11 Dec 2024 00:47:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.16.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.16.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.16.1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.17.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.17.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.17.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.18.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.18.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.18.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 20 Jan 2025 20:11:09 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.19.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.19.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.19.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 00:42:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.20.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.20.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.20.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 18:14:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.21.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.21.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.21.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 21 Jan 2025 22:10:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.22.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.22.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.22.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 22 Jan 2025 02:44:44 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.23.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.23.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.23.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 22 Jan 2025 18:14:41 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.24.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.24.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.24.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 11 Feb 2025 04:15:04 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.25.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.25.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.25.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 13 Feb 2025 02:45:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.25.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.25.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.25.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 17 Feb 2025 20:13:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.26.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.26.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.26.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 22 Feb 2025 22:09:35 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.27.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.27.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.27.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 02 Mar 2025 22:09:43 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.28.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.28.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.28.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 31 Mar 2025 03:04:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.29.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.29.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.29.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 08 Jul 2025 00:53:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xchtmlreport 2.5.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xchtmlreport 2.5.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xchtmlreport-2.5.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 16 Mar 2025 22:10:19 +0000</pubDate>
 </item>
   </channel>
 </rss>
