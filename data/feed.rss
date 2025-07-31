@@ -6,76 +6,49 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 supabase-cli 2.33.8 is now available in asdf!</title>
+  <title>🚀 melange 0.30.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.33.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install melange 0.30.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">supabase-cli-2.33.8</guid>
+  <guid isPermaLink="false">melange-0.30.3</guid>
   <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:14:03 +0000</pubDate>
+  <pubDate>Thu, 31 Jul 2025 12:20:48 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 pint 0.74.6 is now available in asdf!</title>
+  <title>🚀 jx 3.16.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install pint 0.74.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.16.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">pint-0.74.6</guid>
+  <guid isPermaLink="false">jx-3.16.15</guid>
   <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:13:40 +0000</pubDate>
+  <pubDate>Thu, 31 Jul 2025 12:20:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 newrelic-cli 0.100.6 is now available in asdf!</title>
+  <title>🚀 jx 3.16.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install newrelic-cli 0.100.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.16.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">newrelic-cli-0.100.6</guid>
+  <guid isPermaLink="false">jx-3.16.14</guid>
   <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:13:31 +0000</pubDate>
+  <pubDate>Thu, 31 Jul 2025 12:20:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 jx 3.16.12 is now available in asdf!</title>
+  <title>🚀 jx 3.16.13 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.16.12</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.16.13</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">jx-3.16.12</guid>
+  <guid isPermaLink="false">jx-3.16.13</guid>
   <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:13:00 +0000</pubDate>
+  <pubDate>Thu, 31 Jul 2025 12:20:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 jx 3.16.11 is now available in asdf!</title>
+  <title>🚀 zbctl 8.8.0-alpha5-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install jx 3.16.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha5-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">jx-3.16.11</guid>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha5-rc1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:13:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 gleam 1.12.0-rc3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install gleam 1.12.0-rc3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">gleam-1.12.0-rc3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:12:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 140.0.7329.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 140.0.7329.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-140.0.7329.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:12:02 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 bosh 7.9.8 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install bosh 7.9.8</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">bosh-7.9.8</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 31 Jul 2025 10:11:56 +0000</pubDate>
+  <pubDate>Tue, 27 May 2025 14:12:36 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.0-alpha5-rc2 is now available in asdf!</title>
@@ -301,6 +274,15 @@
   <guid isPermaLink="false">zprint-1.3.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 09 Apr 2025 14:13:13 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.2-optimize is now available in asdf!</title>
@@ -582,13 +564,13 @@
   <pubDate>Fri, 06 Jun 2025 14:12:29 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha5-rc1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.7-rc2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha5-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha5-rc1</guid>
+  <guid isPermaLink="false">zbctl-8.6.7-rc2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 27 May 2025 14:12:36 +0000</pubDate>
+  <pubDate>Thu, 02 Jan 2025 14:10:23 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.7-rc3 is now available in asdf!</title>
@@ -877,15 +859,6 @@
   <guid isPermaLink="false">zbctl-8.7.1-rc1</guid>
   <category>new-version</category>
   <pubDate>Wed, 09 Apr 2025 10:14:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 09 Apr 2025 14:13:13 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.11-rc1-optimize is now available in asdf!</title>
@@ -1183,15 +1156,6 @@
   <guid isPermaLink="false">zbctl-8.6.7-rc1</guid>
   <category>new-version</category>
   <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.7-rc2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.7-rc2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 02 Jan 2025 14:10:23 +0000</pubDate>
 </item>
 <item>
   <title>🚀 ytt 0.51.1 is now available in asdf!</title>
@@ -1779,6 +1743,15 @@
   <pubDate>Tue, 22 Jul 2025 00:58:02 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 yamlscript dt1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript dt1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-dt1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 15 Jan 2025 22:10:30 +0000</pubDate>
+</item>
+<item>
   <title>🚀 yamlscript gh-pages-kube is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yamlscript gh-pages-kube</code> to install it.</p>]]>
@@ -2254,6 +2227,33 @@
   <guid isPermaLink="false">yamlscript-0.1.91</guid>
   <category>new-version</category>
   <pubDate>Sun, 02 Feb 2025 04:12:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript 0.1.92 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.92</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-0.1.92</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 00:45:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript 0.1.93 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.93</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-0.1.93</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 27 Feb 2025 22:11:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yamlscript 0.1.94 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.94</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yamlscript-0.1.94</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 05 Mar 2025 06:15:24 +0000</pubDate>
 </item>
   </channel>
 </rss>
