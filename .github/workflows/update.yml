@@ -35,7 +35,7 @@ jobs:
           mkdir -p _site
           cp data/feed.rss _site/
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
     - name: Commit new tweets
       uses: EndBug/add-and-commit@v9
       with:
