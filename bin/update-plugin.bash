@@ -30,15 +30,15 @@ function update_plugin_versions {
 	echo "Processing plugin ${plugin}"
 	if  [[ $# -eq 1 ]]
 	then
-		asdf plugin-add "${plugin}"
+		asdf plugin add "${plugin}"
 	else
-		asdf plugin-add "${plugin}" "${2}"
+		asdf plugin add "${plugin}" "${2}"
 	fi
 
 	ensure_dir "${plugin_dir}"
 	ensure_dir "${toots_dir}"
 
-	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
+	asdf list all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
 
 	if [[ ! -e "${plugin_dir}/versions.txt" ]]
 	then
