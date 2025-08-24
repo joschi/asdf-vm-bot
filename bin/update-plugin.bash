@@ -38,7 +38,7 @@ function update_plugin_versions {
 	ensure_dir "${plugin_dir}"
 	ensure_dir "${toots_dir}"
 
-	asdf list all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
+	asdf list all "${plugin}" | sort | uniq | grep -v '^\s*$' > "${TEMP_DIR}/${plugin}-new.txt" || return 1
 
 	if [[ ! -e "${plugin_dir}/versions.txt" ]]
 	then
