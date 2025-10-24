@@ -85,6 +85,7 @@ adoptopenjdk-17.0.13+11
 adoptopenjdk-17.0.14+7
 adoptopenjdk-17.0.15+6
 adoptopenjdk-17.0.16+8
+adoptopenjdk-17.0.17+10
 adoptopenjdk-17.0.2+8
 adoptopenjdk-17.0.3+7
 adoptopenjdk-17.0.4+101
@@ -115,6 +116,7 @@ adoptopenjdk-21.0.5+11.0.LTS
 adoptopenjdk-21.0.6+7.0.LTS
 adoptopenjdk-21.0.7+6.0.LTS
 adoptopenjdk-21.0.8+9.0.LTS
+adoptopenjdk-21.0.9+10.0.LTS
 adoptopenjdk-22.0.0+36
 adoptopenjdk-22.0.1+8
 adoptopenjdk-22.0.2+9
@@ -234,6 +236,7 @@ adoptopenjdk-jre-17.0.13+11
 adoptopenjdk-jre-17.0.14+7
 adoptopenjdk-jre-17.0.15+6
 adoptopenjdk-jre-17.0.16+8
+adoptopenjdk-jre-17.0.17+10
 adoptopenjdk-jre-17.0.2+8
 adoptopenjdk-jre-17.0.3+7
 adoptopenjdk-jre-17.0.4+101
@@ -263,6 +266,7 @@ adoptopenjdk-jre-21.0.5+11.0.LTS
 adoptopenjdk-jre-21.0.6+7.0.LTS
 adoptopenjdk-jre-21.0.7+6.0.LTS
 adoptopenjdk-jre-21.0.8+9.0.LTS
+adoptopenjdk-jre-21.0.9+10.0.LTS
 adoptopenjdk-jre-22.0.0+36
 adoptopenjdk-jre-22.0.1+8
 adoptopenjdk-jre-22.0.2+9
@@ -2978,6 +2982,7 @@ openjdk-24.0.1
 openjdk-24.0.2
 openjdk-25
 openjdk-25.0.1
+openjdk-26-jep401ea2+1-1
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -3635,6 +3640,7 @@ temurin-17.0.13+11
 temurin-17.0.14+7
 temurin-17.0.15+6
 temurin-17.0.16+8
+temurin-17.0.17+10
 temurin-17.0.2+8
 temurin-17.0.3+7
 temurin-17.0.4+101
@@ -3665,6 +3671,7 @@ temurin-21.0.5+11.0.LTS
 temurin-21.0.6+7.0.LTS
 temurin-21.0.7+6.0.LTS
 temurin-21.0.8+9.0.LTS
+temurin-21.0.9+10.0.LTS
 temurin-22.0.0+36
 temurin-22.0.1+8
 temurin-22.0.2+9
@@ -3721,6 +3728,7 @@ temurin-jre-17.0.13+11
 temurin-jre-17.0.14+7
 temurin-jre-17.0.15+6
 temurin-jre-17.0.16+8
+temurin-jre-17.0.17+10
 temurin-jre-17.0.2+8
 temurin-jre-17.0.3+7
 temurin-jre-17.0.4+101
@@ -3750,6 +3758,7 @@ temurin-jre-21.0.5+11.0.LTS
 temurin-jre-21.0.6+7.0.LTS
 temurin-jre-21.0.7+6.0.LTS
 temurin-jre-21.0.8+9.0.LTS
+temurin-jre-21.0.9+10.0.LTS
 temurin-jre-22.0.0+36
 temurin-jre-22.0.1+8
 temurin-jre-22.0.2+9
