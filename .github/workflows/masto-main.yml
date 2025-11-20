@@ -13,7 +13,7 @@ jobs:
     if: ${{ contains(github.event.head_commit.message, 'Add new toots') }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Toot
         uses: joschi/toot-together@v1.x
         env:
