@@ -132,6 +132,8 @@
 1.50.3
 1.50.4
 1.50.99
+1.51
+1.51.99
 2013_switch_to_git
 beforerelease
 dev
@@ -266,6 +268,7 @@ hledger-1.50.1
 hledger-1.50.2
 hledger-1.50.3
 hledger-1.50.4
+hledger-1.51
 hledger-1.9
 hledger-1.9.1
 hledger-api-1.0
@@ -379,6 +382,7 @@ hledger-lib-1.50.1
 hledger-lib-1.50.2
 hledger-lib-1.50.3
 hledger-lib-1.50.4
+hledger-lib-1.51
 hledger-lib-1.9
 hledger-lib-1.9.1
 hledger-ui-0.27
@@ -471,6 +475,7 @@ hledger-ui-1.50.1
 hledger-ui-1.50.2
 hledger-ui-1.50.3
 hledger-ui-1.50.4
+hledger-ui-1.51
 hledger-ui-1.9
 hledger-ui-1.9.1
 hledger-web-0.15.1
@@ -582,6 +587,7 @@ hledger-web-1.50.1
 hledger-web-1.50.2
 hledger-web-1.50.3
 hledger-web-1.50.4
+hledger-web-1.51
 hledger-web-1.9
 hledger-web-1.9.1
 hledger-web-1.9.2
