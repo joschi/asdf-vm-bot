@@ -110,6 +110,7 @@ adoptopenjdk-20.0.1+9
 adoptopenjdk-20.0.2+9
 adoptopenjdk-21.0.0+35.0.LTS
 adoptopenjdk-21.0.1+12.0.LTS
+adoptopenjdk-21.0.10+7.0.LTS
 adoptopenjdk-21.0.2+13.0.LTS
 adoptopenjdk-21.0.3+9.0.LTS
 adoptopenjdk-21.0.4+7.0.LTS
@@ -263,6 +264,7 @@ adoptopenjdk-jre-20.0.1+9
 adoptopenjdk-jre-20.0.2+9
 adoptopenjdk-jre-21.0.0+35.0.LTS
 adoptopenjdk-jre-21.0.1+12.0.LTS
+adoptopenjdk-jre-21.0.10+7.0.LTS
 adoptopenjdk-jre-21.0.2+13.0.LTS
 adoptopenjdk-jre-21.0.3+9.0.LTS
 adoptopenjdk-jre-21.0.4+7.0.LTS
@@ -3801,6 +3803,7 @@ temurin-20.0.1+9
 temurin-20.0.2+9
 temurin-21.0.0+35.0.LTS
 temurin-21.0.1+12.0.LTS
+temurin-21.0.10+7.0.LTS
 temurin-21.0.2+13.0.LTS
 temurin-21.0.3+9.0.LTS
 temurin-21.0.4+7.0.LTS
@@ -3891,6 +3894,7 @@ temurin-jre-20.0.1+9
 temurin-jre-20.0.2+9
 temurin-jre-21.0.0+35.0.LTS
 temurin-jre-21.0.1+12.0.LTS
+temurin-jre-21.0.10+7.0.LTS
 temurin-jre-21.0.2+13.0.LTS
 temurin-jre-21.0.3+9.0.LTS
 temurin-jre-21.0.4+7.0.LTS
@@ -4174,6 +4178,7 @@ zulu-11.78.15
 zulu-11.80.21
 zulu-11.82.19
 zulu-11.84.17
+zulu-11.86.19
 zulu-12.1.3
 zulu-12.2.3
 zulu-12.3.11
@@ -4242,6 +4247,7 @@ zulu-17.58.21
 zulu-17.58.25
 zulu-17.60.17
 zulu-17.62.17
+zulu-17.64.15
 zulu-18.28.13
 zulu-18.30.11
 zulu-18.32.11
@@ -4268,6 +4274,7 @@ zulu-21.42.19
 zulu-21.42.21
 zulu-21.44.17
 zulu-21.46.19
+zulu-21.48.15
 zulu-22.28.91
 zulu-22.28.93
 zulu-22.30.13
@@ -4285,6 +4292,7 @@ zulu-24.30.15
 zulu-24.32.13
 zulu-25.28.85
 zulu-25.30.17
+zulu-25.32.17
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -4410,6 +4418,7 @@ zulu-8.86.0.25
 zulu-8.88.0.19
 zulu-8.9.0.4
 zulu-8.90.0.19
+zulu-8.92.0.19
 zulu-9.0.0.15
 zulu-9.0.1.3
 zulu-9.0.4.1
@@ -4664,6 +4673,7 @@ zulu-jre-11.78.15
 zulu-jre-11.80.21
 zulu-jre-11.82.19
 zulu-jre-11.84.17
+zulu-jre-11.86.19
 zulu-jre-13.28.11
 zulu-jre-13.29.9
 zulu-jre-13.31.11
@@ -4723,6 +4733,7 @@ zulu-jre-17.58.21
 zulu-jre-17.58.25
 zulu-jre-17.60.17
 zulu-jre-17.62.17
+zulu-jre-17.64.15
 zulu-jre-18.28.13
 zulu-jre-18.30.11
 zulu-jre-18.32.11
@@ -4750,6 +4761,7 @@ zulu-jre-21.42.19
 zulu-jre-21.42.21
 zulu-jre-21.44.17
 zulu-jre-21.46.19
+zulu-jre-21.48.15
 zulu-jre-22.28.91
 zulu-jre-22.28.93
 zulu-jre-22.30.13
@@ -4768,6 +4780,7 @@ zulu-jre-24.30.15
 zulu-jre-24.32.13
 zulu-jre-25.28.85
 zulu-jre-25.30.17
+zulu-jre-25.32.17
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -4804,6 +4817,7 @@ zulu-jre-8.84.0.15
 zulu-jre-8.86.0.25
 zulu-jre-8.88.0.19
 zulu-jre-8.90.0.19
+zulu-jre-8.92.0.19
 zulu-jre-crac-17.44.55
 zulu-jre-crac-17.46.27
 zulu-jre-crac-17.46.27_1
@@ -5047,6 +5061,7 @@ zulu-jre-musl-11.78.15
 zulu-jre-musl-11.80.21
 zulu-jre-musl-11.82.19
 zulu-jre-musl-11.84.17
+zulu-jre-musl-11.86.19
 zulu-jre-musl-13.28.11
 zulu-jre-musl-13.29.9
 zulu-jre-musl-13.31.11
@@ -5103,6 +5118,7 @@ zulu-jre-musl-17.58.21
 zulu-jre-musl-17.58.25
 zulu-jre-musl-17.60.17
 zulu-jre-musl-17.62.17
+zulu-jre-musl-17.64.15
 zulu-jre-musl-18.28.13
 zulu-jre-musl-18.30.11
 zulu-jre-musl-18.32.11
@@ -5127,6 +5143,7 @@ zulu-jre-musl-21.42.19
 zulu-jre-musl-21.42.21
 zulu-jre-musl-21.44.17
 zulu-jre-musl-21.46.19
+zulu-jre-musl-21.48.15
 zulu-jre-musl-22.28.91
 zulu-jre-musl-22.30.13
 zulu-jre-musl-22.30.15
@@ -5144,6 +5161,7 @@ zulu-jre-musl-24.30.15
 zulu-jre-musl-24.32.13
 zulu-jre-musl-25.28.85
 zulu-jre-musl-25.30.17
+zulu-jre-musl-25.32.17
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -5178,6 +5196,7 @@ zulu-jre-musl-8.84.0.15
 zulu-jre-musl-8.86.0.25
 zulu-jre-musl-8.88.0.19
 zulu-jre-musl-8.90.0.19
+zulu-jre-musl-8.92.0.19
 zulu-musl-11.2.3
 zulu-musl-11.29.11
 zulu-musl-11.29.3
@@ -5213,6 +5232,7 @@ zulu-musl-11.78.15
 zulu-musl-11.80.21
 zulu-musl-11.82.19
 zulu-musl-11.84.17
+zulu-musl-11.86.19
 zulu-musl-12.1.3
 zulu-musl-12.2.3
 zulu-musl-12.3.11
@@ -5276,6 +5296,7 @@ zulu-musl-17.58.21
 zulu-musl-17.58.25
 zulu-musl-17.60.17
 zulu-musl-17.62.17
+zulu-musl-17.64.15
 zulu-musl-18.28.13
 zulu-musl-18.30.11
 zulu-musl-18.32.11
@@ -5299,6 +5320,7 @@ zulu-musl-21.42.19
 zulu-musl-21.42.21
 zulu-musl-21.44.17
 zulu-musl-21.46.19
+zulu-musl-21.48.15
 zulu-musl-22.28.91
 zulu-musl-22.28.93
 zulu-musl-22.30.13
@@ -5316,6 +5338,7 @@ zulu-musl-24.30.15
 zulu-musl-24.32.13
 zulu-musl-25.28.85
 zulu-musl-25.30.17
+zulu-musl-25.32.17
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
@@ -5356,3 +5379,4 @@ zulu-musl-8.84.0.15
 zulu-musl-8.86.0.25
 zulu-musl-8.88.0.19
 zulu-musl-8.90.0.19
+zulu-musl-8.92.0.19
