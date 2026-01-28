@@ -35,6 +35,7 @@ adoptopenjdk-11.0.29+7
 adoptopenjdk-11.0.3+7
 adoptopenjdk-11.0.3+7.openj9-0.14.0
 adoptopenjdk-11.0.3+7.openj9-0.14.3
+adoptopenjdk-11.0.30+7
 adoptopenjdk-11.0.4+11.1
 adoptopenjdk-11.0.4+11.1.openj9-0.15.1
 adoptopenjdk-11.0.5+10.1
@@ -214,6 +215,7 @@ adoptopenjdk-jre-11.0.27+6
 adoptopenjdk-jre-11.0.28+6
 adoptopenjdk-jre-11.0.29+7
 adoptopenjdk-jre-11.0.3+7
+adoptopenjdk-jre-11.0.30+7
 adoptopenjdk-jre-11.0.4+11.1
 adoptopenjdk-jre-11.0.5+10.1
 adoptopenjdk-jre-11.0.6+10.1
@@ -344,6 +346,7 @@ adoptopenjdk-jre-musl-11.0.26+4
 adoptopenjdk-jre-musl-11.0.27+6
 adoptopenjdk-jre-musl-11.0.28+6
 adoptopenjdk-jre-musl-11.0.29+7
+adoptopenjdk-jre-musl-11.0.30+7
 adoptopenjdk-jre-musl-17.0.1+12
 adoptopenjdk-jre-musl-17.0.10+7
 adoptopenjdk-jre-musl-17.0.11+9
@@ -557,6 +560,7 @@ adoptopenjdk-musl-11.0.26+4
 adoptopenjdk-musl-11.0.27+6
 adoptopenjdk-musl-11.0.28+6
 adoptopenjdk-musl-11.0.29+7
+adoptopenjdk-musl-11.0.30+7
 adoptopenjdk-musl-16.0.2+7
 adoptopenjdk-musl-17.0.0+35
 adoptopenjdk-musl-17.0.1+12
@@ -1695,6 +1699,7 @@ kona-17.0.14.b1
 kona-17.0.15.b1
 kona-17.0.16.b1
 kona-17.0.17.b1
+kona-17.0.18.b1
 kona-17.0.2.b1
 kona-17.0.3.b1
 kona-17.0.4.b1
@@ -1706,6 +1711,7 @@ kona-17.0.8.b1
 kona-17.0.9.b1
 kona-21.0.0.b1
 kona-21.0.1.b1
+kona-21.0.10.b1
 kona-21.0.2.b1
 kona-21.0.3.b1
 kona-21.0.4.b1
@@ -3821,6 +3827,7 @@ temurin-11.0.26+4
 temurin-11.0.27+6
 temurin-11.0.28+6
 temurin-11.0.29+7
+temurin-11.0.30+7
 temurin-16.0.2+7
 temurin-17.0.0+35
 temurin-17.0.1+12
@@ -3917,6 +3924,7 @@ temurin-jre-11.0.26+4
 temurin-jre-11.0.27+6
 temurin-jre-11.0.28+6
 temurin-jre-11.0.29+7
+temurin-jre-11.0.30+7
 temurin-jre-17.0.1+12
 temurin-jre-17.0.10+7
 temurin-jre-17.0.11+9
@@ -4009,6 +4017,7 @@ temurin-jre-musl-11.0.26+4
 temurin-jre-musl-11.0.27+6
 temurin-jre-musl-11.0.28+6
 temurin-jre-musl-11.0.29+7
+temurin-jre-musl-11.0.30+7
 temurin-jre-musl-17.0.1+12
 temurin-jre-musl-17.0.10+7
 temurin-jre-musl-17.0.11+9
@@ -4098,6 +4107,7 @@ temurin-musl-11.0.26+4
 temurin-musl-11.0.27+6
 temurin-musl-11.0.28+6
 temurin-musl-11.0.29+7
+temurin-musl-11.0.30+7
 temurin-musl-16.0.2+7
 temurin-musl-17.0.0+35
 temurin-musl-17.0.1+12
