@@ -6,130 +6,58 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 java zulu-musl-26.28.59 is now available in asdf!</title>
+  <title>🚀 sui sui_v1.69.0_1773808854_ci is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-musl-26.28.59</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sui sui_v1.69.0_1773808854_ci</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-musl-26.28.59</guid>
+  <guid isPermaLink="false">sui-sui_v1.69.0_1773808854_ci</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:52:35 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 java zulu-jre-musl-26.28.59 is now available in asdf!</title>
+  <title>🚀 sops 3.12.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-jre-musl-26.28.59</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sops 3.12.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-jre-musl-26.28.59</guid>
+  <guid isPermaLink="false">sops-3.12.2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:52:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 java zulu-jre-javafx-26.28.63 is now available in asdf!</title>
+  <title>🚀 openresty 1.29.2.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-jre-javafx-26.28.63</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install openresty 1.29.2.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-jre-javafx-26.28.63</guid>
+  <guid isPermaLink="false">openresty-1.29.2.2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:51:38 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 java zulu-jre-crac-musl-26.28.61 is now available in asdf!</title>
+  <title>🚀 oci 3.76.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-jre-crac-musl-26.28.61</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install oci 3.76.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-jre-crac-musl-26.28.61</guid>
+  <guid isPermaLink="false">oci-3.76.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:51:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 java zulu-jre-crac-26.28.61 is now available in asdf!</title>
+  <title>🚀 newrelic-cli 0.111.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-jre-crac-26.28.61</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install newrelic-cli 0.111.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-jre-crac-26.28.61</guid>
+  <guid isPermaLink="false">newrelic-cli-0.111.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:51:27 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 java zulu-jre-26.28.59 is now available in asdf!</title>
+  <title>🚀 bun 1.3.11 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-jre-26.28.59</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bun 1.3.11</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">java-zulu-jre-26.28.59</guid>
+  <guid isPermaLink="false">bun-1.3.11</guid>
   <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java zulu-javafx-26.28.63 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-javafx-26.28.63</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-zulu-javafx-26.28.63</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java zulu-crac-musl-26.28.61 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-crac-musl-26.28.61</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-zulu-crac-musl-26.28.61</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java zulu-crac-26.28.61 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-crac-26.28.61</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-zulu-crac-26.28.61</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java zulu-26.28.59 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java zulu-26.28.59</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-zulu-26.28.59</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java oracle-26 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java oracle-26</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-oracle-26</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 koka 3.2.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install koka 3.2.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">koka-3.2.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:14:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 atmos 1.210.1-rc.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install atmos 1.210.1-rc.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">atmos-1.210.1-rc.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 18 Mar 2026 04:12:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zola 0.22.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zola 0.22.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zola-0.22.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 10 Jan 2026 00:56:28 +0000</pubDate>
+  <pubDate>Wed, 18 Mar 2026 06:49:05 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zola 0.22.1 is now available in asdf!</title>
@@ -166,15 +94,6 @@
   <guid isPermaLink="false">zprint-1.3.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.8.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.8.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 09 Oct 2025 14:12:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.1-optimize is now available in asdf!</title>
@@ -429,13 +348,13 @@
   <pubDate>Mon, 14 Jul 2025 22:14:30 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.8.0-alpha3 is now available in asdf!</title>
+  <title>🚀 zola 0.22.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zola 0.22.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.8.0-alpha3</guid>
+  <guid isPermaLink="false">zola-0.22.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 01 Apr 2025 14:14:02 +0000</pubDate>
+  <pubDate>Sat, 10 Jan 2026 00:56:28 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.8.0-alpha4-optimize is now available in asdf!</title>
@@ -688,6 +607,15 @@
   <guid isPermaLink="false">zbctl-8.8.0-rc4</guid>
   <category>new-version</category>
   <pubDate>Wed, 08 Oct 2025 20:13:00 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Oct 2025 14:12:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.16 is now available in asdf!</title>
@@ -958,6 +886,15 @@
   <guid isPermaLink="false">zbctl-8.8.0-alpha3-rc3</guid>
   <category>new-version</category>
   <pubDate>Wed, 26 Mar 2025 10:13:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.8.0-alpha3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.8.0-alpha3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 01 Apr 2025 14:14:02 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.0-alpha3-rc4 is now available in asdf!</title>
@@ -2013,15 +1950,6 @@
   <pubDate>Sun, 23 Mar 2025 00:51:14 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.09.23 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.09.23</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2025.09.23</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 23 Sep 2025 08:18:03 +0000</pubDate>
-</item>
-<item>
   <title>🚀 yt-dlp 2025.09.26 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.09.26</code> to install it.</p>]]>
@@ -2254,6 +2182,78 @@
   <guid isPermaLink="false">zbctl-8.3.22</guid>
   <category>new-version</category>
   <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.14</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.14</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.15 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.15</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.15</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Jan 2025 18:14:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.4.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.4.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.4.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 03 Feb 2025 18:15:30 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yq 4.52.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.52.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.52.2</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 01 Feb 2026 01:16:31 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yq 4.52.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.52.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.52.3</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Feb 2026 01:08:14 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yq 4.52.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.52.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yq-4.52.4</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Feb 2026 08:20:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 yt-dlp 2024.12.03 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.12.03</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">yt-dlp-2024.12.03</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 22:11:21 +0000</pubDate>
 </item>
   </channel>
 </rss>
