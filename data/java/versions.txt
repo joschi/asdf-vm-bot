@@ -1891,6 +1891,7 @@ liberica-25+37
 liberica-25.0.1+11
 liberica-25.0.1+13
 liberica-25.0.2+12
+liberica-26+37
 liberica-8u202
 liberica-8u212
 liberica-8u222
@@ -2058,6 +2059,7 @@ liberica-javafx-25+37
 liberica-javafx-25.0.1+11
 liberica-javafx-25.0.1+13
 liberica-javafx-25.0.2+12
+liberica-javafx-26+37
 liberica-javafx-8u242+7
 liberica-javafx-8u252+9
 liberica-javafx-8u262+10
@@ -2200,6 +2202,7 @@ liberica-jre-25+37
 liberica-jre-25.0.1+11
 liberica-jre-25.0.1+13
 liberica-jre-25.0.2+12
+liberica-jre-26+37
 liberica-jre-8u202
 liberica-jre-8u212
 liberica-jre-8u222
@@ -2341,6 +2344,7 @@ liberica-jre-javafx-25+37
 liberica-jre-javafx-25.0.1+11
 liberica-jre-javafx-25.0.1+13
 liberica-jre-javafx-25.0.2+12
+liberica-jre-javafx-26+37
 liberica-jre-javafx-8u242+7
 liberica-jre-javafx-8u252+9
 liberica-jre-javafx-8u262+10
@@ -2472,6 +2476,7 @@ liberica-jre-musl-25+37
 liberica-jre-musl-25.0.1+11
 liberica-jre-musl-25.0.1+13
 liberica-jre-musl-25.0.2+12
+liberica-jre-musl-26+37
 liberica-jre-musl-8u262+10
 liberica-jre-musl-8u265+1
 liberica-jre-musl-8u272+10
@@ -2619,6 +2624,7 @@ liberica-lite-25+37
 liberica-lite-25.0.1+11
 liberica-lite-25.0.1+13
 liberica-lite-25.0.2+12
+liberica-lite-26+37
 liberica-lite-8u302+8
 liberica-lite-8u312+7
 liberica-lite-8u322+6
@@ -2758,6 +2764,7 @@ liberica-lite-musl-25+37
 liberica-lite-musl-25.0.1+11
 liberica-lite-musl-25.0.1+13
 liberica-lite-musl-25.0.2+12
+liberica-lite-musl-26+37
 liberica-lite-musl-8u302+8
 liberica-lite-musl-8u312+7
 liberica-lite-musl-8u322+6
@@ -2915,6 +2922,7 @@ liberica-musl-25+37
 liberica-musl-25.0.1+11
 liberica-musl-25.0.1+13
 liberica-musl-25.0.2+12
+liberica-musl-26+37
 liberica-musl-8u262+10
 liberica-musl-8u265+1
 liberica-musl-8u272+10
@@ -3354,6 +3362,7 @@ sapmachine-24.0.2
 sapmachine-25
 sapmachine-25.0.1
 sapmachine-25.0.2
+sapmachine-26
 sapmachine-jre-10.0.1.10
 sapmachine-jre-10.0.2.13
 sapmachine-jre-10.46
@@ -3462,6 +3471,7 @@ sapmachine-jre-24.0.2
 sapmachine-jre-25
 sapmachine-jre-25.0.1
 sapmachine-jre-25.0.2
+sapmachine-jre-26
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.11
 sapmachine-jre-musl-17.0.12
@@ -3515,6 +3525,7 @@ sapmachine-jre-musl-24.0.2
 sapmachine-jre-musl-25
 sapmachine-jre-musl-25.0.1
 sapmachine-jre-musl-25.0.2
+sapmachine-jre-musl-26
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.11
 sapmachine-musl-17.0.12
@@ -3568,6 +3579,7 @@ sapmachine-musl-24.0.2
 sapmachine-musl-25
 sapmachine-musl-25.0.1
 sapmachine-musl-25.0.2
+sapmachine-musl-26
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
