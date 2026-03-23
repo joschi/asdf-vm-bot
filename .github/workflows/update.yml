@@ -23,7 +23,7 @@ jobs:
         OAUTH_TOKEN: ${{ secrets.PULL_TOKEN }}
       run: ./bin/update.bash
     - name: Commit metadata changes
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         message: "🤖 Update plugin and versions metadata"
         add: "data/"
@@ -37,7 +37,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
     - name: Commit new tweets
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         message: "🤖 Add new tweets 🐦"
         add: "tweets/"
@@ -45,7 +45,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     - name: Commit new toots
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         message: "🤖 Add new toots 🐘"
         add: "toots/"
@@ -53,7 +53,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     - name: Commit new RSS items
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         message: "🤖 Add new RSS items"
         add: "rss/"
