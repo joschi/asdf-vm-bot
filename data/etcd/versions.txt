@@ -228,6 +228,7 @@
 3.4.40
 3.4.41
 3.4.42
+3.4.43
 3.4.5
 3.4.6
 3.4.7
@@ -263,6 +264,7 @@
 3.5.26
 3.5.27
 3.5.28
+3.5.29
 3.5.3
 3.5.4
 3.5.5
@@ -279,6 +281,7 @@
 3.6.0-rc.4
 3.6.0-rc.5
 3.6.1
+3.6.10
 3.6.2
 3.6.3
 3.6.4
@@ -315,6 +318,7 @@ api/v3.5.25
 api/v3.5.26
 api/v3.5.27
 api/v3.5.28
+api/v3.5.29
 api/v3.5.3
 api/v3.5.4
 api/v3.5.5
@@ -331,6 +335,7 @@ api/v3.6.0-rc.3
 api/v3.6.0-rc.4
 api/v3.6.0-rc.5
 api/v3.6.1
+api/v3.6.10
 api/v3.6.2
 api/v3.6.3
 api/v3.6.4
@@ -366,6 +371,7 @@ client/pkg/v3.5.25
 client/pkg/v3.5.26
 client/pkg/v3.5.27
 client/pkg/v3.5.28
+client/pkg/v3.5.29
 client/pkg/v3.5.3
 client/pkg/v3.5.4
 client/pkg/v3.5.5
@@ -382,6 +388,7 @@ client/pkg/v3.6.0-rc.3
 client/pkg/v3.6.0-rc.4
 client/pkg/v3.6.0-rc.5
 client/pkg/v3.6.1
+client/pkg/v3.6.10
 client/pkg/v3.6.2
 client/pkg/v3.6.3
 client/pkg/v3.6.4
@@ -418,6 +425,7 @@ client/v2.305.25
 client/v2.305.26
 client/v2.305.27
 client/v2.305.28
+client/v2.305.29
 client/v2.305.3
 client/v2.305.4
 client/v2.305.5
@@ -457,6 +465,7 @@ client/v3.5.25
 client/v3.5.26
 client/v3.5.27
 client/v3.5.28
+client/v3.5.29
 client/v3.5.3
 client/v3.5.4
 client/v3.5.5
@@ -473,6 +482,7 @@ client/v3.6.0-rc.3
 client/v3.6.0-rc.4
 client/v3.6.0-rc.5
 client/v3.6.1
+client/v3.6.10
 client/v3.6.2
 client/v3.6.3
 client/v3.6.4
@@ -509,6 +519,7 @@ etcdctl/v3.5.25
 etcdctl/v3.5.26
 etcdctl/v3.5.27
 etcdctl/v3.5.28
+etcdctl/v3.5.29
 etcdctl/v3.5.3
 etcdctl/v3.5.4
 etcdctl/v3.5.5
@@ -525,6 +536,7 @@ etcdctl/v3.6.0-rc.3
 etcdctl/v3.6.0-rc.4
 etcdctl/v3.6.0-rc.5
 etcdctl/v3.6.1
+etcdctl/v3.6.10
 etcdctl/v3.6.2
 etcdctl/v3.6.3
 etcdctl/v3.6.4
@@ -560,6 +572,7 @@ etcdutl/v3.5.25
 etcdutl/v3.5.26
 etcdutl/v3.5.27
 etcdutl/v3.5.28
+etcdutl/v3.5.29
 etcdutl/v3.5.3
 etcdutl/v3.5.4
 etcdutl/v3.5.5
@@ -576,6 +589,7 @@ etcdutl/v3.6.0-rc.3
 etcdutl/v3.6.0-rc.4
 etcdutl/v3.6.0-rc.5
 etcdutl/v3.6.1
+etcdutl/v3.6.10
 etcdutl/v3.6.2
 etcdutl/v3.6.3
 etcdutl/v3.6.4
@@ -612,6 +626,7 @@ pkg/v3.5.25
 pkg/v3.5.26
 pkg/v3.5.27
 pkg/v3.5.28
+pkg/v3.5.29
 pkg/v3.5.3
 pkg/v3.5.4
 pkg/v3.5.5
@@ -628,6 +643,7 @@ pkg/v3.6.0-rc.3
 pkg/v3.6.0-rc.4
 pkg/v3.6.0-rc.5
 pkg/v3.6.1
+pkg/v3.6.10
 pkg/v3.6.2
 pkg/v3.6.3
 pkg/v3.6.4
@@ -664,6 +680,7 @@ raft/v3.5.25
 raft/v3.5.26
 raft/v3.5.27
 raft/v3.5.28
+raft/v3.5.29
 raft/v3.5.3
 raft/v3.5.4
 raft/v3.5.5
@@ -700,6 +717,7 @@ server/v3.5.25
 server/v3.5.26
 server/v3.5.27
 server/v3.5.28
+server/v3.5.29
 server/v3.5.3
 server/v3.5.4
 server/v3.5.5
@@ -716,6 +734,7 @@ server/v3.6.0-rc.3
 server/v3.6.0-rc.4
 server/v3.6.0-rc.5
 server/v3.6.1
+server/v3.6.10
 server/v3.6.2
 server/v3.6.3
 server/v3.6.4
@@ -752,6 +771,7 @@ tests/v3.5.25
 tests/v3.5.26
 tests/v3.5.27
 tests/v3.5.28
+tests/v3.5.29
 tests/v3.5.3
 tests/v3.5.4
 tests/v3.5.5
@@ -768,6 +788,7 @@ tests/v3.6.0-rc.3
 tests/v3.6.0-rc.4
 tests/v3.6.0-rc.5
 tests/v3.6.1
+tests/v3.6.10
 tests/v3.6.2
 tests/v3.6.3
 tests/v3.6.4
