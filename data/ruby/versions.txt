@@ -358,6 +358,7 @@ jruby-10.0.1.0
 jruby-10.0.2.0
 jruby-10.0.3.0
 jruby-10.0.4.0
+jruby-10.0.5.0
 jruby-9.0.0.0
 jruby-9.0.0.0.pre1
 jruby-9.0.0.0.pre2
@@ -654,6 +655,7 @@ truffleruby+graalvm-24.2.1
 truffleruby+graalvm-25.0.0
 truffleruby+graalvm-33.0.0
 truffleruby+graalvm-33.0.1
+truffleruby+graalvm-34.0.0
 truffleruby+graalvm-dev
 truffleruby-1.0.0-rc10
 truffleruby-1.0.0-rc11
@@ -706,5 +708,6 @@ truffleruby-24.2.1
 truffleruby-25.0.0
 truffleruby-33.0.0
 truffleruby-33.0.1
+truffleruby-34.0.0
 truffleruby-dev
 yjit-dev
