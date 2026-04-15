@@ -6,40 +6,40 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 dart 3.11.5 is now available in asdf!</title>
+  <title>🚀 woodpecker-cli 3.14.0-rc.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dart 3.11.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install woodpecker-cli 3.14.0-rc.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dart-3.11.5</guid>
+  <guid isPermaLink="false">woodpecker-cli-3.14.0-rc.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Apr 2026 09:08:44 +0000</pubDate>
+  <pubDate>Wed, 15 Apr 2026 10:54:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 clj-kondo 2026.04.15 is now available in asdf!</title>
+  <title>🚀 terramate 0.17.0-rc5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install clj-kondo 2026.04.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terramate 0.17.0-rc5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">clj-kondo-2026.04.15</guid>
+  <guid isPermaLink="false">terramate-0.17.0-rc5</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Apr 2026 09:08:34 +0000</pubDate>
+  <pubDate>Wed, 15 Apr 2026 10:54:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 cairo-profiler 0.16.0 is now available in asdf!</title>
+  <title>🚀 starknet-devnet 0.8.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install cairo-profiler 0.16.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install starknet-devnet 0.8.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">cairo-profiler-0.16.0</guid>
+  <guid isPermaLink="false">starknet-devnet-0.8.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 15 Apr 2026 09:08:25 +0000</pubDate>
+  <pubDate>Wed, 15 Apr 2026 10:53:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zoxide 0.9.8 is now available in asdf!</title>
+  <title>🚀 codeql 2.25.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zoxide 0.9.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install codeql 2.25.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zoxide-0.9.8</guid>
+  <guid isPermaLink="false">codeql-2.25.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 26 May 2025 22:11:40 +0000</pubDate>
+  <pubDate>Wed, 15 Apr 2026 10:51:13 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zprint 1.3.0 is now available in asdf!</title>
@@ -49,15 +49,6 @@
   <guid isPermaLink="false">zprint-1.3.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.8.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.8.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 04 Nov 2025 12:22:59 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.9.0-alpha1-optimize is now available in asdf!</title>
@@ -330,6 +321,15 @@
   <pubDate>Sun, 09 Feb 2025 22:09:51 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zoxide 0.9.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zoxide 0.9.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zoxide-0.9.8</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 26 May 2025 22:11:40 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.8.0-alpha4.1-rc1 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha4.1-rc1</code> to install it.</p>]]>
@@ -600,13 +600,13 @@
   <pubDate>Mon, 27 Oct 2025 14:13:13 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.2-optimize is now available in asdf!</title>
+  <title>🚀 zbctl 8.8.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.2-optimize</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.2-optimize</guid>
+  <guid isPermaLink="false">zbctl-8.8.3</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Jun 2025 16:16:45 +0000</pubDate>
+  <pubDate>Tue, 04 Nov 2025 12:22:59 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.2-rc1 is now available in asdf!</title>
@@ -1156,6 +1156,15 @@
   <guid isPermaLink="false">zbctl-8.7.17</guid>
   <category>new-version</category>
   <pubDate>Tue, 04 Nov 2025 12:22:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.2-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.2-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.2-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Jun 2025 16:16:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.22 is now available in asdf!</title>
@@ -2245,15 +2254,6 @@
   <guid isPermaLink="false">zbctl-8.3.20-alpha-rc999.1</guid>
   <category>new-version</category>
   <pubDate>Sun, 27 Jul 2025 08:15:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.3.20 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.20</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.3.20</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 20:13:30 +0000</pubDate>
 </item>
   </channel>
 </rss>
