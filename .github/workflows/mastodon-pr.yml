@@ -10,6 +10,6 @@ jobs:
     name: Preview
     runs-on: ubuntu-latest
     steps:
-      - uses: joschi/toot-together@v1.x
+      - uses: joschi/toot-together@v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
