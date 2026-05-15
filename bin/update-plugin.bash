@@ -7,6 +7,7 @@ TOOTS_DIR="./toots"
 RSS_DIR="./rss"
 TEMP_DIR=$(mktemp -d)
 BLACKLIST="${DATA_DIR}/blacklist.txt"
+MAX_ITEMS=5
 trap 'rm -rf ${TEMP_DIR}' EXIT
 
 function ensure_dir {
@@ -50,6 +51,8 @@ function update_plugin_versions {
 		comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V > "${TEMP_DIR}/${plugin}-added.txt"
 	fi
 
+	tail -n "${MAX_ITEMS}" "${TEMP_DIR}/${plugin}-added.txt" > "${TEMP_DIR}/${plugin}-social.txt"
+
 	while IFS= read -r version
 	do
 		echo "${plugin}: Added ${version}"
@@ -61,15 +64,18 @@ function update_plugin_versions {
 			# Sanitize version for use as file name
 			version_filename=${version//\//-}
 
-			# Toot new plugin versions
-			cat<<EOF > "${toots_dir}/${version_filename}.toot"
+			if grep -Fxq "${version}" "${TEMP_DIR}/${plugin}-social.txt"
+			then
+				# Toot new plugin versions
+				cat<<EOF > "${toots_dir}/${version_filename}.toot"
 🚀 ${plugin} ${version} is now available in asdf!
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
 EOF
+			fi
 
-	# RSS item for new plugins
-	cat<<EOF > "${RSS_DIR}/version-${plugin}-${version_filename}.rss"
+			# RSS item for new plugins
+			cat<<EOF > "${RSS_DIR}/version-${plugin}-${version_filename}.rss"
 <item>
   <title>🚀 ${plugin} ${version} is now available in asdf!</title>
   <description>
