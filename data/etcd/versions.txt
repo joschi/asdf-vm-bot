@@ -230,6 +230,7 @@
 3.4.42
 3.4.43
 3.4.44
+3.4.45
 3.4.5
 3.4.6
 3.4.7
@@ -268,6 +269,7 @@
 3.5.29
 3.5.3
 3.5.30
+3.5.31
 3.5.4
 3.5.5
 3.5.6
@@ -285,6 +287,7 @@
 3.6.1
 3.6.10
 3.6.11
+3.6.12
 3.6.2
 3.6.3
 3.6.4
@@ -295,6 +298,7 @@
 3.6.9
 3.7.0-alpha.0
 3.7.0-beta.0
+3.7.0-rc.0
 api/v3.5.0
 api/v3.5.0-alpha.0
 api/v3.5.0-beta.2
@@ -326,6 +330,7 @@ api/v3.5.28
 api/v3.5.29
 api/v3.5.3
 api/v3.5.30
+api/v3.5.31
 api/v3.5.4
 api/v3.5.5
 api/v3.5.6
@@ -343,6 +348,7 @@ api/v3.6.0-rc.5
 api/v3.6.1
 api/v3.6.10
 api/v3.6.11
+api/v3.6.12
 api/v3.6.2
 api/v3.6.3
 api/v3.6.4
@@ -353,6 +359,7 @@ api/v3.6.8
 api/v3.6.9
 api/v3.7.0-alpha.0
 api/v3.7.0-beta.0
+api/v3.7.0-rc.0
 client/pkg/v3.5.0
 client/pkg/v3.5.0-beta.2
 client/pkg/v3.5.0-beta.3
@@ -383,6 +390,7 @@ client/pkg/v3.5.28
 client/pkg/v3.5.29
 client/pkg/v3.5.3
 client/pkg/v3.5.30
+client/pkg/v3.5.31
 client/pkg/v3.5.4
 client/pkg/v3.5.5
 client/pkg/v3.5.6
@@ -400,6 +408,7 @@ client/pkg/v3.6.0-rc.5
 client/pkg/v3.6.1
 client/pkg/v3.6.10
 client/pkg/v3.6.11
+client/pkg/v3.6.12
 client/pkg/v3.6.2
 client/pkg/v3.6.3
 client/pkg/v3.6.4
@@ -410,6 +419,7 @@ client/pkg/v3.6.8
 client/pkg/v3.6.9
 client/pkg/v3.7.0-alpha.0
 client/pkg/v3.7.0-beta.0
+client/pkg/v3.7.0-rc.0
 client/v2.305.0
 client/v2.305.0-alpha.0
 client/v2.305.0-beta.2
@@ -441,6 +451,7 @@ client/v2.305.28
 client/v2.305.29
 client/v2.305.3
 client/v2.305.30
+client/v2.305.31
 client/v2.305.4
 client/v2.305.5
 client/v2.305.6
@@ -482,6 +493,7 @@ client/v3.5.28
 client/v3.5.29
 client/v3.5.3
 client/v3.5.30
+client/v3.5.31
 client/v3.5.4
 client/v3.5.5
 client/v3.5.6
@@ -499,6 +511,7 @@ client/v3.6.0-rc.5
 client/v3.6.1
 client/v3.6.10
 client/v3.6.11
+client/v3.6.12
 client/v3.6.2
 client/v3.6.3
 client/v3.6.4
@@ -509,6 +522,7 @@ client/v3.6.8
 client/v3.6.9
 client/v3.7.0-alpha.0
 client/v3.7.0-beta.0
+client/v3.7.0-rc.0
 etcdctl/v3.5.0
 etcdctl/v3.5.0-alpha.0
 etcdctl/v3.5.0-beta.2
@@ -540,6 +554,7 @@ etcdctl/v3.5.28
 etcdctl/v3.5.29
 etcdctl/v3.5.3
 etcdctl/v3.5.30
+etcdctl/v3.5.31
 etcdctl/v3.5.4
 etcdctl/v3.5.5
 etcdctl/v3.5.6
@@ -557,6 +572,7 @@ etcdctl/v3.6.0-rc.5
 etcdctl/v3.6.1
 etcdctl/v3.6.10
 etcdctl/v3.6.11
+etcdctl/v3.6.12
 etcdctl/v3.6.2
 etcdctl/v3.6.3
 etcdctl/v3.6.4
@@ -567,6 +583,7 @@ etcdctl/v3.6.8
 etcdctl/v3.6.9
 etcdctl/v3.7.0-alpha.0
 etcdctl/v3.7.0-beta.0
+etcdctl/v3.7.0-rc.0
 etcdutl/v3.5.0
 etcdutl/v3.5.0-beta.2
 etcdutl/v3.5.0-beta.3
@@ -597,6 +614,7 @@ etcdutl/v3.5.28
 etcdutl/v3.5.29
 etcdutl/v3.5.3
 etcdutl/v3.5.30
+etcdutl/v3.5.31
 etcdutl/v3.5.4
 etcdutl/v3.5.5
 etcdutl/v3.5.6
@@ -614,6 +632,7 @@ etcdutl/v3.6.0-rc.5
 etcdutl/v3.6.1
 etcdutl/v3.6.10
 etcdutl/v3.6.11
+etcdutl/v3.6.12
 etcdutl/v3.6.2
 etcdutl/v3.6.3
 etcdutl/v3.6.4
@@ -624,6 +643,7 @@ etcdutl/v3.6.8
 etcdutl/v3.6.9
 etcdutl/v3.7.0-alpha.0
 etcdutl/v3.7.0-beta.0
+etcdutl/v3.7.0-rc.0
 pkg/v3.5.0
 pkg/v3.5.0-alpha.0
 pkg/v3.5.0-beta.2
@@ -655,6 +675,7 @@ pkg/v3.5.28
 pkg/v3.5.29
 pkg/v3.5.3
 pkg/v3.5.30
+pkg/v3.5.31
 pkg/v3.5.4
 pkg/v3.5.5
 pkg/v3.5.6
@@ -672,6 +693,7 @@ pkg/v3.6.0-rc.5
 pkg/v3.6.1
 pkg/v3.6.10
 pkg/v3.6.11
+pkg/v3.6.12
 pkg/v3.6.2
 pkg/v3.6.3
 pkg/v3.6.4
@@ -682,6 +704,7 @@ pkg/v3.6.8
 pkg/v3.6.9
 pkg/v3.7.0-alpha.0
 pkg/v3.7.0-beta.0
+pkg/v3.7.0-rc.0
 raft/v3.5.0
 raft/v3.5.0-alpha.0
 raft/v3.5.0-beta.2
@@ -713,6 +736,7 @@ raft/v3.5.28
 raft/v3.5.29
 raft/v3.5.3
 raft/v3.5.30
+raft/v3.5.31
 raft/v3.5.4
 raft/v3.5.5
 raft/v3.5.6
@@ -751,6 +775,7 @@ server/v3.5.28
 server/v3.5.29
 server/v3.5.3
 server/v3.5.30
+server/v3.5.31
 server/v3.5.4
 server/v3.5.5
 server/v3.5.6
@@ -768,6 +793,7 @@ server/v3.6.0-rc.5
 server/v3.6.1
 server/v3.6.10
 server/v3.6.11
+server/v3.6.12
 server/v3.6.2
 server/v3.6.3
 server/v3.6.4
@@ -778,6 +804,7 @@ server/v3.6.8
 server/v3.6.9
 server/v3.7.0-alpha.0
 server/v3.7.0-beta.0
+server/v3.7.0-rc.0
 tests/v3.5.0
 tests/v3.5.0-alpha.0
 tests/v3.5.0-beta.2
@@ -809,6 +836,7 @@ tests/v3.5.28
 tests/v3.5.29
 tests/v3.5.3
 tests/v3.5.30
+tests/v3.5.31
 tests/v3.5.4
 tests/v3.5.5
 tests/v3.5.6
@@ -826,6 +854,7 @@ tests/v3.6.0-rc.5
 tests/v3.6.1
 tests/v3.6.10
 tests/v3.6.11
+tests/v3.6.12
 tests/v3.6.2
 tests/v3.6.3
 tests/v3.6.4
@@ -836,6 +865,7 @@ tests/v3.6.8
 tests/v3.6.9
 tests/v3.7.0-alpha.0
 tests/v3.7.0-beta.0
+tests/v3.7.0-rc.0
 v3.2.27
 v3.2.28
 v3.2.29
