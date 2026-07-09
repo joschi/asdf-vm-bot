@@ -6,103 +6,157 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 vcluster 0.34.6 is now available in asdf!</title>
+  <title>🚀 vcluster 0.35.2-rc.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.34.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.35.2-rc.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.34.6</guid>
+  <guid isPermaLink="false">vcluster-0.35.2-rc.1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:25:52 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 terraform-ls 0.39.0-beta5 is now available in asdf!</title>
+  <title>🚀 vcluster 0.35.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform-ls 0.39.0-beta5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.35.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">terraform-ls-0.39.0-beta5</guid>
+  <guid isPermaLink="false">vcluster-0.35.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:25:43 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 supabase-cli 2.110.0-beta.19 is now available in asdf!</title>
+  <title>🚀 updatecli 0.119.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.110.0-beta.19</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.119.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">supabase-cli-2.110.0-beta.19</guid>
+  <guid isPermaLink="false">updatecli-0.119.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:25:36 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:48 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 starknet-devnet 0.9.1 is now available in asdf!</title>
+  <title>🚀 temporal 1.7.3-standalone-nexus-operations is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install starknet-devnet 0.9.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install temporal 1.7.3-standalone-nexus-operations</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">starknet-devnet-0.9.1</guid>
+  <guid isPermaLink="false">temporal-1.7.3-standalone-nexus-operations</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:25:33 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rust 1.97.0 is now available in asdf!</title>
+  <title>🚀 supabase-cli 2.110.0-beta.20 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rust 1.97.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install supabase-cli 2.110.0-beta.20</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rust-1.97.0</guid>
+  <guid isPermaLink="false">supabase-cli-2.110.0-beta.20</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:25:24 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:35 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 flyway 12.11.0 is now available in asdf!</title>
+  <title>🚀 snyk 1.1306.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install flyway 12.11.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install snyk 1.1306.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">flyway-12.11.0</guid>
+  <guid isPermaLink="false">snyk-1.1306.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:24:09 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:31 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 eza 0.23.5 is now available in asdf!</title>
+  <title>🚀 protoc 36.0-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install eza 0.23.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install protoc 36.0-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">eza-0.23.5</guid>
+  <guid isPermaLink="false">protoc-36.0-rc1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:24:07 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 circleci-cli 1.0.44129-pre is now available in asdf!</title>
+  <title>🚀 pixi 0.72.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install circleci-cli 1.0.44129-pre</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pixi 0.72.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">circleci-cli-1.0.44129-pre</guid>
+  <guid isPermaLink="false">pixi-0.72.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:23:51 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 circleci-cli 1.0.44088-pre is now available in asdf!</title>
+  <title>🚀 pint 0.87.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install circleci-cli 1.0.44088-pre</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pint 0.87.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">circleci-cli-1.0.44088-pre</guid>
+  <guid isPermaLink="false">pint-0.87.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:23:51 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:22:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 chromedriver 152.0.7940.0 is now available in asdf!</title>
+  <title>🚀 dotenvx 2.3.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 152.0.7940.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install dotenvx 2.3.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">chromedriver-152.0.7940.0</guid>
+  <guid isPermaLink="false">dotenvx-2.3.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:23:50 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:21:00 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 checkov 3.3.8 is now available in asdf!</title>
+  <title>🚀 cloudflared 2026.7.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install checkov 3.3.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install cloudflared 2026.7.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">checkov-3.3.8</guid>
+  <guid isPermaLink="false">cloudflared-2026.7.1</guid>
   <category>new-version</category>
-  <pubDate>Thu, 09 Jul 2026 12:23:49 +0000</pubDate>
+  <pubDate>Thu, 09 Jul 2026 16:20:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 bashly 1.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install bashly 1.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">bashly-1.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Jul 2026 16:20:38 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 apko 1.2.24 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install apko 1.2.24</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">apko-1.2.24</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Jul 2026 16:20:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 1password-cli 2.37.0-beta.01 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install 1password-cli 2.37.0-beta.01</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">1password-cli-2.37.0-beta.01</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 09 Jul 2026 16:20:30 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zoxide 0.9.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zoxide 0.9.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zoxide-0.9.8</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 26 May 2025 22:11:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zprint 1.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zprint 1.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zprint-1.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zellij 0.44.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zellij 0.44.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zellij-0.44.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 07 Apr 2026 12:55:42 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zellij 0.44.2 is now available in asdf!</title>
@@ -348,24 +402,6 @@
   <pubDate>Sun, 09 Feb 2025 22:09:51 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zoxide 0.9.8 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zoxide 0.9.8</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zoxide-0.9.8</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 26 May 2025 22:11:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zprint 1.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zprint 1.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zprint-1.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 14 May 2025 18:16:50 +0000</pubDate>
-</item>
-<item>
   <title>🚀 zbctl 8.8.0-alpha7-rc2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.8.0-alpha7-rc2</code> to install it.</p>]]>
@@ -607,42 +643,6 @@
   <guid isPermaLink="false">zellij-0.44.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 23 Mar 2026 08:43:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zellij 0.44.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zellij 0.44.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zellij-0.44.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 07 Apr 2026 12:55:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.7 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.7</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.7</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 01 Jul 2025 12:22:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.8-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.8-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.8-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Aug 2025 20:14:43 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.8 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.8</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.8</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 16 Jul 2025 12:23:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.7.9-optimize is now available in asdf!</title>
@@ -888,69 +888,6 @@
   <pubDate>Wed, 30 Jul 2025 14:17:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 01 Apr 2025 10:15:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.1-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.1-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 07 May 2025 12:22:41 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.1-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.1-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 09 Apr 2025 10:14:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 09 Apr 2025 14:13:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.10-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.10-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.10-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 25 Sep 2025 12:22:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.10 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.10</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.10</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 04 Aug 2025 20:15:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.11-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.11-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.11-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 06 Oct 2025 20:14:35 +0000</pubDate>
-</item>
-<item>
   <title>🚀 zbctl 8.7.11 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.11</code> to install it.</p>]]>
@@ -1167,6 +1104,186 @@
   <pubDate>Thu, 07 Aug 2025 14:19:18 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 zbctl 8.7.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.7</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 01 Jul 2025 12:22:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.8-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.8-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.8-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Aug 2025 20:14:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.8</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 16 Jul 2025 12:23:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha5-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 05 Mar 2025 08:16:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha5</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 04 Mar 2025 18:15:20 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 02 Apr 2025 16:15:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Mar 2025 12:19:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-rc2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-rc2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 25 Mar 2025 14:12:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-rc3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-rc3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 26 Mar 2025 10:13:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 01 Apr 2025 10:15:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.1-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.1-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 07 May 2025 12:22:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.1-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.1-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 09 Apr 2025 10:14:53 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 09 Apr 2025 14:13:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.10-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.10-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.10-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 25 Sep 2025 12:22:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 04 Aug 2025 20:15:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.11-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.11-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.11-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 06 Oct 2025 20:14:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.6</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 18:15:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.7-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.7-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 02 Apr 2025 14:12:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.7-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.7-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
+</item>
+<item>
   <title>🚀 zbctl 8.6.7-rc2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc2</code> to install it.</p>]]>
@@ -1372,78 +1489,6 @@
   <guid isPermaLink="false">zbctl-8.7.0-alpha4</guid>
   <category>new-version</category>
   <pubDate>Fri, 07 Feb 2025 12:18:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha5-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 08:16:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha5-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Feb 2025 12:19:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha5</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 18:15:20 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 16:15:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Mar 2025 12:19:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-rc2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-rc2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 25 Mar 2025 14:12:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-rc3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-rc3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-rc3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 26 Mar 2025 10:13:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.15-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.15-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 06 May 2025 10:14:03 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.6.15 is now available in asdf!</title>
@@ -1689,177 +1734,6 @@
   <pubDate>Fri, 28 Feb 2025 12:18:29 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.6 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.6</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.6</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 18:15:15 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.7-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.7-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 14:12:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.7-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.7-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.7-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 30 Dec 2024 14:10:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.18</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 06 May 2025 12:24:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.19 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.19</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.19</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.20 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.20</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.20</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 01 Jul 2025 16:15:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.21 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.21</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.21</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 30 Jul 2025 10:16:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.22 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.22</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.22</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 04 Aug 2025 14:18:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.23 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.23</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.23</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Aug 2025 12:21:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.24 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.24</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.24</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 02 Sep 2025 12:23:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.5.25 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.25</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.5.25</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 01 Oct 2025 14:13:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.10-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.10-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 16 Jun 2025 16:15:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.10 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.10</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 27 Feb 2025 18:14:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 20 Jun 2025 14:12:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-rc1-optimize is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1-optimize</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-rc1-optimize</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 19 Jun 2025 22:12:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 05 Mar 2025 16:18:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-test-2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-test-2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 01 Apr 2025 10:15:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-test-SNAPSHOT-1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT-1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT-1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 23 Mar 2025 00:51:14 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.6.11-test-SNAPSHOT-2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT-2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT-2</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 23 Mar 2025 00:51:14 +0000</pubDate>
-</item>
-<item>
   <title>🚀 zbctl 8.6.11-test-SNAPSHOT is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT</code> to install it.</p>]]>
@@ -1977,121 +1851,130 @@
   <pubDate>Mon, 25 Aug 2025 20:14:43 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.52.2 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.15-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.52.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.15-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.52.2</guid>
+  <guid isPermaLink="false">zbctl-8.6.15-rc1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 16 Dec 2025 12:25:48 +0000</pubDate>
+  <pubDate>Tue, 06 May 2025 10:14:03 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.53.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.21 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.21</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.53.0</guid>
+  <guid isPermaLink="false">zbctl-8.5.21</guid>
   <category>new-version</category>
-  <pubDate>Tue, 27 Jan 2026 10:19:50 +0000</pubDate>
+  <pubDate>Wed, 30 Jul 2025 10:16:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.53.1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.22 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.22</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.53.1</guid>
+  <guid isPermaLink="false">zbctl-8.5.22</guid>
   <category>new-version</category>
-  <pubDate>Tue, 17 Feb 2026 10:36:35 +0000</pubDate>
+  <pubDate>Mon, 04 Aug 2025 14:18:51 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.53.2 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.23 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.23</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.53.2</guid>
+  <guid isPermaLink="false">zbctl-8.5.23</guid>
   <category>new-version</category>
-  <pubDate>Fri, 20 Feb 2026 01:05:41 +0000</pubDate>
+  <pubDate>Mon, 25 Aug 2025 12:21:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.54.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.24 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.54.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.24</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.54.0</guid>
+  <guid isPermaLink="false">zbctl-8.5.24</guid>
   <category>new-version</category>
-  <pubDate>Mon, 27 Apr 2026 15:30:22 +0000</pubDate>
+  <pubDate>Tue, 02 Sep 2025 12:23:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.55.0 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.25 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.55.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.25</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.55.0</guid>
+  <guid isPermaLink="false">zbctl-8.5.25</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 May 2026 11:44:06 +0000</pubDate>
+  <pubDate>Wed, 01 Oct 2025 14:13:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ytt 0.55.1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.10-optimize is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ytt 0.55.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10-optimize</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ytt-0.55.1</guid>
+  <guid isPermaLink="false">zbctl-8.6.10-optimize</guid>
   <category>new-version</category>
-  <pubDate>Mon, 01 Jun 2026 15:49:39 +0000</pubDate>
+  <pubDate>Mon, 16 Jun 2025 16:15:51 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.10 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.10</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.18</guid>
+  <guid isPermaLink="false">zbctl-8.6.10</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
+  <pubDate>Thu, 27 Feb 2025 18:14:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.19 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.11-optimize is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.19</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-optimize</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.19</guid>
+  <guid isPermaLink="false">zbctl-8.6.11-optimize</guid>
   <category>new-version</category>
-  <pubDate>Mon, 06 Jan 2025 16:13:36 +0000</pubDate>
+  <pubDate>Fri, 20 Jun 2025 14:12:47 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.20-alpha-rc999.1 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.11-rc1-optimize is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.20-alpha-rc999.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1-optimize</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.20-alpha-rc999.1</guid>
+  <guid isPermaLink="false">zbctl-8.6.11-rc1-optimize</guid>
   <category>new-version</category>
-  <pubDate>Sun, 27 Jul 2025 08:15:47 +0000</pubDate>
+  <pubDate>Thu, 19 Jun 2025 22:12:00 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.20 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.11-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.20</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.20</guid>
+  <guid isPermaLink="false">zbctl-8.6.11-rc1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 03 Feb 2025 20:13:30 +0000</pubDate>
+  <pubDate>Wed, 05 Mar 2025 16:18:10 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.21 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.11-test-2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.21</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.21</guid>
+  <guid isPermaLink="false">zbctl-8.6.11-test-2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 04 Mar 2025 14:12:46 +0000</pubDate>
+  <pubDate>Tue, 01 Apr 2025 10:15:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.3.22 is now available in asdf!</title>
+  <title>🚀 zbctl 8.6.11-test-SNAPSHOT-1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.22</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT-1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.3.22</guid>
+  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT-1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 02 Apr 2025 12:20:18 +0000</pubDate>
+  <pubDate>Sun, 23 Mar 2025 00:51:14 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.11-test-SNAPSHOT-2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.11-test-SNAPSHOT-2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.11-test-SNAPSHOT-2</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 23 Mar 2025 00:51:14 +0000</pubDate>
 </item>
 <item>
   <title>🚀 zbctl 8.4.14 is now available in asdf!</title>
@@ -2238,22 +2121,139 @@
   <pubDate>Wed, 02 Apr 2025 10:14:32 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.05.22 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.05.22</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2025.05.22</guid>
+  <guid isPermaLink="false">zbctl-8.5.18</guid>
   <category>new-version</category>
-  <pubDate>Thu, 22 May 2025 10:15:30 +0000</pubDate>
+  <pubDate>Tue, 06 May 2025 12:24:08 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 yt-dlp 2025.06.09 is now available in asdf!</title>
+  <title>🚀 zbctl 8.5.19 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2025.06.09</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.19</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">yt-dlp-2025.06.09</guid>
+  <guid isPermaLink="false">zbctl-8.5.19</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Jun 2025 00:53:00 +0000</pubDate>
+  <pubDate>Tue, 03 Jun 2025 14:15:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.5.20 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.5.20</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.5.20</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 01 Jul 2025 16:15:53 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.51.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.51.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 11 Dec 2024 10:12:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.51.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.51.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.51.2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 28 Mar 2025 08:17:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.52.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.52.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.52.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 05 May 2025 22:12:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.52.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.52.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.52.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 08 Sep 2025 20:14:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.52.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.52.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.52.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 16 Dec 2025 12:25:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.53.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.53.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 27 Jan 2026 10:19:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.53.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.53.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 17 Feb 2026 10:36:35 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.53.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.53.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.53.2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 20 Feb 2026 01:05:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.54.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.54.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.54.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 27 Apr 2026 15:30:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.55.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.55.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.55.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 May 2026 11:44:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ytt 0.55.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ytt 0.55.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ytt-0.55.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 01 Jun 2026 15:49:39 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.3.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.3.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.3.18</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 16:15:15 +0000</pubDate>
 </item>
   </channel>
 </rss>
