@@ -9,7 +9,7 @@ on:
 jobs:
   toot:
     name: Toot (@asdf_vm@mas.to)
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     if: ${{ contains(github.event.head_commit.message, 'Add new toots') }}
     steps:
       - name: Checkout
