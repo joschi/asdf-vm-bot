@@ -8,7 +8,7 @@ on:
 jobs:
   preview:
     name: Preview
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - uses: joschi/toot-together@v1.x
         env:
