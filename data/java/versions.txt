@@ -37,6 +37,7 @@ adoptopenjdk-11.0.3+7.openj9-0.14.0
 adoptopenjdk-11.0.3+7.openj9-0.14.3
 adoptopenjdk-11.0.30+7
 adoptopenjdk-11.0.31+11
+adoptopenjdk-11.0.32+9
 adoptopenjdk-11.0.4+11.1
 adoptopenjdk-11.0.4+11.1.openj9-0.15.1
 adoptopenjdk-11.0.5+10.1
@@ -92,6 +93,7 @@ adoptopenjdk-17.0.17+10
 adoptopenjdk-17.0.18+8
 adoptopenjdk-17.0.19+10
 adoptopenjdk-17.0.2+8
+adoptopenjdk-17.0.20+8
 adoptopenjdk-17.0.3+7
 adoptopenjdk-17.0.4+101
 adoptopenjdk-17.0.4+8
@@ -116,6 +118,7 @@ adoptopenjdk-21.0.0+35.0.LTS
 adoptopenjdk-21.0.1+12.0.LTS
 adoptopenjdk-21.0.10+7.0.LTS
 adoptopenjdk-21.0.11+10.0.LTS
+adoptopenjdk-21.0.12+8.0.LTS
 adoptopenjdk-21.0.2+13.0.LTS
 adoptopenjdk-21.0.3+9.0.LTS
 adoptopenjdk-21.0.4+7.0.LTS
@@ -225,6 +228,7 @@ adoptopenjdk-jre-11.0.29+7
 adoptopenjdk-jre-11.0.3+7
 adoptopenjdk-jre-11.0.30+7
 adoptopenjdk-jre-11.0.31+11
+adoptopenjdk-jre-11.0.32+9
 adoptopenjdk-jre-11.0.4+11.1
 adoptopenjdk-jre-11.0.5+10.1
 adoptopenjdk-jre-11.0.6+10.1
@@ -258,6 +262,7 @@ adoptopenjdk-jre-17.0.17+10
 adoptopenjdk-jre-17.0.18+8
 adoptopenjdk-jre-17.0.19+10
 adoptopenjdk-jre-17.0.2+8
+adoptopenjdk-jre-17.0.20+8
 adoptopenjdk-jre-17.0.3+7
 adoptopenjdk-jre-17.0.4+101
 adoptopenjdk-jre-17.0.4+8
@@ -281,6 +286,7 @@ adoptopenjdk-jre-21.0.0+35.0.LTS
 adoptopenjdk-jre-21.0.1+12.0.LTS
 adoptopenjdk-jre-21.0.10+7.0.LTS
 adoptopenjdk-jre-21.0.11+10.0.LTS
+adoptopenjdk-jre-21.0.12+8.0.LTS
 adoptopenjdk-jre-21.0.2+13.0.LTS
 adoptopenjdk-jre-21.0.3+9.0.LTS
 adoptopenjdk-jre-21.0.4+7.0.LTS
@@ -376,6 +382,7 @@ adoptopenjdk-jre-musl-17.0.17+10
 adoptopenjdk-jre-musl-17.0.18+8
 adoptopenjdk-jre-musl-17.0.19+10
 adoptopenjdk-jre-musl-17.0.2+8
+adoptopenjdk-jre-musl-17.0.20+8
 adoptopenjdk-jre-musl-17.0.3+7
 adoptopenjdk-jre-musl-17.0.4+101
 adoptopenjdk-jre-musl-17.0.4+8
@@ -600,6 +607,7 @@ adoptopenjdk-musl-17.0.17+10
 adoptopenjdk-musl-17.0.18+8
 adoptopenjdk-musl-17.0.19+10
 adoptopenjdk-musl-17.0.2+8
+adoptopenjdk-musl-17.0.20+8
 adoptopenjdk-musl-17.0.3+7
 adoptopenjdk-musl-17.0.4+101
 adoptopenjdk-musl-17.0.4+8
@@ -4152,6 +4160,7 @@ temurin-11.0.28+6
 temurin-11.0.29+7
 temurin-11.0.30+7
 temurin-11.0.31+11
+temurin-11.0.32+9
 temurin-16.0.2+7
 temurin-17.0.0+35
 temurin-17.0.1+12
@@ -4166,6 +4175,7 @@ temurin-17.0.17+10
 temurin-17.0.18+8
 temurin-17.0.19+10
 temurin-17.0.2+8
+temurin-17.0.20+8
 temurin-17.0.3+7
 temurin-17.0.4+101
 temurin-17.0.4+8
@@ -4190,6 +4200,7 @@ temurin-21.0.0+35.0.LTS
 temurin-21.0.1+12.0.LTS
 temurin-21.0.10+7.0.LTS
 temurin-21.0.11+10.0.LTS
+temurin-21.0.12+8.0.LTS
 temurin-21.0.2+13.0.LTS
 temurin-21.0.3+9.0.LTS
 temurin-21.0.4+7.0.LTS
@@ -4257,6 +4268,7 @@ temurin-jre-11.0.28+6
 temurin-jre-11.0.29+7
 temurin-jre-11.0.30+7
 temurin-jre-11.0.31+11
+temurin-jre-11.0.32+9
 temurin-jre-17.0.1+12
 temurin-jre-17.0.10+7
 temurin-jre-17.0.11+9
@@ -4269,6 +4281,7 @@ temurin-jre-17.0.17+10
 temurin-jre-17.0.18+8
 temurin-jre-17.0.19+10
 temurin-jre-17.0.2+8
+temurin-jre-17.0.20+8
 temurin-jre-17.0.3+7
 temurin-jre-17.0.4+101
 temurin-jre-17.0.4+8
@@ -4292,6 +4305,7 @@ temurin-jre-21.0.0+35.0.LTS
 temurin-jre-21.0.1+12.0.LTS
 temurin-jre-21.0.10+7.0.LTS
 temurin-jre-21.0.11+10.0.LTS
+temurin-jre-21.0.12+8.0.LTS
 temurin-jre-21.0.2+13.0.LTS
 temurin-jre-21.0.3+9.0.LTS
 temurin-jre-21.0.4+7.0.LTS
@@ -4370,6 +4384,7 @@ temurin-jre-musl-17.0.17+10
 temurin-jre-musl-17.0.18+8
 temurin-jre-musl-17.0.19+10
 temurin-jre-musl-17.0.2+8
+temurin-jre-musl-17.0.20+8
 temurin-jre-musl-17.0.3+7
 temurin-jre-musl-17.0.4+101
 temurin-jre-musl-17.0.4+8
@@ -4470,6 +4485,7 @@ temurin-musl-17.0.17+10
 temurin-musl-17.0.18+8
 temurin-musl-17.0.19+10
 temurin-musl-17.0.2+8
+temurin-musl-17.0.20+8
 temurin-musl-17.0.3+7
 temurin-musl-17.0.4+101
 temurin-musl-17.0.4+8
@@ -4998,6 +5014,7 @@ zulu-javafx-11.82.19
 zulu-javafx-11.84.17
 zulu-javafx-11.86.21
 zulu-javafx-11.88.17
+zulu-javafx-11.90.19
 zulu-javafx-13.29.11
 zulu-javafx-13.31.11
 zulu-javafx-13.33.25
@@ -5050,6 +5067,7 @@ zulu-javafx-17.60.17
 zulu-javafx-17.62.17
 zulu-javafx-17.64.17
 zulu-javafx-17.66.19
+zulu-javafx-17.68.17
 zulu-javafx-18.28.13
 zulu-javafx-18.30.11
 zulu-javafx-18.32.11
@@ -5072,6 +5090,7 @@ zulu-javafx-21.44.17
 zulu-javafx-21.46.19
 zulu-javafx-21.48.17
 zulu-javafx-21.50.19
+zulu-javafx-21.52.15
 zulu-javafx-22.28.91
 zulu-javafx-22.30.13
 zulu-javafx-22.32.15
@@ -5085,8 +5104,10 @@ zulu-javafx-25.28.85
 zulu-javafx-25.30.17
 zulu-javafx-25.32.21
 zulu-javafx-25.34.17
+zulu-javafx-25.36.15
 zulu-javafx-26.28.63
 zulu-javafx-26.30.11
+zulu-javafx-26.32.13
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -5121,6 +5142,7 @@ zulu-javafx-8.88.0.19
 zulu-javafx-8.90.0.19
 zulu-javafx-8.92.0.21
 zulu-javafx-8.94.0.17
+zulu-javafx-8.96.0.19
 zulu-jre-11.31.11
 zulu-jre-11.33.15
 zulu-jre-11.35.13
@@ -5444,6 +5466,7 @@ zulu-jre-javafx-11.82.19
 zulu-jre-javafx-11.84.17
 zulu-jre-javafx-11.86.21
 zulu-jre-javafx-11.88.17
+zulu-jre-javafx-11.90.19
 zulu-jre-javafx-13.29.11
 zulu-jre-javafx-13.31.11
 zulu-jre-javafx-13.33.25
@@ -5493,6 +5516,7 @@ zulu-jre-javafx-17.60.17
 zulu-jre-javafx-17.62.17
 zulu-jre-javafx-17.64.17
 zulu-jre-javafx-17.66.19
+zulu-jre-javafx-17.68.17
 zulu-jre-javafx-18.28.13
 zulu-jre-javafx-18.30.11
 zulu-jre-javafx-18.32.11
@@ -5515,6 +5539,7 @@ zulu-jre-javafx-21.44.17
 zulu-jre-javafx-21.46.19
 zulu-jre-javafx-21.48.17
 zulu-jre-javafx-21.50.19
+zulu-jre-javafx-21.52.15
 zulu-jre-javafx-22.28.91
 zulu-jre-javafx-22.30.13
 zulu-jre-javafx-22.32.15
@@ -5528,8 +5553,10 @@ zulu-jre-javafx-25.28.85
 zulu-jre-javafx-25.30.17
 zulu-jre-javafx-25.32.21
 zulu-jre-javafx-25.34.17
+zulu-jre-javafx-25.36.15
 zulu-jre-javafx-26.28.63
 zulu-jre-javafx-26.30.11
+zulu-jre-javafx-26.32.13
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -5562,6 +5589,7 @@ zulu-jre-javafx-8.88.0.19
 zulu-jre-javafx-8.90.0.19
 zulu-jre-javafx-8.92.0.21
 zulu-jre-javafx-8.94.0.17
+zulu-jre-javafx-8.96.0.19
 zulu-jre-musl-11.31.11
 zulu-jre-musl-11.33.15
 zulu-jre-musl-11.35.13
