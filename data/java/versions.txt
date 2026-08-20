@@ -118,6 +118,7 @@ adoptopenjdk-21.0.0+35.0.LTS
 adoptopenjdk-21.0.1+12.0.LTS
 adoptopenjdk-21.0.10+7.0.LTS
 adoptopenjdk-21.0.11+10.0.LTS
+adoptopenjdk-21.0.12+101.0.LTS
 adoptopenjdk-21.0.12+8.0.LTS
 adoptopenjdk-21.0.2+13.0.LTS
 adoptopenjdk-21.0.3+9.0.LTS
@@ -289,6 +290,7 @@ adoptopenjdk-jre-21.0.0+35.0.LTS
 adoptopenjdk-jre-21.0.1+12.0.LTS
 adoptopenjdk-jre-21.0.10+7.0.LTS
 adoptopenjdk-jre-21.0.11+10.0.LTS
+adoptopenjdk-jre-21.0.12+101.0.LTS
 adoptopenjdk-jre-21.0.12+8.0.LTS
 adoptopenjdk-jre-21.0.2+13.0.LTS
 adoptopenjdk-jre-21.0.3+9.0.LTS
@@ -389,6 +391,7 @@ adoptopenjdk-jre-musl-17.0.17+10
 adoptopenjdk-jre-musl-17.0.18+8
 adoptopenjdk-jre-musl-17.0.19+10
 adoptopenjdk-jre-musl-17.0.2+8
+adoptopenjdk-jre-musl-17.0.20+101
 adoptopenjdk-jre-musl-17.0.20+8
 adoptopenjdk-jre-musl-17.0.3+7
 adoptopenjdk-jre-musl-17.0.4+101
@@ -435,6 +438,7 @@ adoptopenjdk-jre-musl-25.0.0+36.0.LTS
 adoptopenjdk-jre-musl-25.0.1+8.0.LTS
 adoptopenjdk-jre-musl-25.0.2+10.0.LTS
 adoptopenjdk-jre-musl-25.0.3+9.0.LTS
+adoptopenjdk-jre-musl-25.0.4+101.0.LTS
 adoptopenjdk-jre-musl-25.0.4+7.0.LTS
 adoptopenjdk-jre-musl-26.0.0+35
 adoptopenjdk-jre-musl-26.0.1+8
@@ -620,6 +624,7 @@ adoptopenjdk-musl-17.0.17+10
 adoptopenjdk-musl-17.0.18+8
 adoptopenjdk-musl-17.0.19+10
 adoptopenjdk-musl-17.0.2+8
+adoptopenjdk-musl-17.0.20+101
 adoptopenjdk-musl-17.0.20+8
 adoptopenjdk-musl-17.0.3+7
 adoptopenjdk-musl-17.0.4+101
@@ -667,6 +672,7 @@ adoptopenjdk-musl-25.0.0+36.0.LTS
 adoptopenjdk-musl-25.0.1+8.0.LTS
 adoptopenjdk-musl-25.0.2+10.0.LTS
 adoptopenjdk-musl-25.0.3+9.0.LTS
+adoptopenjdk-musl-25.0.4+101.0.LTS
 adoptopenjdk-musl-25.0.4+7.0.LTS
 adoptopenjdk-musl-26.0.0+35
 adoptopenjdk-musl-26.0.1+8
@@ -3374,6 +3380,7 @@ microsoft-11.0.29
 microsoft-11.0.30
 microsoft-11.0.31
 microsoft-11.0.32
+microsoft-11.0.32.1
 microsoft-16.0.1.9.1
 microsoft-16.0.2.7.1
 microsoft-17.0.1.12.1
@@ -3389,6 +3396,7 @@ microsoft-17.0.18
 microsoft-17.0.19
 microsoft-17.0.2.8.1
 microsoft-17.0.20
+microsoft-17.0.20.1
 microsoft-17.0.3
 microsoft-17.0.4
 microsoft-17.0.4.1
@@ -3404,6 +3412,7 @@ microsoft-21.0.1
 microsoft-21.0.10
 microsoft-21.0.11
 microsoft-21.0.12
+microsoft-21.0.12.1
 microsoft-21.0.2
 microsoft-21.0.3
 microsoft-21.0.4
@@ -3417,6 +3426,7 @@ microsoft-25.0.1
 microsoft-25.0.2
 microsoft-25.0.3
 microsoft-25.0.4
+microsoft-25.0.4.1
 openjdk-10
 openjdk-10.0.1
 openjdk-10.0.2
@@ -4312,6 +4322,7 @@ temurin-21.0.0+35.0.LTS
 temurin-21.0.1+12.0.LTS
 temurin-21.0.10+7.0.LTS
 temurin-21.0.11+10.0.LTS
+temurin-21.0.12+101.0.LTS
 temurin-21.0.12+8.0.LTS
 temurin-21.0.2+13.0.LTS
 temurin-21.0.3+9.0.LTS
@@ -4420,6 +4431,7 @@ temurin-jre-21.0.0+35.0.LTS
 temurin-jre-21.0.1+12.0.LTS
 temurin-jre-21.0.10+7.0.LTS
 temurin-jre-21.0.11+10.0.LTS
+temurin-jre-21.0.12+101.0.LTS
 temurin-jre-21.0.12+8.0.LTS
 temurin-jre-21.0.2+13.0.LTS
 temurin-jre-21.0.3+9.0.LTS
@@ -4503,6 +4515,7 @@ temurin-jre-musl-17.0.17+10
 temurin-jre-musl-17.0.18+8
 temurin-jre-musl-17.0.19+10
 temurin-jre-musl-17.0.2+8
+temurin-jre-musl-17.0.20+101
 temurin-jre-musl-17.0.20+8
 temurin-jre-musl-17.0.3+7
 temurin-jre-musl-17.0.4+101
@@ -4526,6 +4539,7 @@ temurin-jre-musl-21.0.0+35.0.LTS
 temurin-jre-musl-21.0.1+12.0.LTS
 temurin-jre-musl-21.0.10+7.0.LTS
 temurin-jre-musl-21.0.11+10.0.LTS
+temurin-jre-musl-21.0.12+101.0.LTS
 temurin-jre-musl-21.0.12+8.0.LTS
 temurin-jre-musl-21.0.2+13.0.LTS
 temurin-jre-musl-21.0.3+9.0.LTS
@@ -4548,6 +4562,7 @@ temurin-jre-musl-25.0.0+36.0.LTS
 temurin-jre-musl-25.0.1+8.0.LTS
 temurin-jre-musl-25.0.2+10.0.LTS
 temurin-jre-musl-25.0.3+9.0.LTS
+temurin-jre-musl-25.0.4+101.0.LTS
 temurin-jre-musl-25.0.4+7.0.LTS
 temurin-jre-musl-26.0.0+35
 temurin-jre-musl-26.0.1+8
@@ -4609,6 +4624,7 @@ temurin-musl-17.0.17+10
 temurin-musl-17.0.18+8
 temurin-musl-17.0.19+10
 temurin-musl-17.0.2+8
+temurin-musl-17.0.20+101
 temurin-musl-17.0.20+8
 temurin-musl-17.0.3+7
 temurin-musl-17.0.4+101
@@ -4633,6 +4649,7 @@ temurin-musl-21.0.0+35.0.LTS
 temurin-musl-21.0.1+12.0.LTS
 temurin-musl-21.0.10+7.0.LTS
 temurin-musl-21.0.11+10.0.LTS
+temurin-musl-21.0.12+101.0.LTS
 temurin-musl-21.0.12+8.0.LTS
 temurin-musl-21.0.2+13.0.LTS
 temurin-musl-21.0.3+9.0.LTS
@@ -4655,6 +4672,7 @@ temurin-musl-25.0.0+36.0.LTS
 temurin-musl-25.0.1+8.0.LTS
 temurin-musl-25.0.2+10.0.LTS
 temurin-musl-25.0.3+9.0.LTS
+temurin-musl-25.0.4+101.0.LTS
 temurin-musl-25.0.4+7.0.LTS
 temurin-musl-26.0.0+35
 temurin-musl-26.0.1+8
