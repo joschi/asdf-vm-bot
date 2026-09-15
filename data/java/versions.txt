@@ -1401,6 +1401,9 @@ graalvm-community-24.0.2
 graalvm-community-25.0.0
 graalvm-community-25.0.1
 graalvm-community-25.0.2
+graalvm-community-25.0.3
+graalvm-community-25.0.4
+graalvm-community-25.0.4.1
 ibm-jre-openj9-8.0.8.26
 ibm-jre-openj9-8.0.8.30
 ibm-jre-openj9-8.0.8.35
@@ -3583,6 +3586,7 @@ oracle-26
 oracle-26.0.1
 oracle-26.0.2
 oracle-26.0.2.1
+oracle-27
 oracle-graalvm-17.0.10
 oracle-graalvm-17.0.11
 oracle-graalvm-17.0.12
@@ -4955,6 +4959,7 @@ zulu-26.28.59
 zulu-26.30.11
 zulu-26.32.13
 zulu-26.32.203
+zulu-27.28.101
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -5330,6 +5335,7 @@ zulu-javafx-26.28.63
 zulu-javafx-26.30.11
 zulu-javafx-26.32.13
 zulu-javafx-26.32.203
+zulu-javafx-27.28.103
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -5530,6 +5536,7 @@ zulu-jre-26.28.59
 zulu-jre-26.30.11
 zulu-jre-26.32.13
 zulu-jre-26.32.203
+zulu-jre-27.28.101
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -5807,6 +5814,7 @@ zulu-jre-javafx-26.28.63
 zulu-jre-javafx-26.30.11
 zulu-jre-javafx-26.32.13
 zulu-jre-javafx-26.32.203
+zulu-jre-javafx-27.28.103
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -5998,6 +6006,7 @@ zulu-jre-musl-26.28.59
 zulu-jre-musl-26.30.11
 zulu-jre-musl-26.32.13
 zulu-jre-musl-26.32.203
+zulu-jre-musl-27.28.101
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -6203,6 +6212,7 @@ zulu-musl-26.28.59
 zulu-musl-26.30.11
 zulu-musl-26.32.13
 zulu-musl-26.32.203
+zulu-musl-27.28.101
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
