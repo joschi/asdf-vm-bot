@@ -959,6 +959,8 @@ corretto-26.0.0.35.2
 corretto-26.0.1.8.1
 corretto-26.0.2.10.1
 corretto-26.0.2.11.1
+corretto-27.0.0.33.1
+corretto-27.0.0.34.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -1122,6 +1124,8 @@ corretto-musl-26.0.0.35.2
 corretto-musl-26.0.1.8.1
 corretto-musl-26.0.2.10.1
 corretto-musl-26.0.2.11.1
+corretto-musl-27.0.0.33.1
+corretto-musl-27.0.0.34.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -3726,6 +3730,7 @@ sapmachine-26
 sapmachine-26.0.1
 sapmachine-26.0.2
 sapmachine-26.0.2.1
+sapmachine-27
 sapmachine-jre-10.0.1.10
 sapmachine-jre-10.0.2.13
 sapmachine-jre-10.46
@@ -3847,6 +3852,7 @@ sapmachine-jre-26
 sapmachine-jre-26.0.1
 sapmachine-jre-26.0.2
 sapmachine-jre-26.0.2.1
+sapmachine-jre-27
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.11
 sapmachine-jre-musl-17.0.12
@@ -3913,6 +3919,7 @@ sapmachine-jre-musl-26
 sapmachine-jre-musl-26.0.1
 sapmachine-jre-musl-26.0.2
 sapmachine-jre-musl-26.0.2.1
+sapmachine-jre-musl-27
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.11
 sapmachine-musl-17.0.12
@@ -3979,6 +3986,7 @@ sapmachine-musl-26
 sapmachine-musl-26.0.1
 sapmachine-musl-26.0.2
 sapmachine-musl-26.0.2.1
+sapmachine-musl-27
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
