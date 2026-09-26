@@ -149,6 +149,7 @@ adoptopenjdk-26.0.0+35
 adoptopenjdk-26.0.1+8
 adoptopenjdk-26.0.2+10
 adoptopenjdk-26.0.2+101
+adoptopenjdk-27.0.0+35
 adoptopenjdk-8.0.162+12.openj9-0.8.0
 adoptopenjdk-8.0.181+13
 adoptopenjdk-8.0.181+13.openj9-0.9.0
@@ -326,6 +327,7 @@ adoptopenjdk-jre-26.0.0+35
 adoptopenjdk-jre-26.0.1+8
 adoptopenjdk-jre-26.0.2+10
 adoptopenjdk-jre-26.0.2+101
+adoptopenjdk-jre-27.0.0+35
 adoptopenjdk-jre-8.0.181+13
 adoptopenjdk-jre-8.0.192+12
 adoptopenjdk-jre-8.0.202+8
@@ -455,6 +457,7 @@ adoptopenjdk-jre-musl-26.0.0+35
 adoptopenjdk-jre-musl-26.0.1+8
 adoptopenjdk-jre-musl-26.0.2+10
 adoptopenjdk-jre-musl-26.0.2+101
+adoptopenjdk-jre-musl-27.0.0+35
 adoptopenjdk-jre-musl-8.0.322+6
 adoptopenjdk-jre-musl-8.0.332+9
 adoptopenjdk-jre-musl-8.0.342+7
@@ -692,6 +695,7 @@ adoptopenjdk-musl-26.0.0+35
 adoptopenjdk-musl-26.0.1+8
 adoptopenjdk-musl-26.0.2+10
 adoptopenjdk-musl-26.0.2+101
+adoptopenjdk-musl-27.0.0+35
 adoptopenjdk-musl-8.0.322+6
 adoptopenjdk-musl-8.0.332+9
 adoptopenjdk-musl-8.0.342+7
@@ -859,6 +863,7 @@ corretto-11.0.3.7.1
 corretto-11.0.30.7.1
 corretto-11.0.31.11.1
 corretto-11.0.32.10.1
+corretto-11.0.32.12.1
 corretto-11.0.32.9.1
 corretto-11.0.4.11.1
 corretto-11.0.5.10.1
@@ -889,6 +894,7 @@ corretto-17.0.18.9.1
 corretto-17.0.19.10.1
 corretto-17.0.2.8.1
 corretto-17.0.20.10.1
+corretto-17.0.20.12.1
 corretto-17.0.20.8.1
 corretto-17.0.3.6.1
 corretto-17.0.4.8.1
@@ -916,6 +922,7 @@ corretto-21.0.0.35.1
 corretto-21.0.1.12.1
 corretto-21.0.10.7.1
 corretto-21.0.11.10.1
+corretto-21.0.12.12.1
 corretto-21.0.12.8.1
 corretto-21.0.12.9.1
 corretto-21.0.2.13.1
@@ -951,6 +958,7 @@ corretto-25.0.1.8.1
 corretto-25.0.1.9.1
 corretto-25.0.2.10.1
 corretto-25.0.3.9.1
+corretto-25.0.4.10.1
 corretto-25.0.4.7.1
 corretto-25.0.4.8.1
 corretto-26.0.0.34.1
@@ -1029,6 +1037,7 @@ corretto-musl-11.0.29.7.1
 corretto-musl-11.0.30.7.1
 corretto-musl-11.0.31.11.1
 corretto-musl-11.0.32.10.1
+corretto-musl-11.0.32.12.1
 corretto-musl-11.0.32.9.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
@@ -1056,6 +1065,7 @@ corretto-musl-17.0.18.9.1
 corretto-musl-17.0.19.10.1
 corretto-musl-17.0.2.8.1
 corretto-musl-17.0.20.10.1
+corretto-musl-17.0.20.12.1
 corretto-musl-17.0.20.8.1
 corretto-musl-17.0.3.6.1
 corretto-musl-17.0.4.8.1
@@ -1083,6 +1093,7 @@ corretto-musl-21.0.0.35.1
 corretto-musl-21.0.1.12.1
 corretto-musl-21.0.10.7.1
 corretto-musl-21.0.11.10.1
+corretto-musl-21.0.12.12.1
 corretto-musl-21.0.12.8.1
 corretto-musl-21.0.12.9.1
 corretto-musl-21.0.2.13.1
@@ -1117,6 +1128,7 @@ corretto-musl-25.0.1.8.1
 corretto-musl-25.0.1.9.1
 corretto-musl-25.0.2.10.1
 corretto-musl-25.0.3.9.1
+corretto-musl-25.0.4.10.1
 corretto-musl-25.0.4.7.1
 corretto-musl-25.0.4.8.1
 corretto-musl-26.0.0.34.1
