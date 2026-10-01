@@ -119,6 +119,7 @@
 6.16.1
 6.16.2
 6.16.3
+6.17.0
 6.2.0
 6.2.1
 6.3.0
@@ -148,6 +149,7 @@
 @stoplight/spectral-cli-6.16.1
 @stoplight/spectral-cli-6.16.2
 @stoplight/spectral-cli-6.16.3
+@stoplight/spectral-cli-6.17.0
 @stoplight/spectral-cli-6.9.0
 @stoplight/spectral-cli-v1.0.0
 @stoplight/spectral-cli-v1.1.0
@@ -184,6 +186,8 @@
 @stoplight/spectral-core-1.22.0
 @stoplight/spectral-core-1.23.0
 @stoplight/spectral-core-1.23.1
+@stoplight/spectral-core-1.23.2
+@stoplight/spectral-core-1.24.0
 @stoplight/spectral-core-v1.0.0
 @stoplight/spectral-core-v1.1.0
 @stoplight/spectral-core-v1.10.0
@@ -228,6 +232,7 @@
 @stoplight/spectral-formats-1.8.3
 @stoplight/spectral-formats-1.8.4
 @stoplight/spectral-formats-1.8.5
+@stoplight/spectral-formats-1.9.0
 @stoplight/spectral-formats-v1.0.0
 @stoplight/spectral-formats-v1.0.1
 @stoplight/spectral-formats-v1.0.2
@@ -245,6 +250,8 @@
 @stoplight/spectral-formatters-1.4.3
 @stoplight/spectral-formatters-1.5.0
 @stoplight/spectral-formatters-1.5.1
+@stoplight/spectral-formatters-1.5.2
+@stoplight/spectral-formatters-1.6.0
 @stoplight/spectral-formatters-v1.0.0
 @stoplight/spectral-functions-1.10.0
 @stoplight/spectral-functions-1.10.1
@@ -252,6 +259,7 @@
 @stoplight/spectral-functions-1.10.3
 @stoplight/spectral-functions-1.10.4
 @stoplight/spectral-functions-1.10.5
+@stoplight/spectral-functions-1.11.0
 @stoplight/spectral-functions-1.8.0
 @stoplight/spectral-functions-1.9.0
 @stoplight/spectral-functions-1.9.1
@@ -292,6 +300,7 @@
 @stoplight/spectral-ruleset-bundler-1.6.2
 @stoplight/spectral-ruleset-bundler-1.6.3
 @stoplight/spectral-ruleset-bundler-1.7.0
+@stoplight/spectral-ruleset-bundler-1.8.0
 @stoplight/spectral-ruleset-bundler-v1.0.0
 @stoplight/spectral-ruleset-bundler-v1.0.1
 @stoplight/spectral-ruleset-bundler-v1.1.0
@@ -314,6 +323,8 @@
 @stoplight/spectral-ruleset-migrator-1.12.0
 @stoplight/spectral-ruleset-migrator-1.12.1
 @stoplight/spectral-ruleset-migrator-1.12.2
+@stoplight/spectral-ruleset-migrator-1.12.3
+@stoplight/spectral-ruleset-migrator-1.13.0
 @stoplight/spectral-ruleset-migrator-1.9.4
 @stoplight/spectral-ruleset-migrator-1.9.5
 @stoplight/spectral-ruleset-migrator-v1.0.0
@@ -364,6 +375,7 @@
 @stoplight/spectral-rulesets-1.22.5
 @stoplight/spectral-rulesets-1.22.6
 @stoplight/spectral-rulesets-1.22.7
+@stoplight/spectral-rulesets-1.23.0
 @stoplight/spectral-rulesets-v1.0.0
 @stoplight/spectral-rulesets-v1.1.0
 @stoplight/spectral-rulesets-v1.10.0
