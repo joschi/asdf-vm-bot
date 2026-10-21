@@ -3706,6 +3706,7 @@ sapmachine-17.0.19
 sapmachine-17.0.2
 sapmachine-17.0.20
 sapmachine-17.0.20.1
+sapmachine-17.0.21
 sapmachine-17.0.3
 sapmachine-17.0.3.0.1
 sapmachine-17.0.4
@@ -3738,6 +3739,7 @@ sapmachine-21.0.10.0.1
 sapmachine-21.0.11
 sapmachine-21.0.12
 sapmachine-21.0.12.1
+sapmachine-21.0.13
 sapmachine-21.0.2
 sapmachine-21.0.3
 sapmachine-21.0.4
@@ -3761,11 +3763,13 @@ sapmachine-25.0.2
 sapmachine-25.0.3
 sapmachine-25.0.4
 sapmachine-25.0.4.1
+sapmachine-25.0.5
 sapmachine-26
 sapmachine-26.0.1
 sapmachine-26.0.2
 sapmachine-26.0.2.1
 sapmachine-27
+sapmachine-27.0.1
 sapmachine-jre-10.0.1.10
 sapmachine-jre-10.0.2.13
 sapmachine-jre-10.46
@@ -3828,6 +3832,7 @@ sapmachine-jre-17.0.19
 sapmachine-jre-17.0.2
 sapmachine-jre-17.0.20
 sapmachine-jre-17.0.20.1
+sapmachine-jre-17.0.21
 sapmachine-jre-17.0.3
 sapmachine-jre-17.0.3.0.1
 sapmachine-jre-17.0.4
@@ -3860,6 +3865,7 @@ sapmachine-jre-21.0.10.0.1
 sapmachine-jre-21.0.11
 sapmachine-jre-21.0.12
 sapmachine-jre-21.0.12.1
+sapmachine-jre-21.0.13
 sapmachine-jre-21.0.2
 sapmachine-jre-21.0.3
 sapmachine-jre-21.0.4
@@ -3883,11 +3889,13 @@ sapmachine-jre-25.0.2
 sapmachine-jre-25.0.3
 sapmachine-jre-25.0.4
 sapmachine-jre-25.0.4.1
+sapmachine-jre-25.0.5
 sapmachine-jre-26
 sapmachine-jre-26.0.1
 sapmachine-jre-26.0.2
 sapmachine-jre-26.0.2.1
 sapmachine-jre-27
+sapmachine-jre-27.0.1
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.11
 sapmachine-jre-musl-17.0.12
@@ -3927,6 +3935,7 @@ sapmachine-jre-musl-21.0.10.0.1
 sapmachine-jre-musl-21.0.11
 sapmachine-jre-musl-21.0.12
 sapmachine-jre-musl-21.0.12.1
+sapmachine-jre-musl-21.0.13
 sapmachine-jre-musl-21.0.2
 sapmachine-jre-musl-21.0.3
 sapmachine-jre-musl-21.0.4
@@ -3950,11 +3959,13 @@ sapmachine-jre-musl-25.0.2
 sapmachine-jre-musl-25.0.3
 sapmachine-jre-musl-25.0.4
 sapmachine-jre-musl-25.0.4.1
+sapmachine-jre-musl-25.0.5
 sapmachine-jre-musl-26
 sapmachine-jre-musl-26.0.1
 sapmachine-jre-musl-26.0.2
 sapmachine-jre-musl-26.0.2.1
 sapmachine-jre-musl-27
+sapmachine-jre-musl-27.0.1
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.11
 sapmachine-musl-17.0.12
@@ -3994,6 +4005,7 @@ sapmachine-musl-21.0.10.0.1
 sapmachine-musl-21.0.11
 sapmachine-musl-21.0.12
 sapmachine-musl-21.0.12.1
+sapmachine-musl-21.0.13
 sapmachine-musl-21.0.2
 sapmachine-musl-21.0.3
 sapmachine-musl-21.0.4
@@ -4017,11 +4029,13 @@ sapmachine-musl-25.0.2
 sapmachine-musl-25.0.3
 sapmachine-musl-25.0.4
 sapmachine-musl-25.0.4.1
+sapmachine-musl-25.0.5
 sapmachine-musl-26
 sapmachine-musl-26.0.1
 sapmachine-musl-26.0.2
 sapmachine-musl-26.0.2.1
 sapmachine-musl-27
+sapmachine-musl-27.0.1
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
