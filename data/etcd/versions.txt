@@ -273,6 +273,7 @@
 3.5.32
 3.5.33
 3.5.34
+3.5.35
 3.5.4
 3.5.5
 3.5.6
@@ -344,6 +345,7 @@ api/v3.5.31
 api/v3.5.32
 api/v3.5.33
 api/v3.5.34
+api/v3.5.35
 api/v3.5.4
 api/v3.5.5
 api/v3.5.6
@@ -414,6 +416,7 @@ client/pkg/v3.5.31
 client/pkg/v3.5.32
 client/pkg/v3.5.33
 client/pkg/v3.5.34
+client/pkg/v3.5.35
 client/pkg/v3.5.4
 client/pkg/v3.5.5
 client/pkg/v3.5.6
@@ -485,6 +488,7 @@ client/v2.305.31
 client/v2.305.32
 client/v2.305.33
 client/v2.305.34
+client/v2.305.35
 client/v2.305.4
 client/v2.305.5
 client/v2.305.6
@@ -530,6 +534,7 @@ client/v3.5.31
 client/v3.5.32
 client/v3.5.33
 client/v3.5.34
+client/v3.5.35
 client/v3.5.4
 client/v3.5.5
 client/v3.5.6
@@ -601,6 +606,7 @@ etcdctl/v3.5.31
 etcdctl/v3.5.32
 etcdctl/v3.5.33
 etcdctl/v3.5.34
+etcdctl/v3.5.35
 etcdctl/v3.5.4
 etcdctl/v3.5.5
 etcdctl/v3.5.6
@@ -671,6 +677,7 @@ etcdutl/v3.5.31
 etcdutl/v3.5.32
 etcdutl/v3.5.33
 etcdutl/v3.5.34
+etcdutl/v3.5.35
 etcdutl/v3.5.4
 etcdutl/v3.5.5
 etcdutl/v3.5.6
@@ -742,6 +749,7 @@ pkg/v3.5.31
 pkg/v3.5.32
 pkg/v3.5.33
 pkg/v3.5.34
+pkg/v3.5.35
 pkg/v3.5.4
 pkg/v3.5.5
 pkg/v3.5.6
@@ -813,6 +821,7 @@ raft/v3.5.31
 raft/v3.5.32
 raft/v3.5.33
 raft/v3.5.34
+raft/v3.5.35
 raft/v3.5.4
 raft/v3.5.5
 raft/v3.5.6
@@ -855,6 +864,7 @@ server/v3.5.31
 server/v3.5.32
 server/v3.5.33
 server/v3.5.34
+server/v3.5.35
 server/v3.5.4
 server/v3.5.5
 server/v3.5.6
@@ -926,6 +936,7 @@ tests/v3.5.31
 tests/v3.5.32
 tests/v3.5.33
 tests/v3.5.34
+tests/v3.5.35
 tests/v3.5.4
 tests/v3.5.5
 tests/v3.5.6
