@@ -96,6 +96,7 @@ adoptopenjdk-17.0.19+10
 adoptopenjdk-17.0.2+8
 adoptopenjdk-17.0.20+101
 adoptopenjdk-17.0.20+8
+adoptopenjdk-17.0.21+9
 adoptopenjdk-17.0.3+7
 adoptopenjdk-17.0.4+101
 adoptopenjdk-17.0.4+8
@@ -275,6 +276,7 @@ adoptopenjdk-jre-17.0.19+10
 adoptopenjdk-jre-17.0.2+8
 adoptopenjdk-jre-17.0.20+101
 adoptopenjdk-jre-17.0.20+8
+adoptopenjdk-jre-17.0.21+9
 adoptopenjdk-jre-17.0.3+7
 adoptopenjdk-jre-17.0.4+101
 adoptopenjdk-jre-17.0.4+8
@@ -3823,6 +3825,7 @@ sapmachine-26.0.2
 sapmachine-26.0.2.1
 sapmachine-27
 sapmachine-27.0.1
+sapmachine-27.0.1.0.2
 sapmachine-jre-10.0.1.10
 sapmachine-jre-10.0.2.13
 sapmachine-jre-10.46
@@ -3949,6 +3952,7 @@ sapmachine-jre-26.0.2
 sapmachine-jre-26.0.2.1
 sapmachine-jre-27
 sapmachine-jre-27.0.1
+sapmachine-jre-27.0.1.0.2
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.11
 sapmachine-jre-musl-17.0.12
@@ -4019,6 +4023,7 @@ sapmachine-jre-musl-26.0.2
 sapmachine-jre-musl-26.0.2.1
 sapmachine-jre-musl-27
 sapmachine-jre-musl-27.0.1
+sapmachine-jre-musl-27.0.1.0.2
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.11
 sapmachine-musl-17.0.12
@@ -4089,6 +4094,7 @@ sapmachine-musl-26.0.2
 sapmachine-musl-26.0.2.1
 sapmachine-musl-27
 sapmachine-musl-27.0.1
+sapmachine-musl-27.0.1.0.2
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
@@ -4435,6 +4441,7 @@ temurin-17.0.19+10
 temurin-17.0.2+8
 temurin-17.0.20+101
 temurin-17.0.20+8
+temurin-17.0.21+9
 temurin-17.0.3+7
 temurin-17.0.4+101
 temurin-17.0.4+8
@@ -4553,6 +4560,7 @@ temurin-jre-17.0.19+10
 temurin-jre-17.0.2+8
 temurin-jre-17.0.20+101
 temurin-jre-17.0.20+8
+temurin-jre-17.0.21+9
 temurin-jre-17.0.3+7
 temurin-jre-17.0.4+101
 temurin-jre-17.0.4+8
