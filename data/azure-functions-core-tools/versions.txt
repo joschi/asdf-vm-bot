@@ -248,6 +248,7 @@ bundles/v4.6.0-experimental.1
 bundles/v4.6.0-experimental.2
 dotnet-stack/v1.0.0-preview.1
 dotnet-stack/v1.0.0-preview.2
+dotnet-stack/v1.0.0-preview.3
 dotnet-templates/v1.0.1
 go-stack/v1.0.0-preview.1
 go-stack/v1.0.0-preview.2
@@ -255,18 +256,22 @@ go-worker/v1.0.0-preview.1
 host/v4.1048.200-preview.1
 host/v4.1048.200-preview.2
 host/v4.1048.200-preview.3
+host/v4.1054.200-preview.3
 java-stack/v1.0.0-preview.1
 java-stack/v1.0.0-preview.2
 java-worker/v2.19.4-preview.1
+java-worker/v2.19.5-preview.1
 node-stack/v1.0.0-preview.1
 node-stack/v1.0.0-preview.2
 node-templates/v1.0.1
 node-templates/v1.0.1-experimental.1
 node-templates/v1.0.1-preview.1
 node-worker/v3.13.0-preview.1
+node-worker/v3.16.0-preview.1
 powershell-stack/v1.0.0-preview.1
 powershell-stack/v1.0.0-preview.2
 powershell-worker/v4.0.4778-preview.1
+powershell-worker/v4.0.5362-preview.1
 python-stack/v1.0.0-preview.1
 python-stack/v1.0.0-preview.2
 python-templates/v1.0.1
@@ -275,4 +280,5 @@ python-templates/v1.0.1-preview.1
 python-worker/v4.43.0-preview.1
 python-worker/v4.43.0-preview.2
 python-worker/v4.43.0-preview.3
+python-worker/v4.46.0-preview.3
 release/new-test-lk
