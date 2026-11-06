@@ -404,6 +404,7 @@ adoptopenjdk-jre-musl-11.0.30+7
 adoptopenjdk-jre-musl-11.0.31+11
 adoptopenjdk-jre-musl-11.0.32+101
 adoptopenjdk-jre-musl-11.0.32+9
+adoptopenjdk-jre-musl-11.0.33+10
 adoptopenjdk-jre-musl-17.0.1+12
 adoptopenjdk-jre-musl-17.0.10+7
 adoptopenjdk-jre-musl-17.0.11+9
@@ -495,6 +496,7 @@ adoptopenjdk-jre-musl-8.0.482+8
 adoptopenjdk-jre-musl-8.0.492+9
 adoptopenjdk-jre-musl-8.0.502+7
 adoptopenjdk-jre-musl-8.0.504+1
+adoptopenjdk-jre-musl-8.0.512+9
 adoptopenjdk-jre-openj9-11.0.0+28.OpenJDK11-jre_x64_linux_openj9_11_28.tar.gz
 adoptopenjdk-jre-openj9-11.0.10+9.openj9-0.24.0
 adoptopenjdk-jre-openj9-11.0.11+9.openj9-0.26.0
@@ -643,6 +645,7 @@ adoptopenjdk-musl-11.0.30+7
 adoptopenjdk-musl-11.0.31+11
 adoptopenjdk-musl-11.0.32+101
 adoptopenjdk-musl-11.0.32+9
+adoptopenjdk-musl-11.0.33+10
 adoptopenjdk-musl-16.0.2+7
 adoptopenjdk-musl-17.0.0+35
 adoptopenjdk-musl-17.0.1+12
@@ -737,6 +740,7 @@ adoptopenjdk-musl-8.0.482+8
 adoptopenjdk-musl-8.0.492+9
 adoptopenjdk-musl-8.0.502+7
 adoptopenjdk-musl-8.0.504+1
+adoptopenjdk-musl-8.0.512+9
 adoptopenjdk-openj9-10.0.2+13.openj9-0.9.0
 adoptopenjdk-openj9-11.0.0+28.OpenJDK11-jdk_x64_linux_openj9_11_28.tar.gz
 adoptopenjdk-openj9-11.0.1+13.openj9-0.11.0
@@ -4855,6 +4859,7 @@ temurin-jre-musl-11.0.30+7
 temurin-jre-musl-11.0.31+11
 temurin-jre-musl-11.0.32+101
 temurin-jre-musl-11.0.32+9
+temurin-jre-musl-11.0.33+10
 temurin-jre-musl-17.0.1+12
 temurin-jre-musl-17.0.10+7
 temurin-jre-musl-17.0.11+9
@@ -4946,6 +4951,7 @@ temurin-jre-musl-8.0.482+8
 temurin-jre-musl-8.0.492+9
 temurin-jre-musl-8.0.502+7
 temurin-jre-musl-8.0.504+1
+temurin-jre-musl-8.0.512+9
 temurin-musl-11.0.13+8
 temurin-musl-11.0.14+101
 temurin-musl-11.0.14+9
@@ -4970,6 +4976,7 @@ temurin-musl-11.0.30+7
 temurin-musl-11.0.31+11
 temurin-musl-11.0.32+101
 temurin-musl-11.0.32+9
+temurin-musl-11.0.33+10
 temurin-musl-16.0.2+7
 temurin-musl-17.0.0+35
 temurin-musl-17.0.1+12
@@ -5064,6 +5071,7 @@ temurin-musl-8.0.482+8
 temurin-musl-8.0.492+9
 temurin-musl-8.0.502+7
 temurin-musl-8.0.504+1
+temurin-musl-8.0.512+9
 trava-11.0.1+1
 trava-11.0.1+2
 trava-11.0.1+3
