@@ -243,10 +243,13 @@ bug-bash/2.0.1
 bug-bash/bundles/v4.35.0
 bug-bash/templates/v1.0.0
 bundles/v4.35.0
+bundles/v4.39.1
 bundles/v4.42.0-preview.1
 bundles/v4.42.0-preview.2
+bundles/v4.50.0-preview.1
 bundles/v4.6.0-experimental.1
 bundles/v4.6.0-experimental.2
+bundles/v4.8.0-experimental.1
 dotnet-stack/v1.0.0-preview.1
 dotnet-stack/v1.0.0-preview.2
 dotnet-stack/v1.0.0-preview.3
@@ -259,6 +262,7 @@ host/v4.1048.200-preview.1
 host/v4.1048.200-preview.2
 host/v4.1048.200-preview.3
 host/v4.1054.200-preview.3
+host/v4.1055.100-preview.1
 java-stack/v1.0.0-preview.1
 java-stack/v1.0.0-preview.2
 java-worker/v2.19.4-preview.1
@@ -270,10 +274,12 @@ node-templates/v1.0.1-experimental.1
 node-templates/v1.0.1-preview.1
 node-worker/v3.13.0-preview.1
 node-worker/v3.16.0-preview.1
+node-worker/v3.16.1-preview.1
 powershell-stack/v1.0.0-preview.1
 powershell-stack/v1.0.0-preview.2
 powershell-worker/v4.0.4778-preview.1
 powershell-worker/v4.0.5362-preview.1
+powershell-worker/v4.0.5489-preview.1
 python-stack/v1.0.0-preview.1
 python-stack/v1.0.0-preview.2
 python-templates/v1.0.1
