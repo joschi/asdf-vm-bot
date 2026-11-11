@@ -1485,6 +1485,7 @@ ibm-jre-openj9-8.0.8.60
 ibm-jre-openj9-8.0.8.65
 ibm-jre-openj9-8.0.8.70
 ibm-jre-openj9-8.0.8.71
+ibm-jre-openj9-8.0.8.75
 ibm-openj9-8.0.8.26
 ibm-openj9-8.0.8.30
 ibm-openj9-8.0.8.35
@@ -1497,6 +1498,7 @@ ibm-openj9-8.0.8.60
 ibm-openj9-8.0.8.65
 ibm-openj9-8.0.8.70
 ibm-openj9-8.0.8.71
+ibm-openj9-8.0.8.75
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -5448,6 +5450,7 @@ zulu-crac-17.64.17
 zulu-crac-17.66.19
 zulu-crac-17.68.19
 zulu-crac-17.68.203
+zulu-crac-17.70.113
 zulu-crac-21.28.89
 zulu-crac-21.30.19
 zulu-crac-21.30.19_1
@@ -5464,6 +5467,7 @@ zulu-crac-21.48.17
 zulu-crac-21.50.19
 zulu-crac-21.52.17
 zulu-crac-21.52.203
+zulu-crac-21.54.109
 zulu-crac-22.28.93
 zulu-crac-22.30.13
 zulu-crac-22.32.17
@@ -5482,11 +5486,13 @@ zulu-crac-25.32.23
 zulu-crac-25.34.17
 zulu-crac-25.36.17
 zulu-crac-25.36.205
+zulu-crac-25.38.109
 zulu-crac-26.28.61
 zulu-crac-26.30.11
 zulu-crac-26.32.15
 zulu-crac-26.32.203
 zulu-crac-27.28.101
+zulu-crac-27.30.109
 zulu-crac-musl-17.46.29
 zulu-crac-musl-17.48.15
 zulu-crac-musl-17.50.19
@@ -5500,6 +5506,7 @@ zulu-crac-musl-17.64.17
 zulu-crac-musl-17.66.19
 zulu-crac-musl-17.68.19
 zulu-crac-musl-17.68.203
+zulu-crac-musl-17.70.113
 zulu-crac-musl-21.30.23
 zulu-crac-musl-21.32.17
 zulu-crac-musl-21.34.19
@@ -5513,6 +5520,7 @@ zulu-crac-musl-21.48.17
 zulu-crac-musl-21.50.19
 zulu-crac-musl-21.52.17
 zulu-crac-musl-21.52.203
+zulu-crac-musl-21.54.109
 zulu-crac-musl-22.28.93
 zulu-crac-musl-22.30.13
 zulu-crac-musl-22.32.17
@@ -5531,11 +5539,13 @@ zulu-crac-musl-25.32.23
 zulu-crac-musl-25.34.17
 zulu-crac-musl-25.36.17
 zulu-crac-musl-25.36.205
+zulu-crac-musl-25.38.109
 zulu-crac-musl-26.28.61
 zulu-crac-musl-26.30.11
 zulu-crac-musl-26.32.15
 zulu-crac-musl-26.32.203
 zulu-crac-musl-27.28.101
+zulu-crac-musl-27.30.109
 zulu-javafx-11.2.5
 zulu-javafx-11.29.3
 zulu-javafx-11.31.11
@@ -5950,6 +5960,7 @@ zulu-jre-crac-17.64.17
 zulu-jre-crac-17.66.19
 zulu-jre-crac-17.68.19
 zulu-jre-crac-17.68.203
+zulu-jre-crac-17.70.113
 zulu-jre-crac-21.28.89
 zulu-jre-crac-21.30.19
 zulu-jre-crac-21.30.19_1
@@ -5967,6 +5978,7 @@ zulu-jre-crac-21.48.17
 zulu-jre-crac-21.50.19
 zulu-jre-crac-21.52.17
 zulu-jre-crac-21.52.203
+zulu-jre-crac-21.54.109
 zulu-jre-crac-22.28.93
 zulu-jre-crac-22.30.13
 zulu-jre-crac-22.30.15
@@ -5986,11 +5998,13 @@ zulu-jre-crac-25.32.23
 zulu-jre-crac-25.34.17
 zulu-jre-crac-25.36.17
 zulu-jre-crac-25.36.205
+zulu-jre-crac-25.38.109
 zulu-jre-crac-26.28.61
 zulu-jre-crac-26.30.11
 zulu-jre-crac-26.32.15
 zulu-jre-crac-26.32.203
 zulu-jre-crac-27.28.101
+zulu-jre-crac-27.30.109
 zulu-jre-crac-musl-17.46.29
 zulu-jre-crac-musl-17.48.15
 zulu-jre-crac-musl-17.50.21
@@ -6004,6 +6018,7 @@ zulu-jre-crac-musl-17.64.17
 zulu-jre-crac-musl-17.66.19
 zulu-jre-crac-musl-17.68.19
 zulu-jre-crac-musl-17.68.203
+zulu-jre-crac-musl-17.70.113
 zulu-jre-crac-musl-21.30.23
 zulu-jre-crac-musl-21.32.17
 zulu-jre-crac-musl-21.34.21
@@ -6017,6 +6032,7 @@ zulu-jre-crac-musl-21.48.17
 zulu-jre-crac-musl-21.50.19
 zulu-jre-crac-musl-21.52.17
 zulu-jre-crac-musl-21.52.203
+zulu-jre-crac-musl-21.54.109
 zulu-jre-crac-musl-22.30.15
 zulu-jre-crac-musl-22.32.17
 zulu-jre-crac-musl-22.32.21
@@ -6034,11 +6050,13 @@ zulu-jre-crac-musl-25.32.23
 zulu-jre-crac-musl-25.34.17
 zulu-jre-crac-musl-25.36.17
 zulu-jre-crac-musl-25.36.205
+zulu-jre-crac-musl-25.38.109
 zulu-jre-crac-musl-26.28.61
 zulu-jre-crac-musl-26.30.11
 zulu-jre-crac-musl-26.32.15
 zulu-jre-crac-musl-26.32.203
 zulu-jre-crac-musl-27.28.101
+zulu-jre-crac-musl-27.30.109
 zulu-jre-javafx-11.29.3
 zulu-jre-javafx-11.31.11
 zulu-jre-javafx-11.33.15
