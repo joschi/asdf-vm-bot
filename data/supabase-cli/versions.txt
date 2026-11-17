@@ -2296,6 +2296,8 @@
 3.2.0-beta.8
 3.2.0-beta.9
 3.3.0-beta.1
+3.3.0-beta.2
+3.3.0-beta.3
 4.0.0-next.1
 4.0.0-next.10
 4.0.0-next.11
@@ -2316,7 +2318,10 @@
 4.0.0-next.25
 4.0.0-next.26
 4.0.0-next.27
+4.0.0-next.28
+4.0.0-next.29
 4.0.0-next.3
+4.0.0-next.30
 4.0.0-next.4
 4.0.0-next.5
 4.0.0-next.6
@@ -2358,6 +2363,7 @@ config-v1.5.0
 config-v1.6.0
 config-v1.6.1
 config-v1.7.0
+config-v1.8.0
 old
 pkg/v1.0.0
 pkg/v1.0.1
